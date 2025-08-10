@@ -1,0 +1,2058 @@
+2025-08-09 20:26:16,845 - INFO - Starting ENHANCED batch scrape of 100 keywords
+2025-08-09 20:26:16,845 - INFO - Results will be saved to: scraping_results\malappuram_businesses_enhanced_20250809_202616
+2025-08-09 20:26:16,845 - INFO - Starting from keyword index: 0
+2025-08-09 20:26:16,845 - INFO - NEW FEATURES: Google Maps URL, Place ID, Coordinates, Enhanced Services, Photos Count, etc.
+2025-08-09 20:26:16,845 - INFO - 
+==================================================
+2025-08-09 20:26:16,846 - INFO - Processing 1/100: bakery malappuram
+2025-08-09 20:26:16,846 - INFO - ==================================================
+2025-08-09 20:26:34,597 - INFO - [bakery malappuram] Found: 12 (Scroll: 1)
+2025-08-09 20:26:36,640 - INFO - [bakery malappuram] Found: 18 (Scroll: 2)
+2025-08-09 20:26:38,662 - INFO - [bakery malappuram] Found: 20 (Scroll: 3)
+2025-08-09 20:26:40,692 - INFO - [bakery malappuram] Found: 20 (Scroll: 4)
+2025-08-09 20:26:42,721 - INFO - [bakery malappuram] Found: 26 (Scroll: 5)
+2025-08-09 20:26:44,763 - INFO - [bakery malappuram] Found: 32 (Scroll: 6)
+2025-08-09 20:26:46,787 - INFO - [bakery malappuram] Found: 38 (Scroll: 7)
+2025-08-09 20:26:48,820 - INFO - [bakery malappuram] Found: 40 (Scroll: 8)
+2025-08-09 20:26:50,856 - INFO - [bakery malappuram] Found: 46 (Scroll: 9)
+2025-08-09 20:26:52,904 - INFO - [bakery malappuram] Found: 52 (Scroll: 10)
+2025-08-09 20:26:54,935 - INFO - [bakery malappuram] Found: 58 (Scroll: 11)
+2025-08-09 20:26:56,972 - INFO - [bakery malappuram] Found: 60 (Scroll: 12)
+2025-08-09 20:26:58,998 - INFO - [bakery malappuram] Found: 60 (Scroll: 13)
+2025-08-09 20:27:01,026 - INFO - [bakery malappuram] Found: 66 (Scroll: 14)
+2025-08-09 20:27:03,076 - INFO - [bakery malappuram] Found: 72 (Scroll: 15)
+2025-08-09 20:27:05,127 - INFO - [bakery malappuram] Found: 78 (Scroll: 16)
+2025-08-09 20:27:07,160 - INFO - [bakery malappuram] Found: 80 (Scroll: 17)
+2025-08-09 20:27:09,203 - INFO - [bakery malappuram] Found: 80 (Scroll: 18)
+2025-08-09 20:27:11,249 - INFO - [bakery malappuram] Found: 80 (Scroll: 19)
+2025-08-09 20:27:13,281 - INFO - [bakery malappuram] Found: 80 (Scroll: 20)
+2025-08-09 20:27:15,324 - INFO - [bakery malappuram] Found: 86 (Scroll: 21)
+2025-08-09 20:27:17,374 - INFO - [bakery malappuram] Found: 92 (Scroll: 22)
+2025-08-09 20:27:19,407 - INFO - [bakery malappuram] Found: 98 (Scroll: 23)
+2025-08-09 20:27:21,442 - INFO - [bakery malappuram] Found: 100 (Scroll: 24)
+2025-08-09 20:27:23,468 - INFO - [bakery malappuram] Found: 106 (Scroll: 25)
+2025-08-09 20:27:25,503 - INFO - [bakery malappuram] Found: 112 (Scroll: 26)
+2025-08-09 20:27:27,537 - INFO - [bakery malappuram] Found: 118 (Scroll: 27)
+2025-08-09 20:27:29,564 - INFO - [bakery malappuram] Found: 120 (Scroll: 28)
+2025-08-09 20:27:31,600 - INFO - [bakery malappuram] Found: 120 (Scroll: 29)
+2025-08-09 20:27:33,637 - INFO - [bakery malappuram] Found: 120 (Scroll: 30)
+2025-08-09 20:27:35,660 - INFO - [bakery malappuram] Found: 120 (Scroll: 31)
+2025-08-09 20:27:37,704 - INFO - [bakery malappuram] Found: 120 (Scroll: 32)
+2025-08-09 20:27:39,741 - INFO - [bakery malappuram] Found: 120 (Scroll: 33)
+2025-08-09 20:27:41,769 - INFO - [bakery malappuram] Found: 120 (Scroll: 34)
+2025-08-09 20:27:43,799 - INFO - [bakery malappuram] Found: 120 (Scroll: 35)
+2025-08-09 20:27:45,838 - INFO - [bakery malappuram] Found: 120 (Scroll: 36)
+2025-08-09 20:27:45,838 - INFO - [bakery malappuram] No more results after 36 scrolls
+2025-08-09 20:27:47,248 - INFO - [bakery malappuram] Total unique listings: 114
+2025-08-09 20:27:52,442 - INFO - [bakery malappuram] [OK] 1/114: Sweedish Cakes,Cafe & Restaurant
+2025-08-09 20:27:57,477 - INFO - [bakery malappuram] [OK] 2/114: KR bakes
+2025-08-09 20:28:02,542 - INFO - [bakery malappuram] [OK] 3/114: Famous Bakery
+2025-08-09 20:28:07,481 - INFO - [bakery malappuram] [OK] 4/114: The Tasty Bakes
+2025-08-09 20:28:12,525 - INFO - [bakery malappuram] [OK] 5/114: Six Star Bakery
+2025-08-09 20:28:17,603 - INFO - [bakery malappuram] [OK] 6/114: APM Bakes & Cake House
+2025-08-09 20:28:22,719 - INFO - [bakery malappuram] [OK] 7/114: INDIAN BAKES & CAFE
+2025-08-09 20:28:27,844 - INFO - [bakery malappuram] [OK] 8/114: KR BAKERY
+2025-08-09 20:28:32,798 - INFO - [bakery malappuram] [OK] 9/114: BAKING HUT
+2025-08-09 20:28:37,747 - INFO - [bakery malappuram] [OK] 10/114: Nila Bake House
+2025-08-09 20:28:42,718 - INFO - [bakery malappuram] [OK] 11/114: Madeena Coolbar & Bakery
+2025-08-09 20:28:47,800 - INFO - [bakery malappuram] [OK] 12/114: KKM BAKES
+2025-08-09 20:28:52,715 - INFO - [bakery malappuram] [OK] 13/114: Honest Bakery
+2025-08-09 20:28:57,613 - INFO - [bakery malappuram] [OK] 14/114: APM BAKERY
+2025-08-09 20:29:02,532 - INFO - [bakery malappuram] [OK] 15/114: STAR BAKES
+2025-08-09 20:29:07,551 - INFO - [bakery malappuram] [OK] 16/114: Cake Villa Malappuram
+2025-08-09 20:29:13,760 - INFO - [bakery malappuram] [OK] 17/114: K.R Bakery
+2025-08-09 20:29:18,798 - INFO - [bakery malappuram] [OK] 18/114: Malappuram Smoocho
+2025-08-09 20:29:24,053 - INFO - [bakery malappuram] [OK] 19/114: CALICUT HALWA STALL & BAKERY
+2025-08-09 20:29:29,071 - INFO - [bakery malappuram] [OK] 20/114: KKM KOZHIKODAN HALUVA STALL, Live Bakes & Dry Fruts (കെ കെ എം കോഴിക്കോടൻ ഹലുവ സ്റ്റാൾ),Kunnummal Malappuram
+2025-08-09 20:29:34,152 - INFO - [bakery malappuram] [OK] 21/114: Milano Bakes
+2025-08-09 20:29:39,121 - INFO - [bakery malappuram] [OK] 22/114: The Bakesbay
+2025-08-09 20:29:44,119 - INFO - [bakery malappuram] [OK] 23/114: Cookie Dough Cake & Chocolate
+2025-08-09 20:29:49,116 - INFO - [bakery malappuram] [OK] 24/114: Abco Bakes & Cakes
+2025-08-09 20:29:54,283 - INFO - [bakery malappuram] [OK] 25/114: Top cakes
+2025-08-09 20:29:59,285 - INFO - [bakery malappuram] [OK] 26/114: KKM BAKES
+2025-08-09 20:30:04,316 - INFO - [bakery malappuram] [OK] 27/114: Modern bakes
+2025-08-09 20:30:09,245 - INFO - [bakery malappuram] [OK] 28/114: INDIAN BAKES & CAFE
+2025-08-09 20:30:14,224 - INFO - [bakery malappuram] [OK] 29/114: MAMATHA BAKERY & RESTAURANT
+2025-08-09 20:30:19,226 - INFO - [bakery malappuram] [OK] 30/114: Cakesbay
+2025-08-09 20:30:24,258 - INFO - [bakery malappuram] [OK] 31/114: Swadisht Bakery
+2025-08-09 20:30:29,217 - INFO - [bakery malappuram] [OK] 32/114: BANIYAS BAKERY
+2025-08-09 20:30:34,186 - INFO - [bakery malappuram] [OK] 33/114: Cake Studio | Manjeri
+2025-08-09 20:30:39,213 - INFO - [bakery malappuram] [OK] 34/114: Choice Bakery , Makkaraparamba
+2025-08-09 20:30:44,357 - INFO - [bakery malappuram] [OK] 35/114: SIX STAR BAKERY
+2025-08-09 20:30:49,640 - INFO - [bakery malappuram] [OK] 36/114: SanaBakery, Coolbar & Stationary
+2025-08-09 20:30:54,804 - INFO - [bakery malappuram] [OK] 37/114: Royal bakery
+2025-08-09 20:30:59,831 - INFO - [bakery malappuram] [OK] 38/114: Bun Bakes Hot&Cool
+2025-08-09 20:31:04,839 - INFO - [bakery malappuram] [OK] 39/114: Vk Bakery
+2025-08-09 20:31:09,827 - INFO - [bakery malappuram] [OK] 40/114: KKM KOZHIKODAN HALUVA STALL, Live Bakes, Snacks & Dry Fruts (കെ കെ എം കോഴിക്കോടൻ ഹലുവ സ്റ്റാൾ)
+2025-08-09 20:31:14,839 - INFO - [bakery malappuram] [OK] 41/114: Kargil Bakery
+2025-08-09 20:31:19,864 - INFO - [bakery malappuram] [OK] 42/114: Kutty's Bakery
+2025-08-09 20:31:24,841 - INFO - [bakery malappuram] [OK] 43/114: KR Bakery Malappuram Road Manjeri
+2025-08-09 20:31:29,907 - INFO - [bakery malappuram] [OK] 44/114: OVEN BAKES
+2025-08-09 20:31:34,902 - INFO - [bakery malappuram] [OK] 45/114: Alfa Sweets
+2025-08-09 20:31:39,890 - INFO - [bakery malappuram] [OK] 46/114: Malappuram Down hill
+2025-08-09 20:31:44,898 - INFO - [bakery malappuram] [OK] 47/114: Yummy cakes at Manjeri
+2025-08-09 20:31:50,029 - INFO - [bakery malappuram] [OK] 48/114: Alankar Bakes & Restaurant
+2025-08-09 20:31:55,018 - INFO - [bakery malappuram] [OK] 49/114: Ajwa Bakery
+2025-08-09 20:32:00,081 - INFO - [bakery malappuram] [OK] 50/114: Ashraf Store
+2025-08-09 20:32:05,016 - INFO - [bakery malappuram] [OK] 51/114: Zayan bakes
+2025-08-09 20:32:10,014 - INFO - [bakery malappuram] [OK] 52/114: Chillis Bakes & Restaurant
+2025-08-09 20:32:14,919 - INFO - [bakery malappuram] [OK] 53/114: Madurima Bakery
+2025-08-09 20:32:19,865 - INFO - [bakery malappuram] [OK] 54/114: Spunge Cakes And Cafe
+2025-08-09 20:32:24,850 - INFO - [bakery malappuram] [OK] 55/114: OGES Bakery
+2025-08-09 20:32:29,818 - INFO - [bakery malappuram] [OK] 56/114: Apple Bakery
+2025-08-09 20:32:34,848 - INFO - [bakery malappuram] [OK] 57/114: Best Bakery
+2025-08-09 20:32:39,828 - INFO - [bakery malappuram] [OK] 58/114: KRB BAKERY
+2025-08-09 20:32:44,834 - INFO - [bakery malappuram] [OK] 59/114: Boofiya Al Noor
+2025-08-09 20:32:49,840 - INFO - [bakery malappuram] [OK] 60/114: Spunge cakes and cafe
+2025-08-09 20:32:54,888 - INFO - [bakery malappuram] [OK] 61/114: The Oven Bakes
+2025-08-09 20:32:59,916 - INFO - [bakery malappuram] [OK] 62/114: Puliyangal
+2025-08-09 20:33:04,827 - INFO - [bakery malappuram] [OK] 63/114: cake.stories
+2025-08-09 20:33:09,821 - INFO - [bakery malappuram] [OK] 64/114: Best Bakery Mongam
+2025-08-09 20:33:14,829 - INFO - [bakery malappuram] [OK] 65/114: HAP daily
+2025-08-09 20:33:19,795 - INFO - [bakery malappuram] [OK] 66/114: APM BAKES AND CAKE HOUSE
+2025-08-09 20:33:24,765 - INFO - [bakery malappuram] [OK] 67/114: KK BAKERY
+2025-08-09 20:33:29,785 - INFO - [bakery malappuram] [OK] 68/114: Pookottur sarbath
+2025-08-09 20:33:35,234 - INFO - [bakery malappuram] [OK] 69/114: SWEET LAND LIVE
+2025-08-09 20:33:40,236 - INFO - [bakery malappuram] [SKIP] Duplicate: SWEET LAND LIVE
+2025-08-09 20:33:45,224 - INFO - [bakery malappuram] [OK] 70/114: FRIENDS
+2025-08-09 20:33:50,210 - INFO - [bakery malappuram] [OK] 71/114: HONEY bakes&cool
+2025-08-09 20:33:55,488 - INFO - [bakery malappuram] [OK] 72/114: Fine bakery and coolbar
+2025-08-09 20:34:00,430 - INFO - [bakery malappuram] [SKIP] Duplicate: Fine bakery and coolbar
+2025-08-09 20:34:05,453 - INFO - [bakery malappuram] [OK] 73/114: ZLM PC BAKERY KARATHODE
+2025-08-09 20:34:10,407 - INFO - [bakery malappuram] [OK] 74/114: Madhurima Bakery
+2025-08-09 20:34:15,493 - INFO - [bakery malappuram] [OK] 75/114: Fig Bakes
+2025-08-09 20:34:20,515 - INFO - [bakery malappuram] [OK] 76/114: MADEENA Bakery and Stationary
+2025-08-09 20:34:25,480 - INFO - [bakery malappuram] [OK] 77/114: Budget Hypermarket Malappuram
+2025-08-09 20:34:30,436 - INFO - [bakery malappuram] [OK] 78/114: Iru
+2025-08-09 20:34:35,382 - INFO - [bakery malappuram] [OK] 79/114: Sugar bond
+2025-08-09 20:34:40,530 - INFO - [bakery malappuram] [OK] 80/114: ICE BERG Bakery& Coolbar
+2025-08-09 20:34:45,549 - INFO - [bakery malappuram] [OK] 81/114: Golden Bakery & Halwa Stall
+2025-08-09 20:34:50,560 - INFO - [bakery malappuram] [OK] 82/114: Kozhikkoden Haluwa Stall & Bakery
+2025-08-09 20:34:55,785 - INFO - [bakery malappuram] [OK] 83/114: KKM bakes
+2025-08-09 20:35:00,794 - INFO - [bakery malappuram] [OK] 84/114: KALAVARA HOTEL
+2025-08-09 20:35:05,923 - INFO - [bakery malappuram] [OK] 85/114: Hotel Delicia
+2025-08-09 20:35:10,985 - INFO - [bakery malappuram] [OK] 86/114: MARHABA CHICKENS
+2025-08-09 20:35:16,287 - INFO - [bakery malappuram] [OK] 87/114: SUPREME BAKERY
+2025-08-09 20:35:21,439 - INFO - [bakery malappuram] [SKIP] Duplicate: SUPREME BAKERY
+2025-08-09 20:35:26,494 - INFO - [bakery malappuram] [OK] 88/114: New Fairoos Bakery
+2025-08-09 20:35:31,489 - INFO - [bakery malappuram] [OK] 89/114: Mio Bakes
+2025-08-09 20:35:36,546 - INFO - [bakery malappuram] [OK] 90/114: Emerat Cafe & Bakery
+2025-08-09 20:35:41,568 - INFO - [bakery malappuram] [OK] 91/114: TASTY LIVE CHIPS
+2025-08-09 20:35:46,576 - INFO - [bakery malappuram] [OK] 92/114: Nehal Bakes
+2025-08-09 20:35:51,511 - INFO - [bakery malappuram] [OK] 93/114: BAKERS KRAFT MALAPPURAM
+2025-08-09 20:35:56,479 - INFO - [bakery malappuram] [OK] 94/114: Relish Bakery & Cool Bar
+2025-08-09 20:36:01,443 - INFO - [bakery malappuram] [OK] 95/114: Cake studio | Malappuram
+2025-08-09 20:36:06,438 - INFO - [bakery malappuram] [OK] 96/114: zam zam bakery
+2025-08-09 20:36:11,418 - INFO - [bakery malappuram] [OK] 97/114: Pari Bakery
+2025-08-09 20:36:16,465 - INFO - [bakery malappuram] [OK] 98/114: Bismi Bakery & Coolbar
+2025-08-09 20:36:21,454 - INFO - [bakery malappuram] [OK] 99/114: Doublefresh cakes
+2025-08-09 20:36:26,685 - INFO - [bakery malappuram] [OK] 100/114: Amana Fruits - Bakery & Coolbar
+2025-08-09 20:36:31,831 - INFO - [bakery malappuram] [SKIP] Duplicate: Amana Fruits - Bakery & Coolbar
+2025-08-09 20:36:36,910 - INFO - [bakery malappuram] [OK] 101/114: Sabnas Home Bake's
+2025-08-09 20:36:41,898 - INFO - [bakery malappuram] [OK] 102/114: UK BAKERY & COOLBAR
+2025-08-09 20:36:46,865 - INFO - [bakery malappuram] [OK] 103/114: MESS HOUSE
+2025-08-09 20:36:52,055 - INFO - [bakery malappuram] [OK] 104/114: Pulliyil
+2025-08-09 20:36:57,081 - INFO - [bakery malappuram] [OK] 105/114: Badar Sweets
+2025-08-09 20:37:02,106 - INFO - [bakery malappuram] [OK] 106/114: Happy backery
+2025-08-09 20:37:06,973 - INFO - [bakery malappuram] [OK] 107/114: OGES fastfood, bakery
+2025-08-09 20:37:11,911 - INFO - [bakery malappuram] [OK] 108/114: Rental On Hire Coimbatore
+2025-08-09 20:37:16,887 - INFO - [bakery malappuram] [OK] 109/114: Fresco Bakes
+2025-08-09 20:37:22,052 - INFO - [bakery malappuram] [OK] 110/114: Elaneer palace
+2025-08-09 20:37:22,052 - INFO - [bakery malappuram] FINAL: 110 places extracted
+2025-08-09 20:37:22,819 - INFO - Saved 110 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\bakery_malappuram.csv
+2025-08-09 20:37:22,831 - INFO - Saved 110 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 20:37:22,832 - INFO - bakery malappuram: Found 110 places
+2025-08-09 20:37:24,834 - INFO - 
+==================================================
+2025-08-09 20:37:24,834 - INFO - Processing 2/100: bakery manjeri
+2025-08-09 20:37:24,834 - INFO - ==================================================
+2025-08-09 20:37:41,809 - INFO - [bakery manjeri] Found: 12 (Scroll: 1)
+2025-08-09 20:37:43,850 - INFO - [bakery manjeri] Found: 18 (Scroll: 2)
+2025-08-09 20:37:45,877 - INFO - [bakery manjeri] Found: 20 (Scroll: 3)
+2025-08-09 20:37:47,911 - INFO - [bakery manjeri] Found: 26 (Scroll: 4)
+2025-08-09 20:37:49,933 - INFO - [bakery manjeri] Found: 32 (Scroll: 5)
+2025-08-09 20:37:52,174 - INFO - [bakery manjeri] Found: 38 (Scroll: 6)
+2025-08-09 20:37:54,202 - INFO - [bakery manjeri] Found: 40 (Scroll: 7)
+2025-08-09 20:37:56,229 - INFO - [bakery manjeri] Found: 46 (Scroll: 8)
+2025-08-09 20:37:58,276 - INFO - [bakery manjeri] Found: 52 (Scroll: 9)
+2025-08-09 20:38:00,312 - INFO - [bakery manjeri] Found: 58 (Scroll: 10)
+2025-08-09 20:38:02,342 - INFO - [bakery manjeri] Found: 60 (Scroll: 11)
+2025-08-09 20:38:04,384 - INFO - [bakery manjeri] Found: 66 (Scroll: 12)
+2025-08-09 20:38:06,425 - INFO - [bakery manjeri] Found: 72 (Scroll: 13)
+2025-08-09 20:38:08,469 - INFO - [bakery manjeri] Found: 78 (Scroll: 14)
+2025-08-09 20:38:10,515 - INFO - [bakery manjeri] Found: 80 (Scroll: 15)
+2025-08-09 20:38:12,557 - INFO - [bakery manjeri] Found: 86 (Scroll: 16)
+2025-08-09 20:38:14,605 - INFO - [bakery manjeri] Found: 92 (Scroll: 17)
+2025-08-09 20:38:16,635 - INFO - [bakery manjeri] Found: 98 (Scroll: 18)
+2025-08-09 20:38:18,689 - INFO - [bakery manjeri] Found: 98 (Scroll: 19)
+2025-08-09 20:38:20,726 - INFO - [bakery manjeri] Found: 98 (Scroll: 20)
+2025-08-09 20:38:22,769 - INFO - [bakery manjeri] Found: 98 (Scroll: 21)
+2025-08-09 20:38:24,815 - INFO - [bakery manjeri] Found: 98 (Scroll: 22)
+2025-08-09 20:38:26,844 - INFO - [bakery manjeri] Found: 98 (Scroll: 23)
+2025-08-09 20:38:28,874 - INFO - [bakery manjeri] Found: 98 (Scroll: 24)
+2025-08-09 20:38:30,905 - INFO - [bakery manjeri] Found: 98 (Scroll: 25)
+2025-08-09 20:38:32,936 - INFO - [bakery manjeri] Found: 98 (Scroll: 26)
+2025-08-09 20:38:32,936 - INFO - [bakery manjeri] No more results after 26 scrolls
+2025-08-09 20:38:34,184 - INFO - [bakery manjeri] Total unique listings: 92
+2025-08-09 20:38:40,314 - INFO - [bakery manjeri] [OK] 1/92: KR Bakery & Restaurant Kacherippadi
+2025-08-09 20:38:45,420 - INFO - [bakery manjeri] [OK] 2/92: Yummy cakes at Manjeri
+2025-08-09 20:38:50,500 - INFO - [bakery manjeri] [OK] 3/92: HILTON CAKE AND CAFE
+2025-08-09 20:38:55,660 - INFO - [bakery manjeri] [OK] 4/92: K.R. Bakery & Restaurant manjeri Thurakkal
+2025-08-09 20:39:00,828 - INFO - [bakery manjeri] [OK] 5/92: The Oven Bakes
+2025-08-09 20:39:05,870 - INFO - [bakery manjeri] [OK] 6/92: Nila Bake House
+2025-08-09 20:39:10,942 - INFO - [bakery manjeri] [OK] 7/92: Brisk Bakery
+2025-08-09 20:39:16,173 - INFO - [bakery manjeri] [OK] 8/92: Cake Studio | Manjeri
+2025-08-09 20:39:21,286 - INFO - [bakery manjeri] [OK] 9/92: KR Bakery Pandikad Road Manjeri
+2025-08-09 20:39:26,398 - INFO - [bakery manjeri] [OK] 10/92: KR Bakery & Restaurant Cherani,manjeri
+2025-08-09 20:39:31,502 - INFO - [bakery manjeri] [OK] 11/92: Cafe Al Bacio
+2025-08-09 20:39:36,740 - INFO - [bakery manjeri] [OK] 12/92: OGES Bakery
+2025-08-09 20:39:41,835 - INFO - [bakery manjeri] [OK] 13/92: Cake zone live cake
+2025-08-09 20:39:46,909 - INFO - [bakery manjeri] [OK] 14/92: Sulthan bakes
+2025-08-09 20:39:51,870 - INFO - [bakery manjeri] [OK] 15/92: Olene Canto Bakes (IGBT - Manjeri)
+2025-08-09 20:39:56,914 - INFO - [bakery manjeri] [OK] 16/92: Brown Beans Cafe
+2025-08-09 20:40:02,001 - INFO - [bakery manjeri] [OK] 17/92: Sign Laban
+2025-08-09 20:40:07,089 - INFO - [bakery manjeri] [OK] 18/92: Sugary treats
+2025-08-09 20:40:12,271 - INFO - [bakery manjeri] [OK] 19/92: sweets land wholesale & retail bakery in manjeri
+2025-08-09 20:40:17,374 - INFO - [bakery manjeri] [OK] 20/92: SAFA BAKERY
+2025-08-09 20:40:22,811 - INFO - [bakery manjeri] [OK] 21/92: Golden Bakery & Halwa Stall
+2025-08-09 20:40:27,869 - INFO - [bakery manjeri] [OK] 22/92: KR Bakery Malappuram Road Manjeri
+2025-08-09 20:40:32,810 - INFO - [bakery manjeri] [OK] 23/92: Bake 'n' Taste
+2025-08-09 20:40:37,827 - INFO - [bakery manjeri] [OK] 24/92: Jaza bakery's
+2025-08-09 20:40:42,990 - INFO - [bakery manjeri] [OK] 25/92: KR Bakery & Restaurant Muttipalam ,Manjeri
+2025-08-09 20:40:47,965 - INFO - [bakery manjeri] [OK] 26/92: K6 Bakery
+2025-08-09 20:40:53,172 - INFO - [bakery manjeri] [OK] 27/92: Jaseela Bakery Coffee And Cool Bar
+2025-08-09 20:40:58,295 - INFO - [bakery manjeri] [OK] 28/92: Fasna Bakery
+2025-08-09 20:41:03,269 - INFO - [bakery manjeri] [OK] 29/92: ROYAL BAKERY AND COOLBAR
+2025-08-09 20:41:08,311 - INFO - [bakery manjeri] [OK] 30/92: Olene Canto Bakes & Restaurant (Anakkayam - Manjeri)
+2025-08-09 20:41:13,401 - INFO - [bakery manjeri] [OK] 31/92: sweet cakes
+2025-08-09 20:41:18,484 - INFO - [bakery manjeri] [OK] 32/92: Beirut Delights ( Lebanese Bakery)
+2025-08-09 20:41:23,529 - INFO - [bakery manjeri] [OK] 33/92: lots.crème
+2025-08-09 20:41:28,549 - INFO - [bakery manjeri] [OK] 34/92: KC Bakery
+2025-08-09 20:41:33,579 - INFO - [bakery manjeri] [OK] 35/92: Calicut Sweets bakes&cafe
+2025-08-09 20:41:38,956 - INFO - [bakery manjeri] [OK] 36/92: Le Délice by Riza
+2025-08-09 20:41:44,062 - INFO - [bakery manjeri] [OK] 37/92: CAKE HOUSE
+2025-08-09 20:41:49,156 - INFO - [bakery manjeri] [OK] 38/92: Emerat Cafe & Bakery
+2025-08-09 20:41:54,235 - INFO - [bakery manjeri] [OK] 39/92: ENZO BAKERY
+2025-08-09 20:41:59,267 - INFO - [bakery manjeri] [OK] 40/92: BAKE OFF
+2025-08-09 20:42:04,376 - INFO - [bakery manjeri] [OK] 41/92: Tasty Foods - Chappathi Company
+2025-08-09 20:42:09,413 - INFO - [bakery manjeri] [OK] 42/92: Khajur dates and nuts
+2025-08-09 20:42:14,406 - INFO - [bakery manjeri] [OK] 43/92: Salala Bakery cool bar & Stationary
+2025-08-09 20:42:19,439 - INFO - [bakery manjeri] [OK] 44/92: Sweets Land manjeri
+2025-08-09 20:42:24,496 - INFO - [bakery manjeri] [OK] 45/92: Bake n Cook HOMEMADE CAKES & FOOD SERVICE
+2025-08-09 20:42:30,716 - INFO - [bakery manjeri] [OK] 46/92: MA COOLBAR
+2025-08-09 20:42:35,781 - INFO - [bakery manjeri] [OK] 47/92: മഞ്ചേരി
+2025-08-09 20:42:40,797 - INFO - [bakery manjeri] [OK] 48/92: FASU PE COFFEE MALL
+2025-08-09 20:42:45,790 - INFO - [bakery manjeri] [OK] 49/92: Caramelt Cakes
+2025-08-09 20:42:50,851 - INFO - [bakery manjeri] [OK] 50/92: KALAVARA HOTEL
+2025-08-09 20:42:55,893 - INFO - [bakery manjeri] [OK] 51/92: APPLE BAKERY
+2025-08-09 20:43:00,863 - INFO - [bakery manjeri] [OK] 52/92: Lulu bakery & Lulu fried Chikken
+2025-08-09 20:43:05,909 - INFO - [bakery manjeri] [OK] 53/92: HAP daily
+2025-08-09 20:43:10,884 - INFO - [bakery manjeri] [OK] 54/92: SWEET LAND
+2025-08-09 20:43:15,890 - INFO - [bakery manjeri] [OK] 55/92: Cafe Coffee @ MC Road
+2025-08-09 20:43:21,165 - INFO - [bakery manjeri] [OK] 56/92: Kerala Bakery
+2025-08-09 20:43:26,123 - INFO - [bakery manjeri] [OK] 57/92: Nannas Home Fresh
+2025-08-09 20:43:31,366 - INFO - [bakery manjeri] [OK] 58/92: BISMILLAH BAKERY
+2025-08-09 20:43:36,355 - INFO - [bakery manjeri] [OK] 59/92: MARVA BAKERY
+2025-08-09 20:43:41,357 - INFO - [bakery manjeri] [OK] 60/92: V.K Bakery
+2025-08-09 20:43:46,341 - INFO - [bakery manjeri] [OK] 61/92: FARSA RESTAURANT
+2025-08-09 20:43:51,305 - INFO - [bakery manjeri] [OK] 62/92: Hotel Oottupura
+2025-08-09 20:43:56,326 - INFO - [bakery manjeri] [OK] 63/92: Budget Hyper Market Manjeri
+2025-08-09 20:44:01,373 - INFO - [bakery manjeri] [OK] 64/92: S M swwets llp
+2025-08-09 20:44:06,523 - INFO - [bakery manjeri] [OK] 65/92: 40cold boost
+2025-08-09 20:44:11,563 - INFO - [bakery manjeri] [OK] 66/92: Beyond Bakes by Chef Remy
+2025-08-09 20:44:16,570 - INFO - [bakery manjeri] [OK] 67/92: Olene Canto Bakes & Restaurant (Pandikkad Road - Manjeri)
+2025-08-09 20:44:21,569 - INFO - [bakery manjeri] [OK] 68/92: At Now Hypermart Manjeri
+2025-08-09 20:44:26,666 - INFO - [bakery manjeri] [OK] 69/92: Laica Bakes and Restaurant
+2025-08-09 20:44:31,714 - INFO - [bakery manjeri] [OK] 70/92: Chittathupara
+2025-08-09 20:44:36,708 - INFO - [bakery manjeri] [OK] 71/92: Apple store Manjeri
+2025-08-09 20:44:41,838 - INFO - [bakery manjeri] [OK] 72/92: SULTHAN MAJLIS
+2025-08-09 20:44:46,879 - INFO - [bakery manjeri] [OK] 73/92: Kareparamb
+2025-08-09 20:44:51,823 - INFO - [bakery manjeri] [OK] 74/92: K.R Bakery
+2025-08-09 20:44:57,071 - INFO - [bakery manjeri] [OK] 75/92: KK BAKERY
+2025-08-09 20:45:02,063 - INFO - [bakery manjeri] [OK] 76/92: Cool Palace
+2025-08-09 20:45:07,124 - INFO - [bakery manjeri] [OK] 77/92: Kozhikkoden Haluwa Stall & Bakery
+2025-08-09 20:45:12,105 - INFO - [bakery manjeri] [OK] 78/92: NEW PMK
+2025-08-09 20:45:17,098 - INFO - [bakery manjeri] [OK] 79/92: MK Coolbar
+2025-08-09 20:45:22,189 - INFO - [bakery manjeri] [OK] 80/92: Cafe_cakezone
+2025-08-09 20:45:27,191 - INFO - [bakery manjeri] [OK] 81/92: Daily chips
+2025-08-09 20:45:32,165 - INFO - [bakery manjeri] [OK] 82/92: ABDUL MAJEED KALATHINGAL
+2025-08-09 20:45:37,184 - INFO - [bakery manjeri] [OK] 83/92: P'S BAKERY & COOLBAR
+2025-08-09 20:45:42,172 - INFO - [bakery manjeri] [OK] 84/92: Bakeypie
+2025-08-09 20:45:47,095 - INFO - [bakery manjeri] [OK] 85/92: RAYA BAKERY
+2025-08-09 20:45:52,120 - INFO - [bakery manjeri] [OK] 86/92: Sithus cakery
+2025-08-09 20:45:57,116 - INFO - [bakery manjeri] [OK] 87/92: Zain Bakery & Coolbar
+2025-08-09 20:46:02,145 - INFO - [bakery manjeri] [OK] 88/92: Manjari old bus stand near Ojas Bakery
+2025-08-09 20:46:07,195 - INFO - [bakery manjeri] [OK] 89/92: Afnan
+2025-08-09 20:46:12,187 - INFO - [bakery manjeri] [OK] 90/92: Grama Bakes & Sweets
+2025-08-09 20:46:17,240 - INFO - [bakery manjeri] [OK] 91/92: Shahanas P
+2025-08-09 20:46:22,226 - INFO - [bakery manjeri] [OK] 92/92: Auto
+2025-08-09 20:46:22,226 - INFO - [bakery manjeri] FINAL: 92 places extracted
+2025-08-09 20:46:22,999 - INFO - Saved 92 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\bakery_manjeri.csv
+2025-08-09 20:46:23,034 - INFO - Removed duplicates, final count: 202
+2025-08-09 20:46:23,043 - INFO - Saved 202 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 20:46:23,043 - INFO - bakery manjeri: Found 92 places
+2025-08-09 20:46:25,045 - INFO - 
+==================================================
+2025-08-09 20:46:25,045 - INFO - Processing 3/100: bakery perinthalmanna
+2025-08-09 20:46:25,045 - INFO - ==================================================
+2025-08-09 20:46:41,997 - INFO - [bakery perinthalmanna] Found: 12 (Scroll: 1)
+2025-08-09 20:46:44,022 - INFO - [bakery perinthalmanna] Found: 18 (Scroll: 2)
+2025-08-09 20:46:46,056 - INFO - [bakery perinthalmanna] Found: 20 (Scroll: 3)
+2025-08-09 20:46:48,089 - INFO - [bakery perinthalmanna] Found: 26 (Scroll: 4)
+2025-08-09 20:46:50,130 - INFO - [bakery perinthalmanna] Found: 32 (Scroll: 5)
+2025-08-09 20:46:52,161 - INFO - [bakery perinthalmanna] Found: 38 (Scroll: 6)
+2025-08-09 20:46:54,197 - INFO - [bakery perinthalmanna] Found: 40 (Scroll: 7)
+2025-08-09 20:46:56,228 - INFO - [bakery perinthalmanna] Found: 46 (Scroll: 8)
+2025-08-09 20:46:58,276 - INFO - [bakery perinthalmanna] Found: 52 (Scroll: 9)
+2025-08-09 20:47:00,304 - INFO - [bakery perinthalmanna] Found: 58 (Scroll: 10)
+2025-08-09 20:47:02,337 - INFO - [bakery perinthalmanna] Found: 60 (Scroll: 11)
+2025-08-09 20:47:04,373 - INFO - [bakery perinthalmanna] Found: 66 (Scroll: 12)
+2025-08-09 20:47:06,416 - INFO - [bakery perinthalmanna] Found: 72 (Scroll: 13)
+2025-08-09 20:47:08,457 - INFO - [bakery perinthalmanna] Found: 78 (Scroll: 14)
+2025-08-09 20:47:10,492 - INFO - [bakery perinthalmanna] Found: 80 (Scroll: 15)
+2025-08-09 20:47:12,534 - INFO - [bakery perinthalmanna] Found: 86 (Scroll: 16)
+2025-08-09 20:47:14,584 - INFO - [bakery perinthalmanna] Found: 92 (Scroll: 17)
+2025-08-09 20:47:16,621 - INFO - [bakery perinthalmanna] Found: 98 (Scroll: 18)
+2025-08-09 20:47:18,661 - INFO - [bakery perinthalmanna] Found: 100 (Scroll: 19)
+2025-08-09 20:47:20,694 - INFO - [bakery perinthalmanna] Found: 100 (Scroll: 20)
+2025-08-09 20:47:22,742 - INFO - [bakery perinthalmanna] Found: 100 (Scroll: 21)
+2025-08-09 20:47:24,780 - INFO - [bakery perinthalmanna] Found: 100 (Scroll: 22)
+2025-08-09 20:47:26,820 - INFO - [bakery perinthalmanna] Found: 100 (Scroll: 23)
+2025-08-09 20:47:28,856 - INFO - [bakery perinthalmanna] Found: 100 (Scroll: 24)
+2025-08-09 20:47:30,897 - INFO - [bakery perinthalmanna] Found: 100 (Scroll: 25)
+2025-08-09 20:47:32,926 - INFO - [bakery perinthalmanna] Found: 100 (Scroll: 26)
+2025-08-09 20:47:34,964 - INFO - [bakery perinthalmanna] Found: 100 (Scroll: 27)
+2025-08-09 20:47:34,964 - INFO - [bakery perinthalmanna] No more results after 27 scrolls
+2025-08-09 20:47:36,162 - INFO - [bakery perinthalmanna] Total unique listings: 100
+2025-08-09 20:47:41,516 - INFO - [bakery perinthalmanna] [OK] 1/100: K.R Bakes
+2025-08-09 20:47:46,509 - INFO - [bakery perinthalmanna] [OK] 2/100: Abis Bakes
+2025-08-09 20:47:51,482 - INFO - [bakery perinthalmanna] [OK] 3/100: Derby Cakes Best Cake In Perinthalmanna
+2025-08-09 20:47:56,543 - INFO - [bakery perinthalmanna] [OK] 4/100: Ennas Bakery
+2025-08-09 20:48:01,535 - INFO - [bakery perinthalmanna] [OK] 5/100: Nila Bake House Perinthalmanna
+2025-08-09 20:48:06,562 - INFO - [bakery perinthalmanna] [OK] 6/100: Bake O'Live
+2025-08-09 20:48:11,519 - INFO - [bakery perinthalmanna] [OK] 7/100: HummyTum Cakes
+2025-08-09 20:48:16,489 - INFO - [bakery perinthalmanna] [OK] 8/100: Cake Land @ Bakery Tools | Dry Fruits & Nuts | Cake Shop
+2025-08-09 20:48:21,561 - INFO - [bakery perinthalmanna] [OK] 9/100: Shanu's Home Made Cakes (Makin' Sweet Dough)
+2025-08-09 20:48:26,706 - INFO - [bakery perinthalmanna] [OK] 10/100: Cake Lakes
+2025-08-09 20:48:31,788 - INFO - [bakery perinthalmanna] [OK] 11/100: Cakestry Perinthalmanna
+2025-08-09 20:48:36,883 - INFO - [bakery perinthalmanna] [OK] 12/100: New Fairoos Bakery
+2025-08-09 20:48:41,924 - INFO - [bakery perinthalmanna] [OK] 13/100: Hot Buns Bakery
+2025-08-09 20:48:46,903 - INFO - [bakery perinthalmanna] [OK] 14/100: Sign Laban
+2025-08-09 20:48:51,872 - INFO - [bakery perinthalmanna] [OK] 15/100: GOLDEN BAKES
+2025-08-09 20:48:57,105 - INFO - [bakery perinthalmanna] [OK] 16/100: AKS Bakery
+2025-08-09 20:49:02,108 - INFO - [bakery perinthalmanna] [OK] 17/100: Capella Bakes
+2025-08-09 20:49:07,091 - INFO - [bakery perinthalmanna] [OK] 18/100: Nest Bakery
+2025-08-09 20:49:12,163 - INFO - [bakery perinthalmanna] [OK] 19/100: Planet Cafe
+2025-08-09 20:49:17,161 - INFO - [bakery perinthalmanna] [OK] 20/100: Golden Bakery
+2025-08-09 20:49:22,133 - INFO - [bakery perinthalmanna] [OK] 21/100: Unnithan's Bakery
+2025-08-09 20:49:27,171 - INFO - [bakery perinthalmanna] [OK] 22/100: Leem Bakery Perinthalmanna
+2025-08-09 20:49:32,248 - INFO - [bakery perinthalmanna] [OK] 23/100: Casa Mia Bakery
+2025-08-09 20:49:37,278 - INFO - [bakery perinthalmanna] [OK] 24/100: Famous Bakery
+2025-08-09 20:49:42,448 - INFO - [bakery perinthalmanna] [OK] 25/100: MOM AND ME CAKES
+2025-08-09 20:49:47,452 - INFO - [bakery perinthalmanna] [OK] 26/100: KP BAKERY AVILMILK
+2025-08-09 20:49:52,397 - INFO - [bakery perinthalmanna] [OK] 27/100: Cheerattamanna
+2025-08-09 20:49:57,346 - INFO - [bakery perinthalmanna] [OK] 28/100: Royal Bakes
+2025-08-09 20:50:02,335 - INFO - [bakery perinthalmanna] [OK] 29/100: Brothers Bakery Arabian Foods
+2025-08-09 20:50:07,343 - INFO - [bakery perinthalmanna] [OK] 30/100: Turkish kitchen
+2025-08-09 20:50:12,292 - INFO - [bakery perinthalmanna] [OK] 31/100: CAKE WORLD
+2025-08-09 20:50:17,262 - INFO - [bakery perinthalmanna] [OK] 32/100: Red Sea Bakery Hot & Cool
+2025-08-09 20:50:22,258 - INFO - [bakery perinthalmanna] [OK] 33/100: SINAN KANJI STALL
+2025-08-09 20:50:27,257 - INFO - [bakery perinthalmanna] [OK] 34/100: Bake & Pack
+2025-08-09 20:50:32,239 - INFO - [bakery perinthalmanna] [OK] 35/100: Unnithan's Bakery
+2025-08-09 20:50:37,257 - INFO - [bakery perinthalmanna] [OK] 36/100: Hummy tum cakes
+2025-08-09 20:50:42,311 - INFO - [bakery perinthalmanna] [OK] 37/100: KR Bakes and Restaurant
+2025-08-09 20:50:47,258 - INFO - [bakery perinthalmanna] [OK] 38/100: Ks Bakery
+2025-08-09 20:50:52,208 - INFO - [bakery perinthalmanna] [OK] 39/100: Febina Bakery
+2025-08-09 20:50:57,204 - INFO - [bakery perinthalmanna] [OK] 40/100: MEEZAN BAKERY
+2025-08-09 20:51:02,240 - INFO - [bakery perinthalmanna] [OK] 41/100: GOLD STONE BAKERY & COOLBAR
+2025-08-09 20:51:07,266 - INFO - [bakery perinthalmanna] [OK] 42/100: Food Book
+2025-08-09 20:51:12,215 - INFO - [bakery perinthalmanna] [OK] 43/100: British Bakes
+2025-08-09 20:51:17,129 - INFO - [bakery perinthalmanna] [OK] 44/100: GOLDEN BAKES
+2025-08-09 20:51:22,115 - INFO - [bakery perinthalmanna] [OK] 45/100: Malabar bakery
+2025-08-09 20:51:27,098 - INFO - [bakery perinthalmanna] [OK] 46/100: Cakeria
+2025-08-09 20:51:32,047 - INFO - [bakery perinthalmanna] [OK] 47/100: Bake for me
+2025-08-09 20:51:36,972 - INFO - [bakery perinthalmanna] [OK] 48/100: Salahudheen P K
+2025-08-09 20:51:41,948 - INFO - [bakery perinthalmanna] [OK] 49/100: PMH Bakes And Cool Bar
+2025-08-09 20:51:46,926 - INFO - [bakery perinthalmanna] [OK] 50/100: Apple Bakery
+2025-08-09 20:51:51,897 - INFO - [bakery perinthalmanna] [OK] 51/100: Moothayil Store 24 Hour
+2025-08-09 20:51:56,856 - INFO - [bakery perinthalmanna] [OK] 52/100: ZAITUN BAKES AND CAFETERIA
+2025-08-09 20:52:01,825 - INFO - [bakery perinthalmanna] [OK] 53/100: Br bakes
+2025-08-09 20:52:06,913 - INFO - [bakery perinthalmanna] [OK] 54/100: Smoocho Perinthalmanna
+2025-08-09 20:52:11,870 - INFO - [bakery perinthalmanna] [OK] 55/100: TBR BAKERY
+2025-08-09 20:52:16,821 - INFO - [bakery perinthalmanna] [OK] 56/100: Shas kitchen cake and bakes
+2025-08-09 20:52:21,797 - INFO - [bakery perinthalmanna] [OK] 57/100: Marhaba
+2025-08-09 20:52:26,741 - INFO - [bakery perinthalmanna] [OK] 58/100: Tea Hub
+2025-08-09 20:52:31,768 - INFO - [bakery perinthalmanna] [OK] 59/100: Cocoa tree Perinthalmanna
+2025-08-09 20:52:36,830 - INFO - [bakery perinthalmanna] [OK] 60/100: S N Bakery
+2025-08-09 20:52:41,863 - INFO - [bakery perinthalmanna] [OK] 61/100: N. K. Bakery
+2025-08-09 20:52:46,801 - INFO - [bakery perinthalmanna] [OK] 62/100: APM BAKERY
+2025-08-09 20:52:51,793 - INFO - [bakery perinthalmanna] [OK] 63/100: Cranberry Nuts&Dryfruits
+2025-08-09 20:52:56,799 - INFO - [bakery perinthalmanna] [OK] 64/100: Fresh Shop
+2025-08-09 20:53:01,859 - INFO - [bakery perinthalmanna] [OK] 65/100: Vanitha Hotel
+2025-08-09 20:53:06,906 - INFO - [bakery perinthalmanna] [OK] 66/100: Olive Super Market perinthalmanna
+2025-08-09 20:53:11,891 - INFO - [bakery perinthalmanna] [OK] 67/100: Unnithan's Bakery
+2025-08-09 20:53:16,872 - INFO - [bakery perinthalmanna] [OK] 68/100: K M Bakery
+2025-08-09 20:53:21,795 - INFO - [bakery perinthalmanna] [OK] 69/100: Fishsale
+2025-08-09 20:53:26,888 - INFO - [bakery perinthalmanna] [OK] 70/100: Live Chips & Bakery
+2025-08-09 20:53:31,973 - INFO - [bakery perinthalmanna] [OK] 71/100: Thalir Bakery
+2025-08-09 20:53:37,031 - INFO - [bakery perinthalmanna] [OK] 72/100: APSARA BAKERY
+2025-08-09 20:53:41,990 - INFO - [bakery perinthalmanna] [OK] 73/100: SHAZA BAKERY
+2025-08-09 20:53:47,024 - INFO - [bakery perinthalmanna] [OK] 74/100: KHADEEJA K
+2025-08-09 20:53:52,034 - INFO - [bakery perinthalmanna] [OK] 75/100: MF BAKERY
+2025-08-09 20:53:56,981 - INFO - [bakery perinthalmanna] [OK] 76/100: Esha cakes
+2025-08-09 20:54:01,978 - INFO - [bakery perinthalmanna] [OK] 77/100: APM Bakes & Cake House
+2025-08-09 20:54:07,024 - INFO - [bakery perinthalmanna] [OK] 78/100: Sugarlove Fine Pastry
+2025-08-09 20:54:12,061 - INFO - [bakery perinthalmanna] [OK] 79/100: Maniyanthra Bakery
+2025-08-09 20:54:17,140 - INFO - [bakery perinthalmanna] [OK] 80/100: Honey Cakes Cheerattamala
+2025-08-09 20:54:22,141 - INFO - [bakery perinthalmanna] [OK] 81/100: BEST BAKERY
+2025-08-09 20:54:27,146 - INFO - [bakery perinthalmanna] [OK] 82/100: Friends Bakery
+2025-08-09 20:54:32,140 - INFO - [bakery perinthalmanna] [OK] 83/100: Ten Degree North Sweets
+2025-08-09 20:54:37,224 - INFO - [bakery perinthalmanna] [OK] 84/100: Al Ameen Bakery
+2025-08-09 20:54:42,171 - INFO - [bakery perinthalmanna] [OK] 85/100: CAKE HOUSE
+2025-08-09 20:54:47,170 - INFO - [bakery perinthalmanna] [OK] 86/100: Niya Bakery & Cool Bar
+2025-08-09 20:54:52,176 - INFO - [bakery perinthalmanna] [OK] 87/100: JUICE CORNER
+2025-08-09 20:54:57,147 - INFO - [bakery perinthalmanna] [OK] 88/100: Ruchi Bakery
+2025-08-09 20:55:02,089 - INFO - [bakery perinthalmanna] [OK] 89/100: NOORIBAKERY
+2025-08-09 20:55:07,117 - INFO - [bakery perinthalmanna] [OK] 90/100: জামিন
+2025-08-09 20:55:12,196 - INFO - [bakery perinthalmanna] [OK] 91/100: Zara Cakes
+2025-08-09 20:55:17,303 - INFO - [bakery perinthalmanna] [OK] 92/100: Laura Cakes
+2025-08-09 20:55:22,286 - INFO - [bakery perinthalmanna] [OK] 93/100: ZAHRA FROZEN BAKE
+2025-08-09 20:55:27,357 - INFO - [bakery perinthalmanna] [OK] 94/100: CHANGATHI BAKERY&COOL BAR
+2025-08-09 20:55:32,370 - INFO - [bakery perinthalmanna] [OK] 95/100: CROWN BAKES
+2025-08-09 20:55:37,505 - INFO - [bakery perinthalmanna] [OK] 96/100: TM BAKERY
+2025-08-09 20:55:42,452 - INFO - [bakery perinthalmanna] [OK] 97/100: brownie cake shop
+2025-08-09 20:55:47,472 - INFO - [bakery perinthalmanna] [OK] 98/100: MAKHAN
+2025-08-09 20:55:52,443 - INFO - [bakery perinthalmanna] [OK] 99/100: Home made cakes perinthalmanna
+2025-08-09 20:55:57,396 - INFO - [bakery perinthalmanna] [OK] 100/100: Chocolate Shop
+2025-08-09 20:55:57,396 - INFO - [bakery perinthalmanna] FINAL: 100 places extracted
+2025-08-09 20:55:58,090 - INFO - Saved 100 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\bakery_perinthalmanna.csv
+2025-08-09 20:55:58,122 - INFO - Removed duplicates, final count: 302
+2025-08-09 20:55:58,204 - INFO - Saved 302 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 20:55:58,210 - INFO - bakery perinthalmanna: Found 100 places
+2025-08-09 20:56:00,213 - INFO - 
+==================================================
+2025-08-09 20:56:00,213 - INFO - Processing 4/100: bakery nilambur
+2025-08-09 20:56:00,213 - INFO - ==================================================
+2025-08-09 20:56:15,619 - INFO - [bakery nilambur] Found: 12 (Scroll: 1)
+2025-08-09 20:56:17,658 - INFO - [bakery nilambur] Found: 18 (Scroll: 2)
+2025-08-09 20:56:19,701 - INFO - [bakery nilambur] Found: 20 (Scroll: 3)
+2025-08-09 20:56:21,747 - INFO - [bakery nilambur] Found: 26 (Scroll: 4)
+2025-08-09 20:56:23,793 - INFO - [bakery nilambur] Found: 32 (Scroll: 5)
+2025-08-09 20:56:25,826 - INFO - [bakery nilambur] Found: 38 (Scroll: 6)
+2025-08-09 20:56:27,863 - INFO - [bakery nilambur] Found: 40 (Scroll: 7)
+2025-08-09 20:56:29,909 - INFO - [bakery nilambur] Found: 46 (Scroll: 8)
+2025-08-09 20:56:31,955 - INFO - [bakery nilambur] Found: 46 (Scroll: 9)
+2025-08-09 20:56:33,992 - INFO - [bakery nilambur] Found: 52 (Scroll: 10)
+2025-08-09 20:56:36,035 - INFO - [bakery nilambur] Found: 58 (Scroll: 11)
+2025-08-09 20:56:38,069 - INFO - [bakery nilambur] Found: 60 (Scroll: 12)
+2025-08-09 20:56:40,115 - INFO - [bakery nilambur] Found: 66 (Scroll: 13)
+2025-08-09 20:56:42,172 - INFO - [bakery nilambur] Found: 72 (Scroll: 14)
+2025-08-09 20:56:44,208 - INFO - [bakery nilambur] Found: 78 (Scroll: 15)
+2025-08-09 20:56:46,260 - INFO - [bakery nilambur] Found: 80 (Scroll: 16)
+2025-08-09 20:56:48,309 - INFO - [bakery nilambur] Found: 80 (Scroll: 17)
+2025-08-09 20:56:50,355 - INFO - [bakery nilambur] Found: 80 (Scroll: 18)
+2025-08-09 20:56:52,394 - INFO - [bakery nilambur] Found: 80 (Scroll: 19)
+2025-08-09 20:56:54,434 - INFO - [bakery nilambur] Found: 80 (Scroll: 20)
+2025-08-09 20:56:56,477 - INFO - [bakery nilambur] Found: 80 (Scroll: 21)
+2025-08-09 20:56:58,515 - INFO - [bakery nilambur] Found: 80 (Scroll: 22)
+2025-08-09 20:57:00,559 - INFO - [bakery nilambur] Found: 80 (Scroll: 23)
+2025-08-09 20:57:02,607 - INFO - [bakery nilambur] Found: 80 (Scroll: 24)
+2025-08-09 20:57:02,607 - INFO - [bakery nilambur] No more results after 24 scrolls
+2025-08-09 20:57:03,575 - INFO - [bakery nilambur] Total unique listings: 74
+2025-08-09 20:57:09,490 - INFO - [bakery nilambur] [OK] 1/74: CRISPELLO BAKES N RESTAURANT
+2025-08-09 20:57:14,543 - INFO - [bakery nilambur] [OK] 2/74: Unions United Bakery
+2025-08-09 20:57:19,625 - INFO - [bakery nilambur] [OK] 3/74: Lubis Bakes
+2025-08-09 20:57:24,703 - INFO - [bakery nilambur] [OK] 4/74: Achans Bakery nilambur
+2025-08-09 20:57:30,811 - INFO - [bakery nilambur] [OK] 5/74: Spanish Bakes & Cafe
+2025-08-09 20:57:36,176 - INFO - [bakery nilambur] [OK] 6/74: Turkish Bakers
+2025-08-09 20:57:41,117 - INFO - [bakery nilambur] [OK] 7/74: Honest Bakery, Nilambur
+2025-08-09 20:57:46,106 - INFO - [bakery nilambur] [OK] 8/74: Hummy tum cakes
+2025-08-09 20:57:51,100 - INFO - [bakery nilambur] [OK] 9/74: Cake world
+2025-08-09 20:57:56,062 - INFO - [bakery nilambur] [OK] 10/74: Kk Bakery
+2025-08-09 20:58:00,979 - INFO - [bakery nilambur] [OK] 11/74: NILAMBUR FOOD
+2025-08-09 20:58:05,874 - INFO - [bakery nilambur] [OK] 12/74: JANSAR ELAMKULAVAN - J&J BAKES
+2025-08-09 20:58:10,899 - INFO - [bakery nilambur] [OK] 13/74: BAB Home Made Bakery
+2025-08-09 20:58:15,851 - INFO - [bakery nilambur] [OK] 14/74: Shamla's Cakes & Pizzas, Opp. Nayara Petrol Pump, Pothukallu, NILAMBUR
+2025-08-09 20:58:20,816 - INFO - [bakery nilambur] [OK] 15/74: Cafe Latte™
+2025-08-09 20:58:25,856 - INFO - [bakery nilambur] [OK] 16/74: ZAM ZAM COOL and HOT Keerthippadi, Nilambur
+2025-08-09 20:58:30,843 - INFO - [bakery nilambur] [OK] 17/74: Best Bakery & Coolbar
+2025-08-09 20:58:35,839 - INFO - [bakery nilambur] [OK] 18/74: Carmel Bakers
+2025-08-09 20:58:40,810 - INFO - [bakery nilambur] [OK] 19/74: Budokan Corner
+2025-08-09 20:58:45,796 - INFO - [bakery nilambur] [OK] 20/74: ZARO’Z
+2025-08-09 20:58:50,801 - INFO - [bakery nilambur] [OK] 21/74: CP COOLBAR BAKERY
+2025-08-09 20:58:55,745 - INFO - [bakery nilambur] [OK] 22/74: Shan sweets and halwa
+2025-08-09 20:59:00,969 - INFO - [bakery nilambur] [OK] 23/74: Sasu's Avilmilk,juice,
+2025-08-09 20:59:05,898 - INFO - [bakery nilambur] [OK] 24/74: Athira bakery
+2025-08-09 20:59:10,841 - INFO - [bakery nilambur] [OK] 25/74: Royal Bakes
+2025-08-09 20:59:15,775 - INFO - [bakery nilambur] [OK] 26/74: Rest Bake House
+2025-08-09 20:59:20,805 - INFO - [bakery nilambur] [OK] 27/74: JUST CAKES
+2025-08-09 20:59:25,855 - INFO - [bakery nilambur] [OK] 28/74: SALEEM MUNDODAN
+2025-08-09 20:59:30,910 - INFO - [bakery nilambur] [OK] 29/74: Brothers Bakery Arabian Foods
+2025-08-09 20:59:35,862 - INFO - [bakery nilambur] [OK] 30/74: Bismi Bakery
+2025-08-09 20:59:40,873 - INFO - [bakery nilambur] [OK] 31/74: Achans Bakery Cafe & Juice Shop
+2025-08-09 20:59:45,884 - INFO - [bakery nilambur] [OK] 32/74: Mayavi cakes
+2025-08-09 20:59:50,835 - INFO - [bakery nilambur] [OK] 33/74: Apple Bakery
+2025-08-09 20:59:55,784 - INFO - [bakery nilambur] [OK] 34/74: Kuki Bakers
+2025-08-09 21:00:00,721 - INFO - [bakery nilambur] [OK] 35/74: VeePees Super Market & Bakery
+2025-08-09 21:00:05,760 - INFO - [bakery nilambur] [OK] 36/74: Bake Off
+2025-08-09 21:00:10,731 - INFO - [bakery nilambur] [OK] 37/74: Nila Bake House Perinthalmanna
+2025-08-09 21:00:15,670 - INFO - [bakery nilambur] [OK] 38/74: NADANS HOTEL
+2025-08-09 21:00:20,578 - INFO - [bakery nilambur] [OK] 39/74: JAMSHEER
+2025-08-09 21:00:25,522 - INFO - [bakery nilambur] [OK] 40/74: Hide Out
+2025-08-09 21:00:30,438 - INFO - [bakery nilambur] [OK] 41/74: Janathapadi Padikunnu
+2025-08-09 21:00:35,420 - INFO - [bakery nilambur] [OK] 42/74: Union Restaurant, Nilambur
+2025-08-09 21:00:40,355 - INFO - [bakery nilambur] [OK] 43/74: Panache Bakery
+2025-08-09 21:00:45,461 - INFO - [bakery nilambur] [OK] 44/74: I Bakes
+2025-08-09 21:00:50,505 - INFO - [bakery nilambur] [OK] 45/74: New Star Kanjirampadan
+2025-08-09 21:00:55,595 - INFO - [bakery nilambur] [OK] 46/74: Bilsha Bakery
+2025-08-09 21:01:00,673 - INFO - [bakery nilambur] [OK] 47/74: MALABAR BAKES AND FOOD COURT&ROOMS
+2025-08-09 21:01:05,594 - INFO - [bakery nilambur] [OK] 48/74: Indian Bakery
+2025-08-09 21:01:10,502 - INFO - [bakery nilambur] [OK] 49/74: LAL BAKERY
+2025-08-09 21:01:15,500 - INFO - [bakery nilambur] [OK] 50/74: Topz Bakery & Restaurant pookottumpadam
+2025-08-09 21:01:20,541 - INFO - [bakery nilambur] [OK] 51/74: Bakerie By Union
+2025-08-09 21:01:25,686 - INFO - [bakery nilambur] [OK] 52/74: Hotel Santhi Sagar
+2025-08-09 21:01:30,603 - INFO - [bakery nilambur] [OK] 53/74: M K BKERY
+2025-08-09 21:01:35,772 - INFO - [bakery nilambur] [OK] 54/74: Casamia Restaurant
+2025-08-09 21:01:40,882 - INFO - [bakery nilambur] [OK] 55/74: Kishkinda
+2025-08-09 21:01:46,025 - INFO - [bakery nilambur] [OK] 56/74: K R Bakery Edakkara
+2025-08-09 21:01:51,150 - INFO - [bakery nilambur] [OK] 57/74: Cake World Wandoor
+2025-08-09 21:01:56,207 - INFO - [bakery nilambur] [OK] 58/74: Honest Bakery
+2025-08-09 21:02:01,340 - INFO - [bakery nilambur] [OK] 59/74: New Choice Bakery KODASSERI
+2025-08-09 21:02:06,294 - INFO - [bakery nilambur] [OK] 60/74: Star Bakery & Coolbar
+2025-08-09 21:02:11,395 - INFO - [bakery nilambur] [OK] 61/74: Complete Cake Accessories & Cakes
+2025-08-09 21:02:16,309 - INFO - [bakery nilambur] [OK] 62/74: Bakeoff Bakery
+2025-08-09 21:02:21,246 - INFO - [bakery nilambur] [OK] 63/74: ROYAL BAKERY
+2025-08-09 21:02:26,279 - INFO - [bakery nilambur] [OK] 64/74: Derby cakes
+2025-08-09 21:02:31,284 - INFO - [bakery nilambur] [OK] 65/74: VARIETY BAKERY & COOLBAR
+2025-08-09 21:02:36,296 - INFO - [bakery nilambur] [OK] 66/74: Honey Bakes and Cafe
+2025-08-09 21:02:41,330 - INFO - [bakery nilambur] [OK] 67/74: AMIGO BAKES & COOLBAR
+2025-08-09 21:02:46,461 - INFO - [bakery nilambur] [OK] 68/74: Baked N' Fresh
+2025-08-09 21:02:51,366 - INFO - [bakery nilambur] [OK] 69/74: RASHEED K T
+2025-08-09 21:02:56,440 - INFO - [bakery nilambur] [OK] 70/74: ALUNGAL BAKERY & COOLBAR
+2025-08-09 21:03:01,442 - INFO - [bakery nilambur] [OK] 71/74: Nichoos COOLBAR & BAKERY
+2025-08-09 21:03:06,484 - INFO - [bakery nilambur] [OK] 72/74: Kallingal Bakery and Coolbar
+2025-08-09 21:03:11,414 - INFO - [bakery nilambur] [OK] 73/74: Aadhi bakery and coolbar
+2025-08-09 21:03:16,366 - INFO - [bakery nilambur] [OK] 74/74: Merena coolbar
+2025-08-09 21:03:16,367 - INFO - [bakery nilambur] FINAL: 74 places extracted
+2025-08-09 21:03:16,989 - INFO - Saved 74 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\bakery_nilambur.csv
+2025-08-09 21:03:17,007 - INFO - Removed duplicates, final count: 376
+2025-08-09 21:03:17,020 - INFO - Saved 376 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:03:17,020 - INFO - bakery nilambur: Found 74 places
+2025-08-09 21:03:19,022 - INFO - 
+==================================================
+2025-08-09 21:03:19,022 - INFO - Processing 5/100: bakery tirur
+2025-08-09 21:03:19,022 - INFO - ==================================================
+2025-08-09 21:03:36,789 - INFO - [bakery tirur] Found: 12 (Scroll: 1)
+2025-08-09 21:03:38,820 - INFO - [bakery tirur] Found: 18 (Scroll: 2)
+2025-08-09 21:03:40,844 - INFO - [bakery tirur] Found: 20 (Scroll: 3)
+2025-08-09 21:03:42,886 - INFO - [bakery tirur] Found: 26 (Scroll: 4)
+2025-08-09 21:03:44,928 - INFO - [bakery tirur] Found: 32 (Scroll: 5)
+2025-08-09 21:03:46,965 - INFO - [bakery tirur] Found: 38 (Scroll: 6)
+2025-08-09 21:03:48,986 - INFO - [bakery tirur] Found: 40 (Scroll: 7)
+2025-08-09 21:03:51,022 - INFO - [bakery tirur] Found: 46 (Scroll: 8)
+2025-08-09 21:03:53,078 - INFO - [bakery tirur] Found: 52 (Scroll: 9)
+2025-08-09 21:03:55,144 - INFO - [bakery tirur] Found: 58 (Scroll: 10)
+2025-08-09 21:03:57,185 - INFO - [bakery tirur] Found: 60 (Scroll: 11)
+2025-08-09 21:03:59,218 - INFO - [bakery tirur] Found: 66 (Scroll: 12)
+2025-08-09 21:04:01,265 - INFO - [bakery tirur] Found: 72 (Scroll: 13)
+2025-08-09 21:04:03,305 - INFO - [bakery tirur] Found: 78 (Scroll: 14)
+2025-08-09 21:04:05,355 - INFO - [bakery tirur] Found: 80 (Scroll: 15)
+2025-08-09 21:04:07,385 - INFO - [bakery tirur] Found: 86 (Scroll: 16)
+2025-08-09 21:04:09,447 - INFO - [bakery tirur] Found: 92 (Scroll: 17)
+2025-08-09 21:04:11,473 - INFO - [bakery tirur] Found: 98 (Scroll: 18)
+2025-08-09 21:04:13,514 - INFO - [bakery tirur] Found: 100 (Scroll: 19)
+2025-08-09 21:04:15,551 - INFO - [bakery tirur] Found: 103 (Scroll: 20)
+2025-08-09 21:04:17,596 - INFO - [bakery tirur] Found: 103 (Scroll: 21)
+2025-08-09 21:04:19,630 - INFO - [bakery tirur] Found: 103 (Scroll: 22)
+2025-08-09 21:04:21,660 - INFO - [bakery tirur] Found: 103 (Scroll: 23)
+2025-08-09 21:04:23,739 - INFO - [bakery tirur] Found: 103 (Scroll: 24)
+2025-08-09 21:04:26,481 - INFO - [bakery tirur] Found: 103 (Scroll: 25)
+2025-08-09 21:04:29,217 - INFO - [bakery tirur] Found: 103 (Scroll: 26)
+2025-08-09 21:04:31,255 - INFO - [bakery tirur] Found: 103 (Scroll: 27)
+2025-08-09 21:04:33,288 - INFO - [bakery tirur] Found: 103 (Scroll: 28)
+2025-08-09 21:04:33,288 - INFO - [bakery tirur] No more results after 28 scrolls
+2025-08-09 21:04:34,484 - INFO - [bakery tirur] Total unique listings: 94
+2025-08-09 21:04:39,586 - INFO - [bakery tirur] [OK] 1/94: MR Cakes
+2025-08-09 21:04:44,770 - INFO - [bakery tirur] [OK] 2/94: Metro Bakes
+2025-08-09 21:04:49,806 - INFO - [bakery tirur] [OK] 3/94: Spunge Cakes And Cafe
+2025-08-09 21:04:54,949 - INFO - [bakery tirur] [OK] 4/94: AR Bakery
+2025-08-09 21:05:00,107 - INFO - [bakery tirur] [OK] 5/94: OKKASHI CAKE CAFE
+2025-08-09 21:05:05,168 - INFO - [bakery tirur] [OK] 6/94: PADMA BAKERY
+2025-08-09 21:05:10,252 - INFO - [bakery tirur] [OK] 7/94: Leem Bakery
+2025-08-09 21:05:15,364 - INFO - [bakery tirur] [OK] 8/94: freddo cakes & cafe Tirur
+2025-08-09 21:05:20,466 - INFO - [bakery tirur] [OK] 9/94: Coffee Cream
+2025-08-09 21:05:25,452 - INFO - [bakery tirur] [OK] 10/94: Famous Bakery
+2025-08-09 21:05:30,268 - INFO - [bakery tirur] [OK] 11/94: Good Bakes
+2025-08-09 21:05:35,087 - INFO - [bakery tirur] [OK] 12/94: Zain Bakery
+2025-08-09 21:05:39,880 - INFO - [bakery tirur] [OK] 13/94: Dr. Hawwa's Cake Hut
+2025-08-09 21:05:44,693 - INFO - [bakery tirur] [OK] 14/94: Famous Bakery Tirur
+2025-08-09 21:05:49,473 - INFO - [bakery tirur] [OK] 15/94: 5 𝑺𝒕𝒂𝒓 𝑩𝒂𝒌𝒆𝒓𝒚 𝑻𝒊𝒓𝒖𝒓
+2025-08-09 21:05:54,258 - INFO - [bakery tirur] [OK] 16/94: Lof Lounge
+2025-08-09 21:05:59,061 - INFO - [bakery tirur] [OK] 17/94: MR Bakery
+2025-08-09 21:06:04,005 - INFO - [bakery tirur] [OK] 18/94: A. R. Bakery
+2025-08-09 21:06:08,839 - INFO - [bakery tirur] [OK] 19/94: BAKE FACTORY
+2025-08-09 21:06:13,627 - INFO - [bakery tirur] [OK] 20/94: Creative sisters cake tirur
+2025-08-09 21:06:18,413 - INFO - [bakery tirur] [OK] 21/94: ETIHAD BAKS THALAKKADATHUR
+2025-08-09 21:06:23,223 - INFO - [bakery tirur] [OK] 22/94: TASTY BAK'S
+2025-08-09 21:06:28,132 - INFO - [bakery tirur] [OK] 23/94: BROWNIES BAKE
+2025-08-09 21:06:32,962 - INFO - [bakery tirur] [OK] 24/94: AL YAS BAKERY & COOL BAR
+2025-08-09 21:06:37,793 - INFO - [bakery tirur] [OK] 25/94: CAKE CUT cake & chocolate
+2025-08-09 21:06:42,680 - INFO - [bakery tirur] [OK] 26/94: KV BAKERY
+2025-08-09 21:06:47,495 - INFO - [bakery tirur] [OK] 27/94: Lillis bakery
+2025-08-09 21:06:52,353 - INFO - [bakery tirur] [OK] 28/94: Falcon Bakers
+2025-08-09 21:06:57,203 - INFO - [bakery tirur] [OK] 29/94: Modern Bakery & Mini Supermarket
+2025-08-09 21:07:02,074 - INFO - [bakery tirur] [OK] 30/94: Badusha Bakery
+2025-08-09 21:07:06,910 - INFO - [bakery tirur] [OK] 31/94: D'cub£ cakes & Cafe
+2025-08-09 21:07:11,789 - INFO - [bakery tirur] [OK] 32/94: MARS Bakery
+2025-08-09 21:07:16,563 - INFO - [bakery tirur] [OK] 33/94: Sana Bakery and Coolbar
+2025-08-09 21:07:21,377 - INFO - [bakery tirur] [OK] 34/94: Pastel Cake Shop
+2025-08-09 21:07:26,154 - INFO - [bakery tirur] [OK] 35/94: Kpm Rosters 2
+2025-08-09 21:07:30,981 - INFO - [bakery tirur] [OK] 36/94: Famous Bakery
+2025-08-09 21:07:35,781 - INFO - [bakery tirur] [OK] 37/94: KR BAKES
+2025-08-09 21:07:40,622 - INFO - [bakery tirur] [OK] 38/94: Lillis Bakery Hot & Cool
+2025-08-09 21:07:45,448 - INFO - [bakery tirur] [OK] 39/94: Favas Bakery
+2025-08-09 21:07:50,268 - INFO - [bakery tirur] [OK] 40/94: Ajben cakes
+2025-08-09 21:07:55,111 - INFO - [bakery tirur] [OK] 41/94: Leziz Bakery
+2025-08-09 21:07:59,950 - INFO - [bakery tirur] [OK] 42/94: Grand Bakery
+2025-08-09 21:08:04,771 - INFO - [bakery tirur] [OK] 43/94: Maam's bakes and coffee
+2025-08-09 21:08:09,566 - INFO - [bakery tirur] [OK] 44/94: Mubarak Bekerry & Shawarma,Tirur-Pullur
+2025-08-09 21:08:14,389 - INFO - [bakery tirur] [OK] 45/94: LILLIS BAKERY
+2025-08-09 21:08:19,245 - INFO - [bakery tirur] [OK] 46/94: Spunge cakes and cafe
+2025-08-09 21:08:24,085 - INFO - [bakery tirur] [OK] 47/94: K.R Bakes
+2025-08-09 21:08:28,962 - INFO - [bakery tirur] [OK] 48/94: Famous bakery
+2025-08-09 21:08:33,878 - INFO - [bakery tirur] [OK] 49/94: Tasty Bakery
+2025-08-09 21:08:38,738 - INFO - [bakery tirur] [OK] 50/94: Famous bakery
+2025-08-09 21:08:43,589 - INFO - [bakery tirur] [OK] 51/94: Hungry Hub
+2025-08-09 21:08:48,403 - INFO - [bakery tirur] [OK] 52/94: Ainas bakes
+2025-08-09 21:08:53,174 - INFO - [bakery tirur] [OK] 53/94: Spanish Bakes & Cafe
+2025-08-09 21:08:57,989 - INFO - [bakery tirur] [OK] 54/94: Yas bakery
+2025-08-09 21:09:02,859 - INFO - [bakery tirur] [OK] 55/94: Mr Cakes Tirur
+2025-08-09 21:09:07,727 - INFO - [bakery tirur] [OK] 56/94: Lee Choco
+2025-08-09 21:09:12,563 - INFO - [bakery tirur] [OK] 57/94: K.R Bakery
+2025-08-09 21:09:17,326 - INFO - [bakery tirur] [OK] 58/94: BAKE HOUSE
+2025-08-09 21:09:22,120 - INFO - [bakery tirur] [OK] 59/94: LARDERDELIGHT
+2025-08-09 21:09:26,978 - INFO - [bakery tirur] [OK] 60/94: Keyvees Bakery
+2025-08-09 21:09:31,842 - INFO - [bakery tirur] [OK] 61/94: AR Bakery BP Angadi
+2025-08-09 21:09:36,691 - INFO - [bakery tirur] [OK] 62/94: Hearty chocky home made cake
+2025-08-09 21:09:41,516 - INFO - [bakery tirur] [OK] 63/94: Lokman Hekim
+2025-08-09 21:09:46,385 - INFO - [bakery tirur] [OK] 64/94: Baithul Kunafa
+2025-08-09 21:09:51,219 - INFO - [bakery tirur] [OK] 65/94: CHEMBARA NUTS & SPICES CHEMBRA
+2025-08-09 21:09:56,092 - INFO - [bakery tirur] [OK] 66/94: PASTEL CAKE SHOP
+2025-08-09 21:10:00,955 - INFO - [bakery tirur] [OK] 67/94: KR Bakes
+2025-08-09 21:10:05,830 - INFO - [bakery tirur] [OK] 68/94: Friends Bakery & Cool Bar
+2025-08-09 21:10:10,731 - INFO - [bakery tirur] [OK] 69/94: Just Bake Tirur
+2025-08-09 21:10:15,739 - INFO - [bakery tirur] [OK] 70/94: Fresh Day Hypermarket
+2025-08-09 21:10:20,586 - INFO - [bakery tirur] [OK] 71/94: Bilberries Cakes
+2025-08-09 21:10:25,445 - INFO - [bakery tirur] [OK] 72/94: 90’s Bakes & Cafe
+2025-08-09 21:10:30,299 - INFO - [bakery tirur] [OK] 73/94: POONTHALA HOT & COOL
+2025-08-09 21:10:35,180 - INFO - [bakery tirur] [OK] 74/94: MN Bakery
+2025-08-09 21:10:40,056 - INFO - [bakery tirur] [OK] 75/94: Swiss bakes
+2025-08-09 21:10:44,921 - INFO - [bakery tirur] [OK] 76/94: Thripthi Bakery
+2025-08-09 21:10:49,768 - INFO - [bakery tirur] [OK] 77/94: PRIYA BAKERY
+2025-08-09 21:10:54,602 - INFO - [bakery tirur] [OK] 78/94: TEJES AGENCIES
+2025-08-09 21:10:59,431 - INFO - [bakery tirur] [OK] 79/94: Mubashir
+2025-08-09 21:11:04,252 - INFO - [bakery tirur] [OK] 80/94: CM Bakery
+2025-08-09 21:11:09,149 - INFO - [bakery tirur] [OK] 81/94: Malabar Bakery
+2025-08-09 21:11:13,970 - INFO - [bakery tirur] [OK] 82/94: Sajida Bakery
+2025-08-09 21:11:18,811 - INFO - [bakery tirur] [OK] 83/94: Bismi BAKERY & FRUITS
+2025-08-09 21:11:23,655 - INFO - [bakery tirur] [OK] 84/94: Best bakery pullur
+2025-08-09 21:11:28,480 - INFO - [bakery tirur] [OK] 85/94: BISMI BAKERY HOT & COOL
+2025-08-09 21:11:33,352 - INFO - [bakery tirur] [OK] 86/94: GALAXY BAKERY
+2025-08-09 21:11:38,193 - INFO - [bakery tirur] [OK] 87/94: Isha Bakery
+2025-08-09 21:11:43,018 - INFO - [bakery tirur] [OK] 88/94: Nikhil Home
+2025-08-09 21:11:47,857 - INFO - [bakery tirur] [OK] 89/94: Shalu's Cakes
+2025-08-09 21:11:52,817 - INFO - [bakery tirur] [OK] 90/94: CORNER BAKERY
+2025-08-09 21:11:57,709 - INFO - [bakery tirur] [OK] 91/94: MADHURIMA BAKERY
+2025-08-09 21:12:02,566 - INFO - [bakery tirur] [OK] 92/94: MILAN BAKERY
+2025-08-09 21:12:07,466 - INFO - [bakery tirur] [OK] 93/94: albasma BAKES
+2025-08-09 21:12:12,304 - INFO - [bakery tirur] [OK] 94/94: Aman enterprise
+2025-08-09 21:12:12,304 - INFO - [bakery tirur] FINAL: 94 places extracted
+2025-08-09 21:12:14,452 - INFO - Saved 94 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\bakery_tirur.csv
+2025-08-09 21:12:14,481 - INFO - Removed duplicates, final count: 470
+2025-08-09 21:12:14,492 - INFO - Saved 470 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:12:14,492 - INFO - bakery tirur: Found 94 places
+2025-08-09 21:12:16,494 - INFO - 
+==================================================
+2025-08-09 21:12:16,494 - INFO - Processing 6/100: bakery ponnani
+2025-08-09 21:12:16,494 - INFO - ==================================================
+2025-08-09 21:12:32,718 - INFO - [bakery ponnani] Found: 12 (Scroll: 1)
+2025-08-09 21:12:34,748 - INFO - [bakery ponnani] Found: 18 (Scroll: 2)
+2025-08-09 21:12:36,779 - INFO - [bakery ponnani] Found: 20 (Scroll: 3)
+2025-08-09 21:12:38,807 - INFO - [bakery ponnani] Found: 26 (Scroll: 4)
+2025-08-09 21:12:40,835 - INFO - [bakery ponnani] Found: 32 (Scroll: 5)
+2025-08-09 21:12:42,875 - INFO - [bakery ponnani] Found: 38 (Scroll: 6)
+2025-08-09 21:12:44,895 - INFO - [bakery ponnani] Found: 40 (Scroll: 7)
+2025-08-09 21:12:46,923 - INFO - [bakery ponnani] Found: 46 (Scroll: 8)
+2025-08-09 21:12:48,943 - INFO - [bakery ponnani] Found: 52 (Scroll: 9)
+2025-08-09 21:12:50,955 - INFO - [bakery ponnani] Found: 58 (Scroll: 10)
+2025-08-09 21:12:52,970 - INFO - [bakery ponnani] Found: 60 (Scroll: 11)
+2025-08-09 21:12:54,994 - INFO - [bakery ponnani] Found: 66 (Scroll: 12)
+2025-08-09 21:12:57,045 - INFO - [bakery ponnani] Found: 72 (Scroll: 13)
+2025-08-09 21:12:59,075 - INFO - [bakery ponnani] Found: 78 (Scroll: 14)
+2025-08-09 21:13:01,098 - INFO - [bakery ponnani] Found: 80 (Scroll: 15)
+2025-08-09 21:13:03,124 - INFO - [bakery ponnani] Found: 86 (Scroll: 16)
+2025-08-09 21:13:05,152 - INFO - [bakery ponnani] Found: 92 (Scroll: 17)
+2025-08-09 21:13:07,183 - INFO - [bakery ponnani] Found: 98 (Scroll: 18)
+2025-08-09 21:13:09,214 - INFO - [bakery ponnani] Found: 100 (Scroll: 19)
+2025-08-09 21:13:11,249 - INFO - [bakery ponnani] Found: 106 (Scroll: 20)
+2025-08-09 21:13:13,278 - INFO - [bakery ponnani] Found: 106 (Scroll: 21)
+2025-08-09 21:13:15,308 - INFO - [bakery ponnani] Found: 106 (Scroll: 22)
+2025-08-09 21:13:17,339 - INFO - [bakery ponnani] Found: 106 (Scroll: 23)
+2025-08-09 21:13:19,367 - INFO - [bakery ponnani] Found: 106 (Scroll: 24)
+2025-08-09 21:13:21,404 - INFO - [bakery ponnani] Found: 106 (Scroll: 25)
+2025-08-09 21:13:23,436 - INFO - [bakery ponnani] Found: 106 (Scroll: 26)
+2025-08-09 21:13:25,471 - INFO - [bakery ponnani] Found: 106 (Scroll: 27)
+2025-08-09 21:13:27,499 - INFO - [bakery ponnani] Found: 106 (Scroll: 28)
+2025-08-09 21:13:27,499 - INFO - [bakery ponnani] No more results after 28 scrolls
+2025-08-09 21:13:28,318 - INFO - [bakery ponnani] Total unique listings: 106
+2025-08-09 21:13:33,181 - INFO - [bakery ponnani] [OK] 1/106: Nehal Bakes Ponnani
+2025-08-09 21:13:37,992 - INFO - [bakery ponnani] [OK] 2/106: Sweet Oven
+2025-08-09 21:13:42,796 - INFO - [bakery ponnani] [OK] 3/106: Famous Bakery
+2025-08-09 21:13:47,594 - INFO - [bakery ponnani] [OK] 4/106: Janatha bakery
+2025-08-09 21:13:52,389 - INFO - [bakery ponnani] [OK] 5/106: CHOCO FANTASY
+2025-08-09 21:13:57,178 - INFO - [bakery ponnani] [OK] 6/106: KL CAKE&DOUGHNUT Cafe
+2025-08-09 21:14:01,989 - INFO - [bakery ponnani] [OK] 7/106: Honest bakery
+2025-08-09 21:14:06,781 - INFO - [bakery ponnani] [OK] 8/106: nunu Bakes & Café
+2025-08-09 21:14:11,554 - INFO - [bakery ponnani] [OK] 9/106: Kismis Bakes & cool
+2025-08-09 21:14:16,351 - INFO - [bakery ponnani] [OK] 10/106: AL- Noor Bakery N Coolbar and groceries
+2025-08-09 21:14:21,139 - INFO - [bakery ponnani] [OK] 11/106: Armaania Backery-Bakes Cakes & Dryfruits
+2025-08-09 21:14:25,938 - INFO - [bakery ponnani] [OK] 12/106: Bake N Deligh
+2025-08-09 21:14:30,694 - INFO - [bakery ponnani] [OK] 13/106: Famous Bakery
+2025-08-09 21:14:35,556 - INFO - [bakery ponnani] [OK] 14/106: LALA BAKERY
+2025-08-09 21:14:40,320 - INFO - [bakery ponnani] [OK] 15/106: Horizon Bakes
+2025-08-09 21:14:45,083 - INFO - [bakery ponnani] [OK] 16/106: Ponnani civ
+2025-08-09 21:14:49,849 - INFO - [bakery ponnani] [OK] 17/106: Sainas foods
+2025-08-09 21:14:54,639 - INFO - [bakery ponnani] [OK] 18/106: Famous Bakery
+2025-08-09 21:14:59,408 - INFO - [bakery ponnani] [OK] 19/106: Banoffee cakes,sweets& Gift shop
+2025-08-09 21:15:04,207 - INFO - [bakery ponnani] [OK] 20/106: KL Cakes and Bakes
+2025-08-09 21:15:08,954 - INFO - [bakery ponnani] [OK] 21/106: MAAMS BAKERY AND COOLBAR
+2025-08-09 21:15:13,714 - INFO - [bakery ponnani] [OK] 22/106: Cake Stories Bakeshop - OPENING SOON
+2025-08-09 21:15:18,516 - INFO - [bakery ponnani] [OK] 23/106: Alfa Bakery
+2025-08-09 21:15:23,284 - INFO - [bakery ponnani] [OK] 24/106: FAMOUS BAKERY COOL AND COFFEE
+2025-08-09 21:15:28,080 - INFO - [bakery ponnani] [OK] 25/106: Honest Bakery
+2025-08-09 21:15:32,871 - INFO - [bakery ponnani] [OK] 26/106: Famous Bakery
+2025-08-09 21:15:37,622 - INFO - [bakery ponnani] [OK] 27/106: Famous
+2025-08-09 21:15:42,441 - INFO - [bakery ponnani] [OK] 28/106: HAP daily
+2025-08-09 21:15:47,304 - INFO - [bakery ponnani] [OK] 29/106: Famous Bakery
+2025-08-09 21:15:52,108 - INFO - [bakery ponnani] [OK] 30/106: Malabar Bakery
+2025-08-09 21:15:56,922 - INFO - [bakery ponnani] [OK] 31/106: khajoor bakes cool&coffee bar
+2025-08-09 21:16:01,690 - INFO - [bakery ponnani] [OK] 32/106: DIVASC DISTRIBUTION
+2025-08-09 21:16:06,475 - INFO - [bakery ponnani] [OK] 33/106: SONAS BAKERY & ROASTERY
+2025-08-09 21:16:11,277 - INFO - [bakery ponnani] [OK] 34/106: Kings Bakery
+2025-08-09 21:16:16,064 - INFO - [bakery ponnani] [OK] 35/106: Nehal Bakes Maranchery
+2025-08-09 21:16:20,821 - INFO - [bakery ponnani] [OK] 36/106: Nanma chips
+2025-08-09 21:16:25,697 - INFO - [bakery ponnani] [OK] 37/106: Blue Moon Bakes
+2025-08-09 21:16:30,487 - INFO - [bakery ponnani] [OK] 38/106: KR Bakery & Restaurant
+2025-08-09 21:16:35,291 - INFO - [bakery ponnani] [OK] 39/106: S.R.Bakes
+2025-08-09 21:16:40,086 - INFO - [bakery ponnani] [OK] 40/106: Flavourish Bakery & Cafe
+2025-08-09 21:16:44,863 - INFO - [bakery ponnani] [OK] 41/106: Famous Bakery
+2025-08-09 21:16:49,670 - INFO - [bakery ponnani] [OK] 42/106: Indian Bakery
+2025-08-09 21:16:54,463 - INFO - [bakery ponnani] [OK] 43/106: KKC Bakery and Stationary.
+2025-08-09 21:16:59,239 - INFO - [bakery ponnani] [OK] 44/106: Alfa sweets
+2025-08-09 21:17:04,045 - INFO - [bakery ponnani] [OK] 45/106: Regal Bakery
+2025-08-09 21:17:08,915 - INFO - [bakery ponnani] [OK] 46/106: TK SUPERMARKET
+2025-08-09 21:17:13,675 - INFO - [bakery ponnani] [OK] 47/106: Honest Bakery Cool And& Coffee Bar
+2025-08-09 21:17:18,462 - INFO - [bakery ponnani] [OK] 48/106: Rahiya Backery
+2025-08-09 21:17:23,254 - INFO - [bakery ponnani] [OK] 49/106: Highway Bakery
+2025-08-09 21:17:28,187 - INFO - [bakery ponnani] [OK] 50/106: MK Bakery
+2025-08-09 21:17:32,991 - INFO - [bakery ponnani] [OK] 51/106: PVM Bakery
+2025-08-09 21:17:37,850 - INFO - [bakery ponnani] [OK] 52/106: Famous Bakery
+2025-08-09 21:17:42,626 - INFO - [bakery ponnani] [OK] 53/106: Kochiyil
+2025-08-09 21:17:47,405 - INFO - [bakery ponnani] [OK] 54/106: KM BAKERS
+2025-08-09 21:17:52,199 - INFO - [bakery ponnani] [OK] 55/106: Sweets land
+2025-08-09 21:17:57,026 - INFO - [bakery ponnani] [OK] 56/106: Nehal Bakes Kuttippuram
+2025-08-09 21:18:01,812 - INFO - [bakery ponnani] [OK] 57/106: CK BAKERY
+2025-08-09 21:18:06,573 - INFO - [bakery ponnani] [OK] 58/106: Bake Delights
+2025-08-09 21:18:11,584 - INFO - [bakery ponnani] [OK] 59/106: Spunge Cakes And Cafe
+2025-08-09 21:18:16,469 - INFO - [bakery ponnani] [OK] 60/106: KR BAKERY
+2025-08-09 21:18:21,268 - INFO - [bakery ponnani] [OK] 61/106: KR Bakery
+2025-08-09 21:18:26,056 - INFO - [bakery ponnani] [OK] 62/106: APM Bakes & Cake House
+2025-08-09 21:18:30,844 - INFO - [bakery ponnani] [OK] 63/106: Pastel Cake Shop
+2025-08-09 21:18:35,675 - INFO - [bakery ponnani] [OK] 64/106: Nehal Bakes
+2025-08-09 21:18:40,475 - INFO - [bakery ponnani] [OK] 65/106: Bakes& cakes puthanathani road thirunavaya
+2025-08-09 21:18:45,253 - INFO - [bakery ponnani] [OK] 66/106: Best Halwa Unit & Bakery
+2025-08-09 21:18:50,027 - INFO - [bakery ponnani] [OK] 67/106: JB Live Bakes
+2025-08-09 21:18:54,996 - INFO - [bakery ponnani] [OK] 68/106: emi food processing
+2025-08-09 21:18:59,769 - INFO - [bakery ponnani] [OK] 69/106: Happy bakes
+2025-08-09 21:19:04,550 - INFO - [bakery ponnani] [OK] 70/106: M.F BAKERY
+2025-08-09 21:19:09,327 - INFO - [bakery ponnani] [OK] 71/106: Pachikazo Bakes
+2025-08-09 21:19:14,106 - INFO - [bakery ponnani] [OK] 72/106: MOTHER THE BAKERY SHOP
+2025-08-09 21:19:18,874 - INFO - [bakery ponnani] [OK] 73/106: AMK Bakery
+2025-08-09 21:19:23,651 - INFO - [bakery ponnani] [OK] 74/106: MIHRAJ BAKERY & SWEETS
+2025-08-09 21:19:28,420 - INFO - [bakery ponnani] [OK] 75/106: AK BAKES
+2025-08-09 21:19:33,191 - INFO - [bakery ponnani] [OK] 76/106: Padassery
+2025-08-09 21:19:37,985 - INFO - [bakery ponnani] [OK] 77/106: ALARAB BAKERY & COOLBAR
+2025-08-09 21:19:42,757 - INFO - [bakery ponnani] [OK] 78/106: N.B.SWEETS & COOL
+2025-08-09 21:19:47,587 - INFO - [bakery ponnani] [OK] 79/106: SUNTOP BAKERY
+2025-08-09 21:19:52,343 - INFO - [bakery ponnani] [OK] 80/106: HYZIN BAKERY
+2025-08-09 21:19:57,132 - INFO - [bakery ponnani] [OK] 81/106: Muscat marjan BAKERY
+2025-08-09 21:20:01,916 - INFO - [bakery ponnani] [OK] 82/106: MADHURIMA BAKERY
+2025-08-09 21:20:06,688 - INFO - [bakery ponnani] [OK] 83/106: Malabar hot Chips ചമ്രവട്ടം
+2025-08-09 21:20:11,488 - INFO - [bakery ponnani] [OK] 84/106: KR BAKERY
+2025-08-09 21:20:16,321 - INFO - [bakery ponnani] [OK] 85/106: NAVAS BAKERY
+2025-08-09 21:20:21,135 - INFO - [bakery ponnani] [OK] 86/106: RAJITHA BAKERY
+2025-08-09 21:20:25,960 - INFO - [bakery ponnani] [OK] 87/106: Hanna_cake_world
+2025-08-09 21:20:30,834 - INFO - [bakery ponnani] [OK] 88/106: FRIENDS BAKERY & MINI MART
+2025-08-09 21:20:35,617 - INFO - [bakery ponnani] [OK] 89/106: BUBBLY BAKES ALOOR
+2025-08-09 21:20:40,466 - INFO - [bakery ponnani] [OK] 90/106: HAWWA BAKERY & COOLBAR
+2025-08-09 21:20:45,297 - INFO - [bakery ponnani] [OK] 91/106: Galaxy BAKERY
+2025-08-09 21:20:50,262 - INFO - [bakery ponnani] [OK] 92/106: AROMA BAKERY
+2025-08-09 21:20:55,115 - INFO - [bakery ponnani] [OK] 93/106: A PLUS ONE BAKERY & MINIMART
+2025-08-09 21:20:59,945 - INFO - [bakery ponnani] [OK] 94/106: BROTHERS
+2025-08-09 21:21:04,744 - INFO - [bakery ponnani] [OK] 95/106: TA STORE
+2025-08-09 21:21:09,562 - INFO - [bakery ponnani] [OK] 96/106: CORNER SWEETS & BAKERY
+2025-08-09 21:21:14,491 - INFO - [bakery ponnani] [OK] 97/106: MODERN BAKERY & COOLBAR
+2025-08-09 21:21:19,328 - INFO - [bakery ponnani] [OK] 98/106: ASWIN BAKERY
+2025-08-09 21:21:24,152 - INFO - [bakery ponnani] [OK] 99/106: RUNNATH BAKERS
+2025-08-09 21:21:29,077 - INFO - [bakery ponnani] [OK] 100/106: RAIDAN BAKES
+2025-08-09 21:21:33,925 - INFO - [bakery ponnani] [OK] 101/106: NEW CALICUT BAKERY & COOLBAR
+2025-08-09 21:21:38,856 - INFO - [bakery ponnani] [OK] 102/106: Mango Bakery
+2025-08-09 21:21:43,725 - INFO - [bakery ponnani] [OK] 103/106: SIP SAP BAKERY & COOLBAR
+2025-08-09 21:21:48,652 - INFO - [bakery ponnani] [OK] 104/106: K.K BAKERY & STATIONERY
+2025-08-09 21:21:53,533 - INFO - [bakery ponnani] [OK] 105/106: Polppakra mill
+2025-08-09 21:21:58,422 - INFO - [bakery ponnani] [OK] 106/106: NICE BAKERY
+2025-08-09 21:21:58,422 - INFO - [bakery ponnani] FINAL: 106 places extracted
+2025-08-09 21:21:59,131 - INFO - Saved 106 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\bakery_ponnani.csv
+2025-08-09 21:21:59,163 - INFO - Removed duplicates, final count: 576
+2025-08-09 21:21:59,183 - INFO - Saved 576 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:21:59,183 - INFO - bakery ponnani: Found 106 places
+2025-08-09 21:22:01,185 - INFO - 
+==================================================
+2025-08-09 21:22:01,185 - INFO - Processing 7/100: bakery kondotty
+2025-08-09 21:22:01,185 - INFO - ==================================================
+2025-08-09 21:22:19,633 - INFO - [bakery kondotty] Found: 12 (Scroll: 1)
+2025-08-09 21:22:21,657 - INFO - [bakery kondotty] Found: 18 (Scroll: 2)
+2025-08-09 21:22:23,686 - INFO - [bakery kondotty] Found: 20 (Scroll: 3)
+2025-08-09 21:22:25,714 - INFO - [bakery kondotty] Found: 26 (Scroll: 4)
+2025-08-09 21:22:27,755 - INFO - [bakery kondotty] Found: 32 (Scroll: 5)
+2025-08-09 21:22:29,809 - INFO - [bakery kondotty] Found: 38 (Scroll: 6)
+2025-08-09 21:22:31,842 - INFO - [bakery kondotty] Found: 40 (Scroll: 7)
+2025-08-09 21:22:33,864 - INFO - [bakery kondotty] Found: 46 (Scroll: 8)
+2025-08-09 21:22:35,922 - INFO - [bakery kondotty] Found: 52 (Scroll: 9)
+2025-08-09 21:22:37,951 - INFO - [bakery kondotty] Found: 58 (Scroll: 10)
+2025-08-09 21:22:39,971 - INFO - [bakery kondotty] Found: 60 (Scroll: 11)
+2025-08-09 21:22:41,995 - INFO - [bakery kondotty] Found: 66 (Scroll: 12)
+2025-08-09 21:22:44,040 - INFO - [bakery kondotty] Found: 72 (Scroll: 13)
+2025-08-09 21:22:46,069 - INFO - [bakery kondotty] Found: 78 (Scroll: 14)
+2025-08-09 21:22:48,109 - INFO - [bakery kondotty] Found: 80 (Scroll: 15)
+2025-08-09 21:22:50,144 - INFO - [bakery kondotty] Found: 81 (Scroll: 16)
+2025-08-09 21:22:52,184 - INFO - [bakery kondotty] Found: 81 (Scroll: 17)
+2025-08-09 21:22:54,213 - INFO - [bakery kondotty] Found: 81 (Scroll: 18)
+2025-08-09 21:22:56,238 - INFO - [bakery kondotty] Found: 81 (Scroll: 19)
+2025-08-09 21:22:58,258 - INFO - [bakery kondotty] Found: 81 (Scroll: 20)
+2025-08-09 21:23:00,299 - INFO - [bakery kondotty] Found: 81 (Scroll: 21)
+2025-08-09 21:23:02,319 - INFO - [bakery kondotty] Found: 81 (Scroll: 22)
+2025-08-09 21:23:04,343 - INFO - [bakery kondotty] Found: 81 (Scroll: 23)
+2025-08-09 21:23:06,377 - INFO - [bakery kondotty] Found: 81 (Scroll: 24)
+2025-08-09 21:23:06,377 - INFO - [bakery kondotty] No more results after 24 scrolls
+2025-08-09 21:23:07,006 - INFO - [bakery kondotty] Total unique listings: 78
+2025-08-09 21:23:11,845 - INFO - [bakery kondotty] [OK] 1/78: Happy bakes cake factory
+2025-08-09 21:23:16,667 - INFO - [bakery kondotty] [OK] 2/78: Cake Studio | Kondotty
+2025-08-09 21:23:21,471 - INFO - [bakery kondotty] [OK] 3/78: Cake Studio | Kondotty
+2025-08-09 21:23:26,325 - INFO - [bakery kondotty] [OK] 4/78: Sego Bakery
+2025-08-09 21:23:31,114 - INFO - [bakery kondotty] [OK] 5/78: BakeStories -Kottukara,kondotty
+2025-08-09 21:23:35,885 - INFO - [bakery kondotty] [OK] 6/78: KM Bakery Wholesale and Retail
+2025-08-09 21:23:40,682 - INFO - [bakery kondotty] [OK] 7/78: AL AMEEN BAKES RESTO & CAFETERIA
+2025-08-09 21:23:45,479 - INFO - [bakery kondotty] [OK] 8/78: Happy Bakes Cake Factory
+2025-08-09 21:23:50,286 - INFO - [bakery kondotty] [OK] 9/78: Ponnoos Bakery
+2025-08-09 21:23:55,080 - INFO - [bakery kondotty] [OK] 10/78: Saudi Bakery
+2025-08-09 21:23:59,891 - INFO - [bakery kondotty] [OK] 11/78: Stationery & Bakery and Cool Bar
+2025-08-09 21:24:04,724 - INFO - [bakery kondotty] [OK] 12/78: Priya Bakery
+2025-08-09 21:24:09,517 - INFO - [bakery kondotty] [OK] 13/78: Apna Bakes & Snacks
+2025-08-09 21:24:14,294 - INFO - [bakery kondotty] [OK] 14/78: Henna Bakes
+2025-08-09 21:24:19,135 - INFO - [bakery kondotty] [OK] 15/78: Cake N Bake
+2025-08-09 21:24:23,955 - INFO - [bakery kondotty] [OK] 16/78: Alfa Bakery wholesale & retail
+2025-08-09 21:24:28,761 - INFO - [bakery kondotty] [OK] 17/78: Yummy Bakes MANUFACTURING UNITS
+2025-08-09 21:24:33,561 - INFO - [bakery kondotty] [OK] 18/78: Cake fantasy
+2025-08-09 21:24:38,366 - INFO - [bakery kondotty] [OK] 19/78: Surayya Bakery സുരയ്യ ബേക്കറി
+2025-08-09 21:24:43,160 - INFO - [bakery kondotty] [OK] 20/78: Maduram bakes
+2025-08-09 21:24:47,951 - INFO - [bakery kondotty] [OK] 21/78: AJS BAKERY
+2025-08-09 21:24:52,743 - INFO - [bakery kondotty] [OK] 22/78: BAKESMART wholesale and retail
+2025-08-09 21:24:57,533 - INFO - [bakery kondotty] [OK] 23/78: KM Bakery
+2025-08-09 21:25:02,320 - INFO - [bakery kondotty] [OK] 24/78: CM BAKERY
+2025-08-09 21:25:07,111 - INFO - [bakery kondotty] [OK] 25/78: CAFE CAKE ZONE
+2025-08-09 21:25:11,934 - INFO - [bakery kondotty] [OK] 26/78: Topz Bakes
+2025-08-09 21:25:16,737 - INFO - [bakery kondotty] [OK] 27/78: Madeena Bakery
+2025-08-09 21:25:21,557 - INFO - [bakery kondotty] [OK] 28/78: OK BAKERY
+2025-08-09 21:25:26,366 - INFO - [bakery kondotty] [OK] 29/78: Cake World
+2025-08-09 21:25:31,164 - INFO - [bakery kondotty] [OK] 30/78: Best Bakes & Super Market. Bakery
+2025-08-09 21:25:35,967 - INFO - [bakery kondotty] [OK] 31/78: HAP daily
+2025-08-09 21:25:40,769 - INFO - [bakery kondotty] [OK] 32/78: SEGO FRESCHE RESTAURANT
+2025-08-09 21:25:45,544 - INFO - [bakery kondotty] [OK] 33/78: 4P Mart Kondotty
+2025-08-09 21:25:50,303 - INFO - [bakery kondotty] [OK] 34/78: MTS BAKERY AND COOLBAR
+2025-08-09 21:25:55,316 - INFO - [bakery kondotty] [OK] 35/78: Master bakery bazar
+2025-08-09 21:26:00,184 - INFO - [bakery kondotty] [OK] 36/78: Sweedish Cakes,Cafe & Restaurant
+2025-08-09 21:26:04,975 - INFO - [bakery kondotty] [OK] 37/78: Thoyba Bakery & Cool Coffeebar
+2025-08-09 21:26:09,757 - INFO - [bakery kondotty] [OK] 38/78: Famous Bakery
+2025-08-09 21:26:14,545 - INFO - [bakery kondotty] [OK] 39/78: Arabian affair Kondotty
+2025-08-09 21:26:19,327 - INFO - [bakery kondotty] [OK] 40/78: Zam Zam Bakery
+2025-08-09 21:26:24,153 - INFO - [bakery kondotty] [OK] 41/78: F-zone bakery production unit
+2025-08-09 21:26:28,929 - INFO - [bakery kondotty] [OK] 42/78: Raiha's home made cakes
+2025-08-09 21:26:33,690 - INFO - [bakery kondotty] [OK] 43/78: PS BAKES manufacturing units and selling
+2025-08-09 21:26:38,487 - INFO - [bakery kondotty] [OK] 44/78: H S Bakery
+2025-08-09 21:26:43,291 - INFO - [bakery kondotty] [OK] 45/78: Malabar Gold and Diamonds - Kondotty
+2025-08-09 21:26:48,125 - INFO - [bakery kondotty] [OK] 46/78: Standard Bakes Pulikkal
+2025-08-09 21:26:52,897 - INFO - [bakery kondotty] [OK] 47/78: Sulfinas Bakery
+2025-08-09 21:26:57,750 - INFO - [bakery kondotty] [OK] 48/78: Bharath Trading Company
+2025-08-09 21:27:02,524 - INFO - [bakery kondotty] [OK] 49/78: ഹോട്ടൽ തൃപ്തി
+2025-08-09 21:27:07,320 - INFO - [bakery kondotty] [OK] 50/78: K.R. Bakery
+2025-08-09 21:27:12,160 - INFO - [bakery kondotty] [OK] 51/78: Thottungal Hot and Cool
+2025-08-09 21:27:16,963 - INFO - [bakery kondotty] [OK] 52/78: Cake n Bakes Parappanangadi
+2025-08-09 21:27:21,750 - INFO - [bakery kondotty] [OK] 53/78: Budget Hyper Market Kondotty
+2025-08-09 21:27:26,537 - INFO - [bakery kondotty] [OK] 54/78: Arabian Dates&Sweets
+2025-08-09 21:27:31,308 - INFO - [bakery kondotty] [OK] 55/78: Best BAKERY
+2025-08-09 21:27:36,091 - INFO - [bakery kondotty] [OK] 56/78: AL BARAKA BAKERY &COOLBAR
+2025-08-09 21:27:40,891 - INFO - [bakery kondotty] [OK] 57/78: Mahima bakery
+2025-08-09 21:27:45,640 - INFO - [bakery kondotty] [OK] 58/78: TWO LIKE BAKERY
+2025-08-09 21:27:50,401 - INFO - [bakery kondotty] [OK] 59/78: Snazzy Bakery
+2025-08-09 21:27:55,203 - INFO - [bakery kondotty] [OK] 60/78: OREXIS BAKES
+2025-08-09 21:27:59,991 - INFO - [bakery kondotty] [OK] 61/78: Kondotty bus stand
+2025-08-09 21:28:04,916 - INFO - [bakery kondotty] [OK] 62/78: Pinkbery cafe
+2025-08-09 21:28:09,846 - INFO - [bakery kondotty] [OK] 63/78: INDIAN BAKES & CAFE
+2025-08-09 21:28:14,643 - INFO - [bakery kondotty] [OK] 64/78: Zaitoon Bakes Kizhisseri
+2025-08-09 21:28:19,444 - INFO - [bakery kondotty] [OK] 65/78: Afnan Bakery
+2025-08-09 21:28:24,223 - INFO - [bakery kondotty] [OK] 66/78: HALA FOODPRODUCTS
+2025-08-09 21:28:29,003 - INFO - [bakery kondotty] [OK] 67/78: "Cake" N "pastries”
+2025-08-09 21:28:33,781 - INFO - [bakery kondotty] [OK] 68/78: Cool Land Bakery
+2025-08-09 21:28:38,559 - INFO - [bakery kondotty] [OK] 69/78: SWEET LAND BAKERY
+2025-08-09 21:28:43,363 - INFO - [bakery kondotty] [OK] 70/78: Romancia Bakery
+2025-08-09 21:28:48,152 - INFO - [bakery kondotty] [OK] 71/78: Priya Bakery
+2025-08-09 21:28:53,121 - INFO - [bakery kondotty] [OK] 72/78: RUCHI BAKERY
+2025-08-09 21:28:57,882 - INFO - [bakery kondotty] [OK] 73/78: Jazabakes
+2025-08-09 21:29:02,651 - INFO - [bakery kondotty] [OK] 74/78: Ajwa Nuts
+2025-08-09 21:29:07,432 - INFO - [bakery kondotty] [OK] 75/78: Km Bakery
+2025-08-09 21:29:12,208 - INFO - [bakery kondotty] [OK] 76/78: kumminipara
+2025-08-09 21:29:16,981 - INFO - [bakery kondotty] [OK] 77/78: KALLINGAL BAKERY
+2025-08-09 21:29:21,757 - INFO - [bakery kondotty] [OK] 78/78: Fosty Kondotty
+2025-08-09 21:29:21,757 - INFO - [bakery kondotty] FINAL: 78 places extracted
+2025-08-09 21:29:22,087 - INFO - Saved 78 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\bakery_kondotty.csv
+2025-08-09 21:29:22,104 - INFO - Removed duplicates, final count: 654
+2025-08-09 21:29:22,118 - INFO - Saved 654 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:29:22,118 - INFO - bakery kondotty: Found 78 places
+2025-08-09 21:29:24,119 - INFO - 
+==================================================
+2025-08-09 21:29:24,119 - INFO - Processing 8/100: bakery tirurangadi
+2025-08-09 21:29:24,119 - INFO - ==================================================
+2025-08-09 21:29:41,779 - INFO - [bakery tirurangadi] Found: 12 (Scroll: 1)
+2025-08-09 21:29:43,805 - INFO - [bakery tirurangadi] Found: 18 (Scroll: 2)
+2025-08-09 21:29:45,835 - INFO - [bakery tirurangadi] Found: 20 (Scroll: 3)
+2025-08-09 21:29:47,857 - INFO - [bakery tirurangadi] Found: 26 (Scroll: 4)
+2025-08-09 21:29:49,901 - INFO - [bakery tirurangadi] Found: 32 (Scroll: 5)
+2025-08-09 21:29:51,929 - INFO - [bakery tirurangadi] Found: 38 (Scroll: 6)
+2025-08-09 21:29:53,958 - INFO - [bakery tirurangadi] Found: 40 (Scroll: 7)
+2025-08-09 21:29:55,984 - INFO - [bakery tirurangadi] Found: 46 (Scroll: 8)
+2025-08-09 21:29:58,013 - INFO - [bakery tirurangadi] Found: 52 (Scroll: 9)
+2025-08-09 21:30:00,043 - INFO - [bakery tirurangadi] Found: 58 (Scroll: 10)
+2025-08-09 21:30:02,070 - INFO - [bakery tirurangadi] Found: 60 (Scroll: 11)
+2025-08-09 21:30:04,096 - INFO - [bakery tirurangadi] Found: 66 (Scroll: 12)
+2025-08-09 21:30:06,132 - INFO - [bakery tirurangadi] Found: 68 (Scroll: 13)
+2025-08-09 21:30:08,160 - INFO - [bakery tirurangadi] Found: 68 (Scroll: 14)
+2025-08-09 21:30:10,190 - INFO - [bakery tirurangadi] Found: 68 (Scroll: 15)
+2025-08-09 21:30:12,223 - INFO - [bakery tirurangadi] Found: 68 (Scroll: 16)
+2025-08-09 21:30:14,255 - INFO - [bakery tirurangadi] Found: 68 (Scroll: 17)
+2025-08-09 21:30:16,283 - INFO - [bakery tirurangadi] Found: 68 (Scroll: 18)
+2025-08-09 21:30:18,320 - INFO - [bakery tirurangadi] Found: 68 (Scroll: 19)
+2025-08-09 21:30:20,346 - INFO - [bakery tirurangadi] Found: 68 (Scroll: 20)
+2025-08-09 21:30:22,381 - INFO - [bakery tirurangadi] Found: 68 (Scroll: 21)
+2025-08-09 21:30:22,381 - INFO - [bakery tirurangadi] No more results after 21 scrolls
+2025-08-09 21:30:22,881 - INFO - [bakery tirurangadi] Total unique listings: 65
+2025-08-09 21:30:27,698 - INFO - [bakery tirurangadi] [OK] 1/65: Honest Bakery
+2025-08-09 21:30:32,485 - INFO - [bakery tirurangadi] [OK] 2/65: Honest Bakery
+2025-08-09 21:30:37,252 - INFO - [bakery tirurangadi] [OK] 3/65: Asma's Home Bakes
+2025-08-09 21:30:42,047 - INFO - [bakery tirurangadi] [OK] 4/65: Choco Tree
+2025-08-09 21:30:46,814 - INFO - [bakery tirurangadi] [OK] 5/65: Rana Cakes
+2025-08-09 21:30:51,615 - INFO - [bakery tirurangadi] [OK] 6/65: The Library Cake and Pizza Company
+2025-08-09 21:30:56,407 - INFO - [bakery tirurangadi] [OK] 7/65: Brozovy Pastries
+2025-08-09 21:31:01,166 - INFO - [bakery tirurangadi] [OK] 8/65: SEEGO Bakery Chemmad
+2025-08-09 21:31:05,948 - INFO - [bakery tirurangadi] [OK] 9/65: Romance Nuts & Cake
+2025-08-09 21:31:10,740 - INFO - [bakery tirurangadi] [OK] 10/65: GUSTO CAKES & BAKES
+2025-08-09 21:31:15,516 - INFO - [bakery tirurangadi] [OK] 11/65: Crust Indian Breads
+2025-08-09 21:31:20,283 - INFO - [bakery tirurangadi] [OK] 12/65: ALFA SWEETS
+2025-08-09 21:31:25,034 - INFO - [bakery tirurangadi] [OK] 13/65: Bake N Fresh
+2025-08-09 21:31:29,836 - INFO - [bakery tirurangadi] [OK] 14/65: Cake Studio | Kondotty
+2025-08-09 21:31:34,610 - INFO - [bakery tirurangadi] [OK] 15/65: ALFA SWEETS
+2025-08-09 21:31:39,394 - INFO - [bakery tirurangadi] [OK] 16/65: Easy food - chappathi company kakkad
+2025-08-09 21:31:44,152 - INFO - [bakery tirurangadi] [OK] 17/65: Mehbazul Falah Bake House
+2025-08-09 21:31:48,911 - INFO - [bakery tirurangadi] [OK] 18/65: Bake 'n' Plus
+2025-08-09 21:31:53,679 - INFO - [bakery tirurangadi] [OK] 19/65: ALFA TIRURANGADI
+2025-08-09 21:31:58,431 - INFO - [bakery tirurangadi] [OK] 20/65: Fresh Mart Bakery & Stationary
+2025-08-09 21:32:03,197 - INFO - [bakery tirurangadi] [OK] 21/65: CM BAKERY
+2025-08-09 21:32:07,969 - INFO - [bakery tirurangadi] [OK] 22/65: Vijaya Bakery
+2025-08-09 21:32:12,783 - INFO - [bakery tirurangadi] [OK] 23/65: Cake Story
+2025-08-09 21:32:17,583 - INFO - [bakery tirurangadi] [OK] 24/65: OREO BAKES
+2025-08-09 21:32:22,368 - INFO - [bakery tirurangadi] [OK] 25/65: A R NAGAR
+2025-08-09 21:32:27,142 - INFO - [bakery tirurangadi] [OK] 26/65: Sana Bakery
+2025-08-09 21:32:31,915 - INFO - [bakery tirurangadi] [OK] 27/65: RIZK BAKERY
+2025-08-09 21:32:36,671 - INFO - [bakery tirurangadi] [OK] 28/65: Grapes
+2025-08-09 21:32:41,468 - INFO - [bakery tirurangadi] [OK] 29/65: bake n cake by shamseela shajahan
+2025-08-09 21:32:46,315 - INFO - [bakery tirurangadi] [OK] 30/65: Cookies Bakes
+2025-08-09 21:32:51,081 - INFO - [bakery tirurangadi] [OK] 31/65: Rainbow bake
+2025-08-09 21:32:55,859 - INFO - [bakery tirurangadi] [OK] 32/65: NIL GIRIS
+2025-08-09 21:33:00,630 - INFO - [bakery tirurangadi] [OK] 33/65: Sweet Palace Bakery
+2025-08-09 21:33:05,459 - INFO - [bakery tirurangadi] [OK] 34/65: Rooby Bakery
+2025-08-09 21:33:10,252 - INFO - [bakery tirurangadi] [OK] 35/65: Green Fresh N Bakes
+2025-08-09 21:33:15,013 - INFO - [bakery tirurangadi] [OK] 36/65: Master Bakery
+2025-08-09 21:33:19,775 - INFO - [bakery tirurangadi] [OK] 37/65: TOP C HOT AND COOL
+2025-08-09 21:33:24,537 - INFO - [bakery tirurangadi] [OK] 38/65: Bbc Bakery
+2025-08-09 21:33:29,307 - INFO - [bakery tirurangadi] [OK] 39/65: Noorani Nuts
+2025-08-09 21:33:34,089 - INFO - [bakery tirurangadi] [OK] 40/65: GOOD FOOD
+2025-08-09 21:33:38,844 - INFO - [bakery tirurangadi] [OK] 41/65: Delice Bakery
+2025-08-09 21:33:43,642 - INFO - [bakery tirurangadi] [OK] 42/65: Alfa sweets
+2025-08-09 21:33:48,403 - INFO - [bakery tirurangadi] [OK] 43/65: Cup Cakes Bake&Cafe
+2025-08-09 21:33:53,169 - INFO - [bakery tirurangadi] [OK] 44/65: Choice Bakery
+2025-08-09 21:33:57,971 - INFO - [bakery tirurangadi] [OK] 45/65: INDIAN BAKES & CAFE
+2025-08-09 21:34:02,766 - INFO - [bakery tirurangadi] [OK] 46/65: ALFA BAKERY
+2025-08-09 21:34:07,548 - INFO - [bakery tirurangadi] [OK] 47/65: Mom's Bake
+2025-08-09 21:34:12,327 - INFO - [bakery tirurangadi] [OK] 48/65: KR Bakery
+2025-08-09 21:34:17,080 - INFO - [bakery tirurangadi] [OK] 49/65: Assain Bakery and Coolbar
+2025-08-09 21:34:21,868 - INFO - [bakery tirurangadi] [OK] 50/65: APM Bakes & Cake House
+2025-08-09 21:34:26,664 - INFO - [bakery tirurangadi] [OK] 51/65: Good Bakes Malabar Bakery Hot & Cold Beverages
+2025-08-09 21:34:31,462 - INFO - [bakery tirurangadi] [OK] 52/65: Okkashi cake cafe
+2025-08-09 21:34:36,256 - INFO - [bakery tirurangadi] [OK] 53/65: Ice Bake
+2025-08-09 21:34:41,058 - INFO - [bakery tirurangadi] [OK] 54/65: Shalu bakery
+2025-08-09 21:34:45,833 - INFO - [bakery tirurangadi] [OK] 55/65: Madeena Bakes & Fruits
+2025-08-09 21:34:50,606 - INFO - [bakery tirurangadi] [OK] 56/65: HIGH LIGHT BAKERY
+2025-08-09 21:34:55,432 - INFO - [bakery tirurangadi] [OK] 57/65: Rajab Bakery & Chapati Company
+2025-08-09 21:35:00,185 - INFO - [bakery tirurangadi] [OK] 58/65: TFC juice & bakery
+2025-08-09 21:35:04,941 - INFO - [bakery tirurangadi] [OK] 59/65: NEOS BAKES
+2025-08-09 21:35:09,707 - INFO - [bakery tirurangadi] [OK] 60/65: LP STORE BAKERY
+2025-08-09 21:35:14,474 - INFO - [bakery tirurangadi] [OK] 61/65: RELAX BAKERY
+2025-08-09 21:35:19,227 - INFO - [bakery tirurangadi] [OK] 62/65: VK BAKERY
+2025-08-09 21:35:24,037 - INFO - [bakery tirurangadi] [OK] 63/65: Brozovy
+2025-08-09 21:35:28,771 - INFO - [bakery tirurangadi] [OK] 64/65: Shihabudheen Bappu
+2025-08-09 21:35:33,533 - INFO - [bakery tirurangadi] [OK] 65/65: PUTHEN PEEDIYEKKAL
+2025-08-09 21:35:33,533 - INFO - [bakery tirurangadi] FINAL: 65 places extracted
+2025-08-09 21:35:33,837 - INFO - Saved 65 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\bakery_tirurangadi.csv
+2025-08-09 21:35:33,885 - INFO - Removed duplicates, final count: 719
+2025-08-09 21:35:33,899 - INFO - Saved 719 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:35:33,899 - INFO - bakery tirurangadi: Found 65 places
+2025-08-09 21:35:35,901 - INFO - 
+==================================================
+2025-08-09 21:35:35,901 - INFO - Processing 9/100: hotel malappuram
+2025-08-09 21:35:35,901 - INFO - ==================================================
+2025-08-09 21:35:58,258 - INFO - [hotel malappuram] Found: 12 (Scroll: 1)
+2025-08-09 21:36:00,284 - INFO - [hotel malappuram] Found: 18 (Scroll: 2)
+2025-08-09 21:36:02,322 - INFO - [hotel malappuram] Found: 20 (Scroll: 3)
+2025-08-09 21:36:04,341 - INFO - [hotel malappuram] Found: 24 (Scroll: 4)
+2025-08-09 21:36:06,371 - INFO - [hotel malappuram] Found: 24 (Scroll: 5)
+2025-08-09 21:36:08,399 - INFO - [hotel malappuram] Found: 24 (Scroll: 6)
+2025-08-09 21:36:10,425 - INFO - [hotel malappuram] Found: 24 (Scroll: 7)
+2025-08-09 21:36:12,455 - INFO - [hotel malappuram] Found: 24 (Scroll: 8)
+2025-08-09 21:36:14,488 - INFO - [hotel malappuram] Found: 24 (Scroll: 9)
+2025-08-09 21:36:16,522 - INFO - [hotel malappuram] Found: 24 (Scroll: 10)
+2025-08-09 21:36:18,550 - INFO - [hotel malappuram] Found: 24 (Scroll: 11)
+2025-08-09 21:36:20,582 - INFO - [hotel malappuram] Found: 24 (Scroll: 12)
+2025-08-09 21:36:20,582 - INFO - [hotel malappuram] No more results after 12 scrolls
+2025-08-09 21:36:20,764 - INFO - [hotel malappuram] Total unique listings: 24
+2025-08-09 21:36:25,545 - INFO - [hotel malappuram] [OK] 1/24: PMR GRANDAYS HOTEL
+2025-08-09 21:36:30,320 - INFO - [hotel malappuram] [OK] 2/24: Hotel Woodbine Foliage
+2025-08-09 21:36:35,107 - INFO - [hotel malappuram] [OK] 3/24: Soorya Regency
+2025-08-09 21:36:39,870 - INFO - [hotel malappuram] [OK] 4/24: Espero
+2025-08-09 21:36:44,648 - INFO - [hotel malappuram] [OK] 5/24: Hotel Malappuram Focuz Habitat
+2025-08-09 21:36:49,407 - INFO - [hotel malappuram] [OK] 6/24: Mahendrapuri
+2025-08-09 21:36:54,152 - INFO - [hotel malappuram] [OK] 7/24: Karibu Residency
+2025-08-09 21:36:58,920 - INFO - [hotel malappuram] [OK] 8/24: Bloomax Residency
+2025-08-09 21:37:03,695 - INFO - [hotel malappuram] [OK] 9/24: PLAZA RESIDENCY & CONFERENCE HALL
+2025-08-09 21:37:08,470 - INFO - [hotel malappuram] [OK] 10/24: SUHAILS RESIDENCY
+2025-08-09 21:37:13,230 - INFO - [hotel malappuram] [OK] 11/24: MOONA TOWER
+2025-08-09 21:37:18,026 - INFO - [hotel malappuram] [OK] 12/24: Hill club square
+2025-08-09 21:37:22,812 - INFO - [hotel malappuram] [OK] 13/24: Luxora Hotel and Spa
+2025-08-09 21:37:27,586 - INFO - [hotel malappuram] [OK] 14/24: Malappuram Residency
+2025-08-09 21:37:32,363 - INFO - [hotel malappuram] [OK] 15/24: Malappuram Inn
+2025-08-09 21:37:37,819 - INFO - [hotel malappuram] [OK] 16/24: Hillfort Hotel
+2025-08-09 21:37:42,771 - INFO - [hotel malappuram] [OK] 17/24: Grace Residency
+2025-08-09 21:37:47,527 - INFO - [hotel malappuram] [OK] 18/24: Hotel Hill Palace
+2025-08-09 21:37:52,258 - INFO - [hotel malappuram] [OK] 19/24: Government Guest House, Malappuram
+2025-08-09 21:37:57,024 - INFO - [hotel malappuram] [OK] 20/24: White Residency
+2025-08-09 21:38:01,749 - INFO - [hotel malappuram] [OK] 21/24: OYO 47496 Malappuram Residency
+2025-08-09 21:38:06,506 - INFO - [hotel malappuram] [OK] 22/24: Mount Tourist Home
+2025-08-09 21:38:11,256 - INFO - [hotel malappuram] [OK] 23/24: TAJ Tourist Home
+2025-08-09 21:38:16,010 - INFO - [hotel malappuram] [OK] 24/24: SPOT ON 40063 Adora Plaza Tourist Home
+2025-08-09 21:38:16,012 - INFO - [hotel malappuram] FINAL: 24 places extracted
+2025-08-09 21:38:16,435 - INFO - Saved 24 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\hotel_malappuram.csv
+2025-08-09 21:38:16,455 - INFO - Removed duplicates, final count: 743
+2025-08-09 21:38:16,474 - INFO - Saved 743 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:38:16,474 - INFO - hotel malappuram: Found 24 places
+2025-08-09 21:38:18,476 - INFO - 
+==================================================
+2025-08-09 21:38:18,476 - INFO - Processing 10/100: hotel manjeri
+2025-08-09 21:38:18,476 - INFO - ==================================================
+2025-08-09 21:38:40,008 - INFO - [hotel manjeri] Found: 12 (Scroll: 1)
+2025-08-09 21:38:42,058 - INFO - [hotel manjeri] Found: 18 (Scroll: 2)
+2025-08-09 21:38:44,092 - INFO - [hotel manjeri] Found: 20 (Scroll: 3)
+2025-08-09 21:38:46,121 - INFO - [hotel manjeri] Found: 21 (Scroll: 4)
+2025-08-09 21:38:48,154 - INFO - [hotel manjeri] Found: 21 (Scroll: 5)
+2025-08-09 21:38:50,201 - INFO - [hotel manjeri] Found: 21 (Scroll: 6)
+2025-08-09 21:38:52,242 - INFO - [hotel manjeri] Found: 21 (Scroll: 7)
+2025-08-09 21:38:54,273 - INFO - [hotel manjeri] Found: 21 (Scroll: 8)
+2025-08-09 21:38:56,312 - INFO - [hotel manjeri] Found: 21 (Scroll: 9)
+2025-08-09 21:38:58,337 - INFO - [hotel manjeri] Found: 21 (Scroll: 10)
+2025-08-09 21:39:00,370 - INFO - [hotel manjeri] Found: 21 (Scroll: 11)
+2025-08-09 21:39:02,397 - INFO - [hotel manjeri] Found: 21 (Scroll: 12)
+2025-08-09 21:39:02,397 - INFO - [hotel manjeri] No more results after 12 scrolls
+2025-08-09 21:39:02,569 - INFO - [hotel manjeri] Total unique listings: 21
+2025-08-09 21:39:07,334 - INFO - [hotel manjeri] [OK] 1/21: Hotel Picnic
+2025-08-09 21:39:12,101 - INFO - [hotel manjeri] [OK] 2/21: Dreams Residency
+2025-08-09 21:39:16,931 - INFO - [hotel manjeri] [OK] 3/21: Hotel Diamond Castle
+2025-08-09 21:39:21,688 - INFO - [hotel manjeri] [OK] 4/21: Itsy Hotels Sapphire Residency
+2025-08-09 21:39:26,454 - INFO - [hotel manjeri] [OK] 5/21: The Terrace by Ladder
+2025-08-09 21:39:31,194 - INFO - [hotel manjeri] [OK] 6/21: Hotel Gokulam Residency
+2025-08-09 21:39:35,949 - INFO - [hotel manjeri] [OK] 7/21: Hyde Park Royal Suites
+2025-08-09 21:39:40,708 - INFO - [hotel manjeri] [OK] 8/21: Abhayam Residency
+2025-08-09 21:39:45,475 - INFO - [hotel manjeri] [OK] 9/21: Redbell Suites Manjeri
+2025-08-09 21:39:50,234 - INFO - [hotel manjeri] [OK] 10/21: Zostay Urban Retreat – Deluxe Rooms & Premium Dorms
+2025-08-09 21:39:54,985 - INFO - [hotel manjeri] [OK] 11/21: Malabar Heritage Resorts and Spa
+2025-08-09 21:39:59,777 - INFO - [hotel manjeri] [OK] 12/21: Hotel Malappuram Focuz Habitat
+2025-08-09 21:40:04,567 - INFO - [hotel manjeri] [OK] 13/21: Cloud bay Hotel and Resorts
+2025-08-09 21:40:09,316 - INFO - [hotel manjeri] [OK] 14/21: CENTURY RESIDENCY & CONFERENCE HALL
+2025-08-09 21:40:14,040 - INFO - [hotel manjeri] [OK] 15/21: OYO Flagship Golden Residency Manjeri
+2025-08-09 21:40:18,795 - INFO - [hotel manjeri] [OK] 16/21: Woodbine Lodge
+2025-08-09 21:40:23,567 - INFO - [hotel manjeri] [OK] 17/21: Malabar Tower
+2025-08-09 21:40:28,300 - INFO - [hotel manjeri] [OK] 18/21: Mayookham Auberge
+2025-08-09 21:40:33,060 - INFO - [hotel manjeri] [OK] 19/21: Athimannil Tourist Home
+2025-08-09 21:40:37,858 - INFO - [hotel manjeri] [OK] 20/21: Malappuram Inn
+2025-08-09 21:40:42,630 - INFO - [hotel manjeri] [OK] 21/21: TAJ Tourist Home
+2025-08-09 21:40:42,630 - INFO - [hotel manjeri] FINAL: 21 places extracted
+2025-08-09 21:40:42,987 - INFO - Saved 21 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\hotel_manjeri.csv
+2025-08-09 21:40:43,007 - INFO - Removed duplicates, final count: 764
+2025-08-09 21:40:43,023 - INFO - Saved 764 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:40:43,024 - INFO - hotel manjeri: Found 21 places
+2025-08-09 21:40:45,026 - INFO - 
+==================================================
+2025-08-09 21:40:45,026 - INFO - Processing 11/100: hotel perinthalmanna
+2025-08-09 21:40:45,026 - INFO - ==================================================
+2025-08-09 21:41:05,332 - INFO - [hotel perinthalmanna] Found: 12 (Scroll: 1)
+2025-08-09 21:41:07,352 - INFO - [hotel perinthalmanna] Found: 18 (Scroll: 2)
+2025-08-09 21:41:09,384 - INFO - [hotel perinthalmanna] Found: 20 (Scroll: 3)
+2025-08-09 21:41:11,415 - INFO - [hotel perinthalmanna] Found: 26 (Scroll: 4)
+2025-08-09 21:41:13,462 - INFO - [hotel perinthalmanna] Found: 32 (Scroll: 5)
+2025-08-09 21:41:15,486 - INFO - [hotel perinthalmanna] Found: 38 (Scroll: 6)
+2025-08-09 21:41:17,532 - INFO - [hotel perinthalmanna] Found: 40 (Scroll: 7)
+2025-08-09 21:41:19,579 - INFO - [hotel perinthalmanna] Found: 46 (Scroll: 8)
+2025-08-09 21:41:21,623 - INFO - [hotel perinthalmanna] Found: 52 (Scroll: 9)
+2025-08-09 21:41:23,660 - INFO - [hotel perinthalmanna] Found: 56 (Scroll: 10)
+2025-08-09 21:41:25,693 - INFO - [hotel perinthalmanna] Found: 56 (Scroll: 11)
+2025-08-09 21:41:27,723 - INFO - [hotel perinthalmanna] Found: 56 (Scroll: 12)
+2025-08-09 21:41:29,774 - INFO - [hotel perinthalmanna] Found: 56 (Scroll: 13)
+2025-08-09 21:41:31,803 - INFO - [hotel perinthalmanna] Found: 56 (Scroll: 14)
+2025-08-09 21:41:33,832 - INFO - [hotel perinthalmanna] Found: 56 (Scroll: 15)
+2025-08-09 21:41:35,857 - INFO - [hotel perinthalmanna] Found: 56 (Scroll: 16)
+2025-08-09 21:41:37,878 - INFO - [hotel perinthalmanna] Found: 56 (Scroll: 17)
+2025-08-09 21:41:39,926 - INFO - [hotel perinthalmanna] Found: 56 (Scroll: 18)
+2025-08-09 21:41:39,926 - INFO - [hotel perinthalmanna] No more results after 18 scrolls
+2025-08-09 21:41:40,364 - INFO - [hotel perinthalmanna] Total unique listings: 55
+2025-08-09 21:41:45,180 - INFO - [hotel perinthalmanna] [OK] 1/55: Hi-TON Hotel
+2025-08-09 21:41:49,998 - INFO - [hotel perinthalmanna] [OK] 2/55: Malabar Residency
+2025-08-09 21:41:54,781 - INFO - [hotel perinthalmanna] [OK] 3/55: MPS Royal Suites
+2025-08-09 21:41:59,576 - INFO - [hotel perinthalmanna] [OK] 4/55: Vavas Inn & Suites - Premium Rooms
+2025-08-09 21:42:04,371 - INFO - [hotel perinthalmanna] [OK] 5/55: Metro Regency
+2025-08-09 21:42:09,142 - INFO - [hotel perinthalmanna] [OK] 6/55: Apsara Residency
+2025-08-09 21:42:13,928 - INFO - [hotel perinthalmanna] [OK] 7/55: Lantern Apart Hotel
+2025-08-09 21:42:18,727 - INFO - [hotel perinthalmanna] [OK] 8/55: Pms Kallada Residency ( പി എം എസ് കല്ലട റസിഡെൻസി )
+2025-08-09 21:42:23,527 - INFO - [hotel perinthalmanna] [OK] 9/55: Uc Plaza
+2025-08-09 21:42:28,319 - INFO - [hotel perinthalmanna] [OK] 10/55: Aarya Bhavan Hotel & Residency
+2025-08-09 21:42:33,117 - INFO - [hotel perinthalmanna] [OK] 11/55: Regal Residency
+2025-08-09 21:42:37,888 - INFO - [hotel perinthalmanna] [OK] 12/55: K P M Residency
+2025-08-09 21:42:42,686 - INFO - [hotel perinthalmanna] [OK] 13/55: S M Residency
+2025-08-09 21:42:47,448 - INFO - [hotel perinthalmanna] [OK] 14/55: Hotel Hazmi Inn
+2025-08-09 21:42:52,243 - INFO - [hotel perinthalmanna] [OK] 15/55: KK RESIDENCY
+2025-08-09 21:42:57,029 - INFO - [hotel perinthalmanna] [OK] 16/55: TBG Residency
+2025-08-09 21:43:01,788 - INFO - [hotel perinthalmanna] [OK] 17/55: Abrigo Resorts
+2025-08-09 21:43:06,589 - INFO - [hotel perinthalmanna] [OK] 18/55: Blue Diamond Residency Perinthalmanna
+2025-08-09 21:43:11,405 - INFO - [hotel perinthalmanna] [OK] 19/55: Dreams Residency
+2025-08-09 21:43:16,196 - INFO - [hotel perinthalmanna] [OK] 20/55: Safa residency
+2025-08-09 21:43:20,968 - INFO - [hotel perinthalmanna] [OK] 21/55: HOTEL MUGHAL PARK & HERITAGE INN
+2025-08-09 21:43:25,742 - INFO - [hotel perinthalmanna] [OK] 22/55: Ncomforts Luxurious Apartments
+2025-08-09 21:43:30,571 - INFO - [hotel perinthalmanna] [OK] 23/55: Hotel Erica International
+2025-08-09 21:43:35,356 - INFO - [hotel perinthalmanna] [OK] 24/55: LUXIE INN MALABAR
+2025-08-09 21:43:40,131 - INFO - [hotel perinthalmanna] [OK] 25/55: Bab Al Shifa Residency
+2025-08-09 21:43:44,932 - INFO - [hotel perinthalmanna] [OK] 26/55: Mountain Creek Executive Suites
+2025-08-09 21:43:49,777 - INFO - [hotel perinthalmanna] [OK] 27/55: Hotel Sabrina AC Family Restaurant ,Bar Attached
+2025-08-09 21:43:54,552 - INFO - [hotel perinthalmanna] [OK] 28/55: EAGLE NEST RESIDENCY
+2025-08-09 21:43:59,364 - INFO - [hotel perinthalmanna] [OK] 29/55: Pride Residency
+2025-08-09 21:44:04,155 - INFO - [hotel perinthalmanna] [OK] 30/55: Lotus Grand Residency
+2025-08-09 21:44:08,924 - INFO - [hotel perinthalmanna] [OK] 31/55: CT Plaza hotel
+2025-08-09 21:44:13,732 - INFO - [hotel perinthalmanna] [OK] 32/55: M P Residency
+2025-08-09 21:44:18,550 - INFO - [hotel perinthalmanna] [OK] 33/55: Green Hill Resort
+2025-08-09 21:44:23,369 - INFO - [hotel perinthalmanna] [OK] 34/55: Le Malabar Hotel
+2025-08-09 21:44:28,149 - INFO - [hotel perinthalmanna] [OK] 35/55: SAI LODGI
+2025-08-09 21:44:32,940 - INFO - [hotel perinthalmanna] [OK] 36/55: Delta Residency Perinthalmanna
+2025-08-09 21:44:37,811 - INFO - [hotel perinthalmanna] [OK] 37/55: Hotel Rithu Regency and Vegetarian Restaurant
+2025-08-09 21:44:42,611 - INFO - [hotel perinthalmanna] [OK] 38/55: Layali Tourist Home
+2025-08-09 21:44:47,436 - INFO - [hotel perinthalmanna] [OK] 39/55: Hotel Royal Plaza
+2025-08-09 21:44:52,227 - INFO - [hotel perinthalmanna] [OK] 40/55: BOAT RESORT
+2025-08-09 21:44:57,045 - INFO - [hotel perinthalmanna] [OK] 41/55: City Complex Lodge
+2025-08-09 21:45:01,849 - INFO - [hotel perinthalmanna] [OK] 42/55: Khaleej Residency
+2025-08-09 21:45:06,624 - INFO - [hotel perinthalmanna] [OK] 43/55: Golden Residency Perinthamanna
+2025-08-09 21:45:11,393 - INFO - [hotel perinthalmanna] [OK] 44/55: Town Inn Apartments
+2025-08-09 21:45:16,147 - INFO - [hotel perinthalmanna] [OK] 45/55: NARMADA HOMESTAY
+2025-08-09 21:45:20,937 - INFO - [hotel perinthalmanna] [OK] 46/55: Hotel Mookambika
+2025-08-09 21:45:25,714 - INFO - [hotel perinthalmanna] [OK] 47/55: Chengara Heritage
+2025-08-09 21:45:30,500 - INFO - [hotel perinthalmanna] [OK] 48/55: OYO 65142 Grand Residency
+2025-08-09 21:45:35,270 - INFO - [hotel perinthalmanna] [OK] 49/55: Blue Mont Residency
+2025-08-09 21:45:40,037 - INFO - [hotel perinthalmanna] [OK] 50/55: Hillview Residency
+2025-08-09 21:45:44,807 - INFO - [hotel perinthalmanna] [OK] 51/55: BBC Hill View Resort
+2025-08-09 21:45:49,577 - INFO - [hotel perinthalmanna] [OK] 52/55: OYO 45000 Mountain Creek
+2025-08-09 21:45:54,361 - INFO - [hotel perinthalmanna] [OK] 53/55: Diamond residency and Heritage Home
+2025-08-09 21:45:59,125 - INFO - [hotel perinthalmanna] [OK] 54/55: OYO 65957 Narmada Homestay
+2025-08-09 21:46:03,911 - INFO - [hotel perinthalmanna] [OK] 55/55: GRILLCHOPS
+2025-08-09 21:46:03,911 - INFO - [hotel perinthalmanna] FINAL: 55 places extracted
+2025-08-09 21:46:04,262 - INFO - Saved 55 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\hotel_perinthalmanna.csv
+2025-08-09 21:46:04,281 - INFO - Removed duplicates, final count: 819
+2025-08-09 21:46:04,301 - INFO - Saved 819 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:46:04,301 - INFO - hotel perinthalmanna: Found 55 places
+2025-08-09 21:46:06,303 - INFO - 
+==================================================
+2025-08-09 21:46:06,303 - INFO - Processing 12/100: hotel nilambur
+2025-08-09 21:46:06,303 - INFO - ==================================================
+2025-08-09 21:46:20,691 - INFO - [hotel nilambur] Found: 12 (Scroll: 1)
+2025-08-09 21:46:22,740 - INFO - [hotel nilambur] Found: 18 (Scroll: 2)
+2025-08-09 21:46:24,776 - INFO - [hotel nilambur] Found: 20 (Scroll: 3)
+2025-08-09 21:46:26,814 - INFO - [hotel nilambur] Found: 24 (Scroll: 4)
+2025-08-09 21:46:28,849 - INFO - [hotel nilambur] Found: 24 (Scroll: 5)
+2025-08-09 21:46:30,892 - INFO - [hotel nilambur] Found: 24 (Scroll: 6)
+2025-08-09 21:46:32,928 - INFO - [hotel nilambur] Found: 24 (Scroll: 7)
+2025-08-09 21:46:34,978 - INFO - [hotel nilambur] Found: 24 (Scroll: 8)
+2025-08-09 21:46:37,012 - INFO - [hotel nilambur] Found: 24 (Scroll: 9)
+2025-08-09 21:46:39,058 - INFO - [hotel nilambur] Found: 24 (Scroll: 10)
+2025-08-09 21:46:41,096 - INFO - [hotel nilambur] Found: 24 (Scroll: 11)
+2025-08-09 21:46:43,131 - INFO - [hotel nilambur] Found: 24 (Scroll: 12)
+2025-08-09 21:46:43,131 - INFO - [hotel nilambur] No more results after 12 scrolls
+2025-08-09 21:46:43,327 - INFO - [hotel nilambur] Total unique listings: 24
+2025-08-09 21:46:48,115 - INFO - [hotel nilambur] [OK] 1/24: HOTEL PARK RESIDENCY
+2025-08-09 21:46:52,881 - INFO - [hotel nilambur] [OK] 2/24: Emarald Hotels Nilambur
+2025-08-09 21:46:57,700 - INFO - [hotel nilambur] [OK] 3/24: Hotel GD International's Redfort
+2025-08-09 21:47:02,502 - INFO - [hotel nilambur] [OK] 4/24: WILLOW RESIDENCY
+2025-08-09 21:47:07,248 - INFO - [hotel nilambur] [OK] 5/24: Melbon Residency
+2025-08-09 21:47:11,996 - INFO - [hotel nilambur] [OK] 6/24: Rose International Hotel
+2025-08-09 21:47:16,751 - INFO - [hotel nilambur] [OK] 7/24: Nilambur Manor Hotel
+2025-08-09 21:47:21,500 - INFO - [hotel nilambur] [OK] 8/24: KTDC Tamarind
+2025-08-09 21:47:26,265 - INFO - [hotel nilambur] [OK] 9/24: Rockdale Resort
+2025-08-09 21:47:31,005 - INFO - [hotel nilambur] [OK] 10/24: Nilambapuri Residency
+2025-08-09 21:47:35,768 - INFO - [hotel nilambur] [OK] 11/24: Teak Town
+2025-08-09 21:47:40,554 - INFO - [hotel nilambur] [OK] 12/24: Sinai Tourist Home
+2025-08-09 21:47:45,291 - INFO - [hotel nilambur] [OK] 13/24: AL RAYAN Lodge
+2025-08-09 21:47:50,044 - INFO - [hotel nilambur] [OK] 14/24: ECHO STAY ROOMS
+2025-08-09 21:47:54,796 - INFO - [hotel nilambur] [OK] 15/24: golden teak tourist home
+2025-08-09 21:47:59,551 - INFO - [hotel nilambur] [OK] 16/24: City Tourist Home
+2025-08-09 21:48:04,325 - INFO - [hotel nilambur] [OK] 17/24: Galaxy Tourist Home
+2025-08-09 21:48:09,093 - INFO - [hotel nilambur] [OK] 18/24: Hotel Samrat & Tourist Home
+2025-08-09 21:48:13,844 - INFO - [hotel nilambur] [OK] 19/24: AYURRIVER RESORTS
+2025-08-09 21:48:18,577 - INFO - [hotel nilambur] [OK] 20/24: Arcadia Tourist Home
+2025-08-09 21:48:23,338 - INFO - [hotel nilambur] [OK] 21/24: Eeaden Homestay
+2025-08-09 21:48:28,095 - INFO - [hotel nilambur] [OK] 22/24: Puthiya kovilakam Heritage
+2025-08-09 21:48:32,824 - INFO - [hotel nilambur] [OK] 23/24: River View Residency : Best Resort Hotel In Nilambur | Ooty Road Hotel | Home Stay
+2025-08-09 21:48:37,580 - INFO - [hotel nilambur] [OK] 24/24: Nilambu homestay
+2025-08-09 21:48:37,580 - INFO - [hotel nilambur] FINAL: 24 places extracted
+2025-08-09 21:48:37,908 - INFO - Saved 24 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\hotel_nilambur.csv
+2025-08-09 21:48:37,929 - INFO - Removed duplicates, final count: 843
+2025-08-09 21:48:37,950 - INFO - Saved 843 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:48:37,951 - INFO - hotel nilambur: Found 24 places
+2025-08-09 21:48:39,952 - INFO - 
+==================================================
+2025-08-09 21:48:39,952 - INFO - Processing 13/100: hotel tirur
+2025-08-09 21:48:39,952 - INFO - ==================================================
+2025-08-09 21:48:54,549 - INFO - [hotel tirur] Found: 12 (Scroll: 1)
+2025-08-09 21:48:56,590 - INFO - [hotel tirur] Found: 18 (Scroll: 2)
+2025-08-09 21:48:58,617 - INFO - [hotel tirur] Found: 20 (Scroll: 3)
+2025-08-09 21:49:00,658 - INFO - [hotel tirur] Found: 26 (Scroll: 4)
+2025-08-09 21:49:02,687 - INFO - [hotel tirur] Found: 32 (Scroll: 5)
+2025-08-09 21:49:04,716 - INFO - [hotel tirur] Found: 38 (Scroll: 6)
+2025-08-09 21:49:06,733 - INFO - [hotel tirur] Found: 40 (Scroll: 7)
+2025-08-09 21:49:08,767 - INFO - [hotel tirur] Found: 44 (Scroll: 8)
+2025-08-09 21:49:10,806 - INFO - [hotel tirur] Found: 44 (Scroll: 9)
+2025-08-09 21:49:12,835 - INFO - [hotel tirur] Found: 44 (Scroll: 10)
+2025-08-09 21:49:14,882 - INFO - [hotel tirur] Found: 44 (Scroll: 11)
+2025-08-09 21:49:16,928 - INFO - [hotel tirur] Found: 44 (Scroll: 12)
+2025-08-09 21:49:18,962 - INFO - [hotel tirur] Found: 44 (Scroll: 13)
+2025-08-09 21:49:21,008 - INFO - [hotel tirur] Found: 44 (Scroll: 14)
+2025-08-09 21:49:23,044 - INFO - [hotel tirur] Found: 44 (Scroll: 15)
+2025-08-09 21:49:25,084 - INFO - [hotel tirur] Found: 44 (Scroll: 16)
+2025-08-09 21:49:25,084 - INFO - [hotel tirur] No more results after 16 scrolls
+2025-08-09 21:49:25,426 - INFO - [hotel tirur] Total unique listings: 44
+2025-08-09 21:49:30,222 - INFO - [hotel tirur] [OK] 1/44: Grace Residency Tirur
+2025-08-09 21:49:35,004 - INFO - [hotel tirur] [OK] 2/44: Sangamam residency
+2025-08-09 21:49:39,765 - INFO - [hotel tirur] [OK] 3/44: Hotel Continento
+2025-08-09 21:49:44,515 - INFO - [hotel tirur] [OK] 4/44: Tirur Tourist Home
+2025-08-09 21:49:49,322 - INFO - [hotel tirur] [OK] 5/44: HOTEL ARYAAS
+2025-08-09 21:49:54,158 - INFO - [hotel tirur] [OK] 6/44: Sabka Hotel
+2025-08-09 21:49:58,914 - INFO - [hotel tirur] [OK] 7/44: Metro Residency
+2025-08-09 21:50:03,689 - INFO - [hotel tirur] [OK] 8/44: City Hotel
+2025-08-09 21:50:08,424 - INFO - [hotel tirur] [OK] 9/44: Greencity Tourist Home
+2025-08-09 21:50:13,180 - INFO - [hotel tirur] [OK] 10/44: Sangam Vegetarian Hotel Tirur
+2025-08-09 21:50:17,939 - INFO - [hotel tirur] [OK] 11/44: PHOENIX RESIDENCY
+2025-08-09 21:50:22,726 - INFO - [hotel tirur] [OK] 12/44: Three Ace Hotel
+2025-08-09 21:50:27,476 - INFO - [hotel tirur] [OK] 13/44: Grand Palace Hotel
+2025-08-09 21:50:32,287 - INFO - [hotel tirur] [OK] 14/44: Hotel Kalpa
+2025-08-09 21:50:37,062 - INFO - [hotel tirur] [OK] 15/44: Hotel Friends
+2025-08-09 21:50:41,830 - INFO - [hotel tirur] [OK] 16/44: Hotel Nasis, Tirur
+2025-08-09 21:50:46,640 - INFO - [hotel tirur] [OK] 17/44: SHANTHAR VEGETARIAN RESTAURANT
+2025-08-09 21:50:51,437 - INFO - [hotel tirur] [OK] 18/44: Prince Hotel
+2025-08-09 21:50:56,202 - INFO - [hotel tirur] [OK] 19/44: Khaleez Restaurant
+2025-08-09 21:51:01,071 - INFO - [hotel tirur] [OK] 20/44: Sree Ganesh Hotel
+2025-08-09 21:51:05,861 - INFO - [hotel tirur] [OK] 21/44: Hotel
+2025-08-09 21:51:10,615 - INFO - [hotel tirur] [OK] 22/44: PROSLAND
+2025-08-09 21:51:15,408 - INFO - [hotel tirur] [OK] 23/44: Hotel Madeena
+2025-08-09 21:51:20,207 - INFO - [hotel tirur] [OK] 24/44: Bismillah Family Restaurant
+2025-08-09 21:51:25,010 - INFO - [hotel tirur] [OK] 25/44: Lillis Arabian Restaurant
+2025-08-09 21:51:29,789 - INFO - [hotel tirur] [OK] 26/44: Hotel Sheeba
+2025-08-09 21:51:34,561 - INFO - [hotel tirur] [OK] 27/44: PS Residency
+2025-08-09 21:51:39,352 - INFO - [hotel tirur] [OK] 28/44: Sabka Restaurant
+2025-08-09 21:51:44,184 - INFO - [hotel tirur] [OK] 29/44: KUDUMBASREE JANAKEEYA HOTEL
+2025-08-09 21:51:48,924 - INFO - [hotel tirur] [OK] 30/44: Thottiyil Tourist Home
+2025-08-09 21:51:53,707 - INFO - [hotel tirur] [OK] 31/44: Travellers Bungalow
+2025-08-09 21:51:58,529 - INFO - [hotel tirur] [OK] 32/44: Hotel Simla
+2025-08-09 21:52:03,291 - INFO - [hotel tirur] [OK] 33/44: Oottupura Vanitha Hotel
+2025-08-09 21:52:08,054 - INFO - [hotel tirur] [OK] 34/44: Grand Hotel
+2025-08-09 21:52:12,929 - INFO - [hotel tirur] [OK] 35/44: Lillis Family Restaurant
+2025-08-09 21:52:17,811 - INFO - [hotel tirur] [OK] 36/44: City Park
+2025-08-09 21:52:22,670 - INFO - [hotel tirur] [OK] 37/44: FRIENDS RESTAURANT
+2025-08-09 21:52:27,515 - INFO - [hotel tirur] [OK] 38/44: Rehmath Hotel
+2025-08-09 21:52:32,362 - INFO - [hotel tirur] [OK] 39/44: Hotel Zodiac
+2025-08-09 21:52:37,173 - INFO - [hotel tirur] [OK] 40/44: Hotel Eastern
+2025-08-09 21:52:42,002 - INFO - [hotel tirur] [OK] 41/44: Friends hotel
+2025-08-09 21:52:46,793 - INFO - [hotel tirur] [OK] 42/44: LAZEEZ MUGHLAI RESTAURANT
+2025-08-09 21:52:51,578 - INFO - [hotel tirur] [OK] 43/44: Olive Pure Vegetarian Restaurant
+2025-08-09 21:52:56,353 - INFO - [hotel tirur] [OK] 44/44: TOT - The Open Tale - Kuzhi Mandhi
+2025-08-09 21:52:56,353 - INFO - [hotel tirur] FINAL: 44 places extracted
+2025-08-09 21:52:56,758 - INFO - Saved 44 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\hotel_tirur.csv
+2025-08-09 21:52:56,785 - INFO - Removed duplicates, final count: 887
+2025-08-09 21:52:56,814 - INFO - Saved 887 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:52:56,815 - INFO - hotel tirur: Found 44 places
+2025-08-09 21:52:58,816 - INFO - 
+==================================================
+2025-08-09 21:52:58,816 - INFO - Processing 14/100: hotel ponnani
+2025-08-09 21:52:58,816 - INFO - ==================================================
+2025-08-09 21:53:32,270 - INFO - [hotel ponnani] Found: 12 (Scroll: 1)
+2025-08-09 21:53:34,317 - INFO - [hotel ponnani] Found: 15 (Scroll: 2)
+2025-08-09 21:53:36,357 - INFO - [hotel ponnani] Found: 15 (Scroll: 3)
+2025-08-09 21:53:38,393 - INFO - [hotel ponnani] Found: 15 (Scroll: 4)
+2025-08-09 21:53:40,431 - INFO - [hotel ponnani] Found: 15 (Scroll: 5)
+2025-08-09 21:53:42,459 - INFO - [hotel ponnani] Found: 15 (Scroll: 6)
+2025-08-09 21:53:44,501 - INFO - [hotel ponnani] Found: 15 (Scroll: 7)
+2025-08-09 21:53:46,540 - INFO - [hotel ponnani] Found: 15 (Scroll: 8)
+2025-08-09 21:53:48,571 - INFO - [hotel ponnani] Found: 15 (Scroll: 9)
+2025-08-09 21:53:50,609 - INFO - [hotel ponnani] Found: 15 (Scroll: 10)
+2025-08-09 21:53:50,609 - INFO - [hotel ponnani] No more results after 10 scrolls
+2025-08-09 21:53:50,734 - INFO - [hotel ponnani] Total unique listings: 15
+2025-08-09 21:53:57,339 - INFO - [hotel ponnani] [OK] 1/15: Rouba Residency
+2025-08-09 21:54:02,139 - INFO - [hotel ponnani] [OK] 2/15: Hotel Chitra Ponnani
+2025-08-09 21:54:06,910 - INFO - [hotel ponnani] [OK] 3/15: Bombay Hotel
+2025-08-09 21:54:11,701 - INFO - [hotel ponnani] [OK] 4/15: HOTEL MARFI
+2025-08-09 21:54:16,457 - INFO - [hotel ponnani] [OK] 5/15: Harbour Heritage Restaurant
+2025-08-09 21:54:21,231 - INFO - [hotel ponnani] [OK] 6/15: Haneena Restaurant
+2025-08-09 21:54:26,031 - INFO - [hotel ponnani] [OK] 7/15: Safa restaurant
+2025-08-09 21:54:30,770 - INFO - [hotel ponnani] [OK] 8/15: Hotel GALAXY
+2025-08-09 21:54:35,546 - INFO - [hotel ponnani] [OK] 9/15: Surabhi Hotel
+2025-08-09 21:54:40,311 - INFO - [hotel ponnani] [OK] 10/15: Janakeeya hotel
+2025-08-09 21:54:45,064 - INFO - [hotel ponnani] [OK] 11/15: Uri Traditional Foods
+2025-08-09 21:54:49,797 - INFO - [hotel ponnani] [OK] 12/15: Benzy Tourist Home
+2025-08-09 21:54:54,619 - INFO - [hotel ponnani] [OK] 13/15: Nammal Hotel
+2025-08-09 21:54:59,342 - INFO - [hotel ponnani] [OK] 14/15: Olive Tourist Home
+2025-08-09 21:55:04,066 - INFO - [hotel ponnani] [OK] 15/15: Chakravarthy Lodge
+2025-08-09 21:55:04,066 - INFO - [hotel ponnani] FINAL: 15 places extracted
+2025-08-09 21:55:04,418 - INFO - Saved 15 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\hotel_ponnani.csv
+2025-08-09 21:55:04,438 - INFO - Removed duplicates, final count: 902
+2025-08-09 21:55:04,456 - INFO - Saved 902 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:55:04,456 - INFO - hotel ponnani: Found 15 places
+2025-08-09 21:55:06,457 - INFO - 
+==================================================
+2025-08-09 21:55:06,457 - INFO - Processing 15/100: hotel kondotty
+2025-08-09 21:55:06,457 - INFO - ==================================================
+2025-08-09 21:55:23,378 - INFO - [hotel kondotty] Found: 12 (Scroll: 1)
+2025-08-09 21:55:25,433 - INFO - [hotel kondotty] Found: 18 (Scroll: 2)
+2025-08-09 21:55:27,461 - INFO - [hotel kondotty] Found: 20 (Scroll: 3)
+2025-08-09 21:55:29,499 - INFO - [hotel kondotty] Found: 26 (Scroll: 4)
+2025-08-09 21:55:31,539 - INFO - [hotel kondotty] Found: 32 (Scroll: 5)
+2025-08-09 21:55:33,587 - INFO - [hotel kondotty] Found: 34 (Scroll: 6)
+2025-08-09 21:55:35,635 - INFO - [hotel kondotty] Found: 34 (Scroll: 7)
+2025-08-09 21:55:37,696 - INFO - [hotel kondotty] Found: 34 (Scroll: 8)
+2025-08-09 21:55:39,734 - INFO - [hotel kondotty] Found: 34 (Scroll: 9)
+2025-08-09 21:55:41,778 - INFO - [hotel kondotty] Found: 34 (Scroll: 10)
+2025-08-09 21:55:43,813 - INFO - [hotel kondotty] Found: 34 (Scroll: 11)
+2025-08-09 21:55:45,862 - INFO - [hotel kondotty] Found: 34 (Scroll: 12)
+2025-08-09 21:55:47,914 - INFO - [hotel kondotty] Found: 34 (Scroll: 13)
+2025-08-09 21:55:49,959 - INFO - [hotel kondotty] Found: 34 (Scroll: 14)
+2025-08-09 21:55:49,959 - INFO - [hotel kondotty] No more results after 14 scrolls
+2025-08-09 21:55:50,229 - INFO - [hotel kondotty] Total unique listings: 33
+2025-08-09 21:55:55,001 - INFO - [hotel kondotty] [OK] 1/33: HOTEL AFRAD INTERNATIONAL KONDOTTY
+2025-08-09 21:55:59,782 - INFO - [hotel kondotty] [OK] 2/33: KOWJU Airport Hotel
+2025-08-09 21:56:04,562 - INFO - [hotel kondotty] [OK] 3/33: Tamarind KTDC, Kondotty, Malappuram
+2025-08-09 21:56:09,320 - INFO - [hotel kondotty] [OK] 4/33: Atland Residency
+2025-08-09 21:56:14,108 - INFO - [hotel kondotty] [OK] 5/33: Hotel Cason International
+2025-08-09 21:56:18,898 - INFO - [hotel kondotty] [OK] 6/33: Corridor Calicut Airport Hotel
+2025-08-09 21:56:23,663 - INFO - [hotel kondotty] [OK] 7/33: Misty Green Hills Parks & Resorts
+2025-08-09 21:56:28,426 - INFO - [hotel kondotty] [OK] 8/33: Treebo Premium Park Hotel
+2025-08-09 21:56:33,195 - INFO - [hotel kondotty] [OK] 9/33: Redbell Residency
+2025-08-09 21:56:37,973 - INFO - [hotel kondotty] [OK] 10/33: PMR Grandays Airport Hotel
+2025-08-09 21:56:42,748 - INFO - [hotel kondotty] [OK] 11/33: Nuhman Hotel (Tourist Home)
+2025-08-09 21:56:47,515 - INFO - [hotel kondotty] [OK] 12/33: Zahir Residency
+2025-08-09 21:56:52,322 - INFO - [hotel kondotty] [OK] 13/33: THEKKUMPURAM TOURIST HOME
+2025-08-09 21:56:57,082 - INFO - [hotel kondotty] [OK] 14/33: Thekkumpuram Residency
+2025-08-09 21:57:01,854 - INFO - [hotel kondotty] [OK] 15/33: Rahma residency
+2025-08-09 21:57:06,624 - INFO - [hotel kondotty] [OK] 16/33: Hotel Pushpak Grande
+2025-08-09 21:57:11,396 - INFO - [hotel kondotty] [OK] 17/33: Luxora Hotel and Spa
+2025-08-09 21:57:16,226 - INFO - [hotel kondotty] [OK] 18/33: Casita Greens
+2025-08-09 21:57:21,022 - INFO - [hotel kondotty] [OK] 19/33: Pullikal Tower & Residency
+2025-08-09 21:57:25,791 - INFO - [hotel kondotty] [OK] 20/33: Hotel Benzy Palace
+2025-08-09 21:57:30,540 - INFO - [hotel kondotty] [OK] 21/33: OYO 72217 Redbell Inn
+2025-08-09 21:57:35,331 - INFO - [hotel kondotty] [OK] 22/33: Hotel Fathima Palace
+2025-08-09 21:57:40,082 - INFO - [hotel kondotty] [OK] 23/33: SJ Residency airport hotel- Rooms Near Airport
+2025-08-09 21:57:44,859 - INFO - [hotel kondotty] [OK] 24/33: Kairali Residency
+2025-08-09 21:57:49,616 - INFO - [hotel kondotty] [OK] 25/33: OYO 73890 Red bell residency
+2025-08-09 21:57:54,402 - INFO - [hotel kondotty] [OK] 26/33: Ayur arogyam Rooms & Spa Karipur
+2025-08-09 21:57:59,164 - INFO - [hotel kondotty] [OK] 27/33: Lecastillo Tourist Home
+2025-08-09 21:58:03,942 - INFO - [hotel kondotty] [OK] 28/33: The Perch Airport Hotel
+2025-08-09 21:58:08,683 - INFO - [hotel kondotty] [OK] 29/33: OYO 48345 Qoyoq International
+2025-08-09 21:58:13,439 - INFO - [hotel kondotty] [OK] 30/33: OYO Flagship Karipur Residency
+2025-08-09 21:58:18,212 - INFO - [hotel kondotty] [OK] 31/33: OYO 28711 Structural Homes(nesr Emea)
+2025-08-09 21:58:22,995 - INFO - [hotel kondotty] [OK] 32/33: Nexstay Hotels & Resorts
+2025-08-09 21:58:27,770 - INFO - [hotel kondotty] [OK] 33/33: OYO 16417 Zahir Residency
+2025-08-09 21:58:27,770 - INFO - [hotel kondotty] FINAL: 33 places extracted
+2025-08-09 21:58:28,140 - INFO - Saved 33 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\hotel_kondotty.csv
+2025-08-09 21:58:28,163 - INFO - Removed duplicates, final count: 935
+2025-08-09 21:58:28,183 - INFO - Saved 935 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:58:28,183 - INFO - hotel kondotty: Found 33 places
+2025-08-09 21:58:30,185 - INFO - 
+==================================================
+2025-08-09 21:58:30,185 - INFO - Processing 16/100: hotel tirurangadi
+2025-08-09 21:58:30,185 - INFO - ==================================================
+2025-08-09 21:58:48,768 - INFO - [hotel tirurangadi] Found: 5 (Scroll: 1)
+2025-08-09 21:58:50,797 - INFO - [hotel tirurangadi] Found: 5 (Scroll: 2)
+2025-08-09 21:58:52,840 - INFO - [hotel tirurangadi] Found: 5 (Scroll: 3)
+2025-08-09 21:58:54,883 - INFO - [hotel tirurangadi] Found: 5 (Scroll: 4)
+2025-08-09 21:58:56,923 - INFO - [hotel tirurangadi] Found: 5 (Scroll: 5)
+2025-08-09 21:58:58,959 - INFO - [hotel tirurangadi] Found: 5 (Scroll: 6)
+2025-08-09 21:59:00,976 - INFO - [hotel tirurangadi] Found: 5 (Scroll: 7)
+2025-08-09 21:59:03,020 - INFO - [hotel tirurangadi] Found: 5 (Scroll: 8)
+2025-08-09 21:59:05,053 - INFO - [hotel tirurangadi] Found: 5 (Scroll: 9)
+2025-08-09 21:59:05,054 - INFO - [hotel tirurangadi] No more results after 9 scrolls
+2025-08-09 21:59:05,095 - INFO - [hotel tirurangadi] Total unique listings: 5
+2025-08-09 21:59:09,866 - INFO - [hotel tirurangadi] [OK] 1/5: Zaina's INN
+2025-08-09 21:59:14,673 - INFO - [hotel tirurangadi] [OK] 2/5: SR Restaurant
+2025-08-09 21:59:19,432 - INFO - [hotel tirurangadi] [OK] 3/5: Hotel Ayodhya
+2025-08-09 21:59:24,197 - INFO - [hotel tirurangadi] [OK] 4/5: Kudumbashree janakeeya hotel, tirurangadi
+2025-08-09 21:59:28,930 - INFO - [hotel tirurangadi] [OK] 5/5: NM HOTEL
+2025-08-09 21:59:28,930 - INFO - [hotel tirurangadi] FINAL: 5 places extracted
+2025-08-09 21:59:29,308 - INFO - Saved 5 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\hotel_tirurangadi.csv
+2025-08-09 21:59:29,329 - INFO - Removed duplicates, final count: 940
+2025-08-09 21:59:29,347 - INFO - Saved 940 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 21:59:29,348 - INFO - hotel tirurangadi: Found 5 places
+2025-08-09 21:59:31,350 - INFO - 
+==================================================
+2025-08-09 21:59:31,350 - INFO - Processing 17/100: restaurant malappuram
+2025-08-09 21:59:31,350 - INFO - ==================================================
+2025-08-09 21:59:52,287 - INFO - [restaurant malappuram] Found: 12 (Scroll: 1)
+2025-08-09 21:59:54,320 - INFO - [restaurant malappuram] Found: 18 (Scroll: 2)
+2025-08-09 21:59:56,368 - INFO - [restaurant malappuram] Found: 20 (Scroll: 3)
+2025-08-09 21:59:58,413 - INFO - [restaurant malappuram] Found: 20 (Scroll: 4)
+2025-08-09 22:00:00,466 - INFO - [restaurant malappuram] Found: 32 (Scroll: 5)
+2025-08-09 22:00:02,504 - INFO - [restaurant malappuram] Found: 38 (Scroll: 6)
+2025-08-09 22:00:04,538 - INFO - [restaurant malappuram] Found: 40 (Scroll: 7)
+2025-08-09 22:00:06,577 - INFO - [restaurant malappuram] Found: 46 (Scroll: 8)
+2025-08-09 22:00:08,614 - INFO - [restaurant malappuram] Found: 52 (Scroll: 9)
+2025-08-09 22:00:10,636 - INFO - [restaurant malappuram] Found: 58 (Scroll: 10)
+2025-08-09 22:00:12,670 - INFO - [restaurant malappuram] Found: 60 (Scroll: 11)
+2025-08-09 22:00:14,704 - INFO - [restaurant malappuram] Found: 66 (Scroll: 12)
+2025-08-09 22:00:16,749 - INFO - [restaurant malappuram] Found: 72 (Scroll: 13)
+2025-08-09 22:00:18,793 - INFO - [restaurant malappuram] Found: 78 (Scroll: 14)
+2025-08-09 22:00:20,841 - INFO - [restaurant malappuram] Found: 80 (Scroll: 15)
+2025-08-09 22:00:22,886 - INFO - [restaurant malappuram] Found: 86 (Scroll: 16)
+2025-08-09 22:00:24,914 - INFO - [restaurant malappuram] Found: 92 (Scroll: 17)
+2025-08-09 22:00:26,950 - INFO - [restaurant malappuram] Found: 98 (Scroll: 18)
+2025-08-09 22:00:28,988 - INFO - [restaurant malappuram] Found: 100 (Scroll: 19)
+2025-08-09 22:00:31,022 - INFO - [restaurant malappuram] Found: 106 (Scroll: 20)
+2025-08-09 22:00:33,069 - INFO - [restaurant malappuram] Found: 112 (Scroll: 21)
+2025-08-09 22:00:35,103 - INFO - [restaurant malappuram] Found: 118 (Scroll: 22)
+2025-08-09 22:00:37,128 - INFO - [restaurant malappuram] Found: 120 (Scroll: 23)
+2025-08-09 22:00:39,162 - INFO - [restaurant malappuram] Found: 120 (Scroll: 24)
+2025-08-09 22:00:41,190 - INFO - [restaurant malappuram] Found: 120 (Scroll: 25)
+2025-08-09 22:00:43,216 - INFO - [restaurant malappuram] Found: 120 (Scroll: 26)
+2025-08-09 22:00:45,236 - INFO - [restaurant malappuram] Found: 120 (Scroll: 27)
+2025-08-09 22:00:47,263 - INFO - [restaurant malappuram] Found: 120 (Scroll: 28)
+2025-08-09 22:00:49,279 - INFO - [restaurant malappuram] Found: 120 (Scroll: 29)
+2025-08-09 22:00:51,321 - INFO - [restaurant malappuram] Found: 120 (Scroll: 30)
+2025-08-09 22:00:53,345 - INFO - [restaurant malappuram] Found: 120 (Scroll: 31)
+2025-08-09 22:00:53,346 - INFO - [restaurant malappuram] No more results after 31 scrolls
+2025-08-09 22:00:54,310 - INFO - [restaurant malappuram] Total unique listings: 113
+2025-08-09 22:00:59,293 - INFO - [restaurant malappuram] [OK] 1/113: Airlines Celestial Family Restaurant
+2025-08-09 22:01:04,197 - INFO - [restaurant malappuram] [OK] 2/113: Hotel Delicia
+2025-08-09 22:01:09,101 - INFO - [restaurant malappuram] [OK] 3/113: THE Samco
+2025-08-09 22:01:14,065 - INFO - [restaurant malappuram] [OK] 4/113: Tham Restaurant Malappuram
+2025-08-09 22:01:18,987 - INFO - [restaurant malappuram] [OK] 5/113: Barcode
+2025-08-09 22:01:23,873 - INFO - [restaurant malappuram] [OK] 6/113: Madhbi Hotel
+2025-08-09 22:01:28,811 - INFO - [restaurant malappuram] [OK] 7/113: Hi
+2025-08-09 22:01:33,741 - INFO - [restaurant malappuram] [OK] 8/113: AL BAITH MALAPPURAM
+2025-08-09 22:01:38,671 - INFO - [restaurant malappuram] [OK] 9/113: Grill Lounge Restaurant
+2025-08-09 22:01:43,578 - INFO - [restaurant malappuram] [OK] 10/113: Shawaya Hub Malappuram
+2025-08-09 22:01:48,503 - INFO - [restaurant malappuram] [OK] 11/113: TURKISH B.B.Q
+2025-08-09 22:01:53,380 - INFO - [restaurant malappuram] [OK] 12/113: Tandoor Hut Restaurant
+2025-08-09 22:01:58,302 - INFO - [restaurant malappuram] [OK] 13/113: Hotel Sulthan Palace Malappuram
+2025-08-09 22:02:03,199 - INFO - [restaurant malappuram] [OK] 14/113: Haseeb Sea Food Restaurant Malappuram
+2025-08-09 22:02:08,144 - INFO - [restaurant malappuram] [OK] 15/113: FruitzzUpp Café
+2025-08-09 22:02:13,053 - INFO - [restaurant malappuram] [OK] 16/113: Breaktime Restaurant
+2025-08-09 22:02:18,007 - INFO - [restaurant malappuram] [OK] 17/113: DELICIA CASCADE
+2025-08-09 22:02:22,890 - INFO - [restaurant malappuram] [OK] 18/113: Hotel Zain
+2025-08-09 22:02:27,788 - INFO - [restaurant malappuram] [OK] 19/113: Al Fatta Kitchen & Restaurant Malappuram
+2025-08-09 22:02:32,764 - INFO - [restaurant malappuram] [OK] 20/113: APPLE RESTO CAFE
+2025-08-09 22:02:37,720 - INFO - [restaurant malappuram] [OK] 21/113: FARSA RESTAURANT
+2025-08-09 22:02:42,830 - INFO - [restaurant malappuram] [OK] 22/113: Taste of Arabia Malappuram
+2025-08-09 22:02:47,782 - INFO - [restaurant malappuram] [OK] 23/113: Mazali Restaurant, Perinthalmanna
+2025-08-09 22:02:52,656 - INFO - [restaurant malappuram] [OK] 24/113: Malappuram bypass
+2025-08-09 22:02:57,549 - INFO - [restaurant malappuram] [OK] 25/113: Sweedish Cakes,Cafe & Restaurant
+2025-08-09 22:03:02,489 - INFO - [restaurant malappuram] [OK] 26/113: Chicking
+2025-08-09 22:03:07,399 - INFO - [restaurant malappuram] [OK] 27/113: Crispy Broast
+2025-08-09 22:03:16,176 - INFO - [restaurant malappuram] [OK] 28/113: Night Palace Restaurant
+2025-08-09 22:03:21,432 - INFO - [restaurant malappuram] [OK] 29/113: Biriyani spot Varangode Malappuram
+2025-08-09 22:03:26,473 - INFO - [restaurant malappuram] [OK] 30/113: Blender Box Restro Cafe
+2025-08-09 22:03:31,803 - INFO - [restaurant malappuram] [OK] 31/113: Hotel Swagath
+2025-08-09 22:03:36,758 - INFO - [restaurant malappuram] [SKIP] Duplicate: Hotel Swagath
+2025-08-09 22:03:42,065 - INFO - [restaurant malappuram] [OK] 32/113: Bukhari Restaurant
+2025-08-09 22:03:47,562 - INFO - [restaurant malappuram] [OK] 33/113: Prasanth Residency And Family Restaurant
+2025-08-09 22:03:52,585 - INFO - [restaurant malappuram] [SKIP] Duplicate: Prasanth Residency And Family Restaurant
+2025-08-09 22:03:57,951 - INFO - [restaurant malappuram] [OK] 34/113: Cafe Pitmasters
+2025-08-09 22:04:03,057 - INFO - [restaurant malappuram] [OK] 35/113: JC Shawarbica Malappuram
+2025-08-09 22:04:08,088 - INFO - [restaurant malappuram] [OK] 36/113: Coqueiro
+2025-08-09 22:04:13,071 - INFO - [restaurant malappuram] [OK] 37/113: Hotel Arafa
+2025-08-09 22:04:18,147 - INFO - [restaurant malappuram] [OK] 38/113: Cafe Kolayi
+2025-08-09 22:04:23,078 - INFO - [restaurant malappuram] [OK] 39/113: Delicia
+2025-08-09 22:04:28,076 - INFO - [restaurant malappuram] [OK] 40/113: SALAM THATTUKADA27
+2025-08-09 22:04:33,157 - INFO - [restaurant malappuram] [OK] 41/113: AL TAZAJ BROAST
+2025-08-09 22:04:38,180 - INFO - [restaurant malappuram] [OK] 42/113: Rest House Restaurant & Caterers
+2025-08-09 22:04:43,192 - INFO - [restaurant malappuram] [OK] 43/113: Nishan Hotel&Catering
+2025-08-09 22:04:48,166 - INFO - [restaurant malappuram] [OK] 44/113: Sana Banu Tattukada
+2025-08-09 22:04:53,237 - INFO - [restaurant malappuram] [OK] 45/113: FRIENDS HOTEL
+2025-08-09 22:04:58,325 - INFO - [restaurant malappuram] [OK] 46/113: Apple Cafe Malappuram
+2025-08-09 22:05:03,227 - INFO - [restaurant malappuram] [OK] 47/113: Hotel Aryaas
+2025-08-09 22:05:08,244 - INFO - [restaurant malappuram] [OK] 48/113: Five Star Chicken Malappuram
+2025-08-09 22:05:13,285 - INFO - [restaurant malappuram] [OK] 49/113: Masai Restaurant
+2025-08-09 22:05:18,353 - INFO - [restaurant malappuram] [OK] 50/113: New Swagath Vegetarian Hotel Kottapadi
+2025-08-09 22:05:23,357 - INFO - [restaurant malappuram] [OK] 51/113: Momo bee
+2025-08-09 22:05:28,383 - INFO - [restaurant malappuram] [OK] 52/113: Cafe Park
+2025-08-09 22:05:33,495 - INFO - [restaurant malappuram] [OK] 53/113: Nadan Food
+2025-08-09 22:05:38,710 - INFO - [restaurant malappuram] [OK] 54/113: Malvi
+2025-08-09 22:05:43,819 - INFO - [restaurant malappuram] [OK] 55/113: Hotel Paris Mount
+2025-08-09 22:05:50,550 - INFO - [restaurant malappuram] [OK] 56/113: Ice Mug Cafe
+2025-08-09 22:05:55,523 - INFO - [restaurant malappuram] [SKIP] Duplicate: Ice Mug Cafe
+2025-08-09 22:06:00,485 - INFO - [restaurant malappuram] [OK] 57/113: KR bakes
+2025-08-09 22:06:05,585 - INFO - [restaurant malappuram] [OK] 58/113: Kerala restaurant
+2025-08-09 22:06:10,570 - INFO - [restaurant malappuram] [OK] 59/113: AL RAYHAN KUZHIMANDHI
+2025-08-09 22:06:15,607 - INFO - [restaurant malappuram] [OK] 60/113: Unlimited neychor
+2025-08-09 22:06:20,622 - INFO - [restaurant malappuram] [OK] 61/113: Maliyemmal Hotel
+2025-08-09 22:06:25,656 - INFO - [restaurant malappuram] [OK] 62/113: Chick Meal Broast Munduparamba
+2025-08-09 22:06:30,687 - INFO - [restaurant malappuram] [OK] 63/113: MC CAFE
+2025-08-09 22:06:36,137 - INFO - [restaurant malappuram] [OK] 64/113: Fresche Dubai Bakes and Restaurant
+2025-08-09 22:06:41,606 - INFO - [restaurant malappuram] [OK] 65/113: VM Hotel. വി എം ഹോട്ടൽ.
+2025-08-09 22:06:46,764 - INFO - [restaurant malappuram] [OK] 66/113: Chillis Bakes & Restaurant
+2025-08-09 22:06:51,934 - INFO - [restaurant malappuram] [OK] 67/113: pizza cheesybites
+2025-08-09 22:06:57,350 - INFO - [restaurant malappuram] [OK] 68/113: SODA RESTRO
+2025-08-09 22:07:02,400 - INFO - [restaurant malappuram] [OK] 69/113: Malabar Restaurant
+2025-08-09 22:07:07,482 - INFO - [restaurant malappuram] [OK] 70/113: Pavilion Vegetarian Hotel
+2025-08-09 22:07:12,495 - INFO - [restaurant malappuram] [OK] 71/113: HILL VIEW
+2025-08-09 22:07:17,512 - INFO - [restaurant malappuram] [OK] 72/113: QUICKFEAST LLP
+2025-08-09 22:07:22,481 - INFO - [restaurant malappuram] [OK] 73/113: Hotel Swagth - The Veg
+2025-08-09 22:07:27,962 - INFO - [restaurant malappuram] [OK] 74/113: Bypass Hotel
+2025-08-09 22:07:33,030 - INFO - [restaurant malappuram] [OK] 75/113: Bigb biriyani centre
+2025-08-09 22:07:38,031 - INFO - [restaurant malappuram] [OK] 76/113: MBH Hospital Canteen
+2025-08-09 22:07:43,111 - INFO - [restaurant malappuram] [OK] 77/113: Green Land Restaurant
+2025-08-09 22:07:48,266 - INFO - [restaurant malappuram] [OK] 78/113: Hotel Crush
+2025-08-09 22:07:53,368 - INFO - [restaurant malappuram] [OK] 79/113: Malabar Masala 3
+2025-08-09 22:07:58,403 - INFO - [restaurant malappuram] [OK] 80/113: The Juiz Shop
+2025-08-09 22:08:03,401 - INFO - [restaurant malappuram] [OK] 81/113: Hotel Friends
+2025-08-09 22:08:08,386 - INFO - [restaurant malappuram] [OK] 82/113: NAS CAFETERIA
+2025-08-09 22:08:13,694 - INFO - [restaurant malappuram] [OK] 83/113: Live Ghee Rice Center And Night Food Palace
+2025-08-09 22:08:18,662 - INFO - [restaurant malappuram] [SKIP] Duplicate: Live Ghee Rice Center And Night Food Palace
+2025-08-09 22:08:24,134 - INFO - [restaurant malappuram] [OK] 84/113: Rice N Fish Restaurant
+2025-08-09 22:08:29,496 - INFO - [restaurant malappuram] [OK] 85/113: AYILYAM HOTEL
+2025-08-09 22:08:34,488 - INFO - [restaurant malappuram] [SKIP] Duplicate: AYILYAM HOTEL
+2025-08-09 22:08:40,087 - INFO - [restaurant malappuram] [OK] 86/113: Hotel KeyCee
+2025-08-09 22:08:45,136 - INFO - [restaurant malappuram] [SKIP] Duplicate: Hotel KeyCee
+2025-08-09 22:08:50,853 - INFO - [restaurant malappuram] [OK] 87/113: Collectorate Canteen
+2025-08-09 22:08:55,966 - INFO - [restaurant malappuram] [SKIP] Duplicate: Collectorate Canteen
+2025-08-09 22:09:01,557 - INFO - [restaurant malappuram] [OK] 88/113: friends Hotel
+2025-08-09 22:09:06,948 - INFO - [restaurant malappuram] [OK] 89/113: ISHA BOOFIYA
+2025-08-09 22:09:11,902 - INFO - [restaurant malappuram] [SKIP] Duplicate: ISHA BOOFIYA
+2025-08-09 22:09:17,223 - INFO - [restaurant malappuram] [OK] 90/113: Cafe kudumbashree civil station canteen
+2025-08-09 22:09:22,341 - INFO - [restaurant malappuram] [OK] 91/113: Raseena Chicken
+2025-08-09 22:09:27,582 - INFO - [restaurant malappuram] [OK] 92/113: Chikkus Hotel
+2025-08-09 22:09:32,594 - INFO - [restaurant malappuram] [OK] 93/113: Khaleez Restaurant
+2025-08-09 22:09:37,872 - INFO - [restaurant malappuram] [OK] 94/113: Royal City - Multi Cuisine Restaurant
+2025-08-09 22:09:42,922 - INFO - [restaurant malappuram] [SKIP] Duplicate: Royal City - Multi Cuisine Restaurant
+2025-08-09 22:09:48,392 - INFO - [restaurant malappuram] [OK] 95/113: Thattukada, തട്ടുകട
+2025-08-09 22:09:53,391 - INFO - [restaurant malappuram] [SKIP] Duplicate: Thattukada, തട്ടുകട
+2025-08-09 22:09:58,983 - INFO - [restaurant malappuram] [OK] 96/113: Avenue Restaurant
+2025-08-09 22:10:04,108 - INFO - [restaurant malappuram] [SKIP] Duplicate: Avenue Restaurant
+2025-08-09 22:10:09,603 - INFO - [restaurant malappuram] [OK] 97/113: Born Juice cafe
+2025-08-09 22:10:14,663 - INFO - [restaurant malappuram] [SKIP] Duplicate: Born Juice cafe
+2025-08-09 22:10:20,187 - INFO - [restaurant malappuram] [OK] 98/113: Hotel Blue Line
+2025-08-09 22:10:25,427 - INFO - [restaurant malappuram] [OK] 99/113: Hotel Embassy
+2025-08-09 22:10:30,440 - INFO - [restaurant malappuram] [OK] 100/113: Hridayam Food Thoughts
+2025-08-09 22:10:35,750 - INFO - [restaurant malappuram] [OK] 101/113: La cave kitchen
+2025-08-09 22:10:35,750 - INFO - [restaurant malappuram] FINAL: 101 places extracted
+2025-08-09 22:10:36,281 - INFO - Saved 101 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\restaurant_malappuram.csv
+2025-08-09 22:10:36,308 - INFO - Removed duplicates, final count: 1041
+2025-08-09 22:10:36,308 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'scraping_results\\malappuram_businesses_enhanced_20250809_202616\\Food_Businesses\\Food_Businesses_all.csv'
+2025-08-09 22:10:36,308 - INFO - restaurant malappuram: Found 101 places
+2025-08-09 22:10:38,314 - INFO - 
+==================================================
+2025-08-09 22:10:38,314 - INFO - Processing 18/100: restaurant manjeri
+2025-08-09 22:10:38,314 - INFO - ==================================================
+2025-08-09 22:10:59,570 - INFO - [restaurant manjeri] Found: 12 (Scroll: 1)
+2025-08-09 22:11:01,596 - INFO - [restaurant manjeri] Found: 18 (Scroll: 2)
+2025-08-09 22:11:03,626 - INFO - [restaurant manjeri] Found: 20 (Scroll: 3)
+2025-08-09 22:11:05,660 - INFO - [restaurant manjeri] Found: 26 (Scroll: 4)
+2025-08-09 22:11:07,704 - INFO - [restaurant manjeri] Found: 32 (Scroll: 5)
+2025-08-09 22:11:09,743 - INFO - [restaurant manjeri] Found: 38 (Scroll: 6)
+2025-08-09 22:11:11,779 - INFO - [restaurant manjeri] Found: 40 (Scroll: 7)
+2025-08-09 22:11:13,824 - INFO - [restaurant manjeri] Found: 46 (Scroll: 8)
+2025-08-09 22:11:15,871 - INFO - [restaurant manjeri] Found: 52 (Scroll: 9)
+2025-08-09 22:11:17,894 - INFO - [restaurant manjeri] Found: 58 (Scroll: 10)
+2025-08-09 22:11:19,931 - INFO - [restaurant manjeri] Found: 60 (Scroll: 11)
+2025-08-09 22:11:21,958 - INFO - [restaurant manjeri] Found: 66 (Scroll: 12)
+2025-08-09 22:11:24,010 - INFO - [restaurant manjeri] Found: 72 (Scroll: 13)
+2025-08-09 22:11:26,048 - INFO - [restaurant manjeri] Found: 78 (Scroll: 14)
+2025-08-09 22:11:28,078 - INFO - [restaurant manjeri] Found: 80 (Scroll: 15)
+2025-08-09 22:11:30,100 - INFO - [restaurant manjeri] Found: 86 (Scroll: 16)
+2025-08-09 22:11:32,146 - INFO - [restaurant manjeri] Found: 92 (Scroll: 17)
+2025-08-09 22:11:34,188 - INFO - [restaurant manjeri] Found: 98 (Scroll: 18)
+2025-08-09 22:11:36,230 - INFO - [restaurant manjeri] Found: 100 (Scroll: 19)
+2025-08-09 22:11:38,284 - INFO - [restaurant manjeri] Found: 106 (Scroll: 20)
+2025-08-09 22:11:40,335 - INFO - [restaurant manjeri] Found: 112 (Scroll: 21)
+2025-08-09 22:11:42,366 - INFO - [restaurant manjeri] Found: 118 (Scroll: 22)
+2025-08-09 22:11:44,388 - INFO - [restaurant manjeri] Found: 120 (Scroll: 23)
+2025-08-09 22:11:46,429 - INFO - [restaurant manjeri] Found: 120 (Scroll: 24)
+2025-08-09 22:11:48,459 - INFO - [restaurant manjeri] Found: 120 (Scroll: 25)
+2025-08-09 22:11:50,494 - INFO - [restaurant manjeri] Found: 120 (Scroll: 26)
+2025-08-09 22:11:52,540 - INFO - [restaurant manjeri] Found: 120 (Scroll: 27)
+2025-08-09 22:11:54,565 - INFO - [restaurant manjeri] Found: 120 (Scroll: 28)
+2025-08-09 22:11:56,605 - INFO - [restaurant manjeri] Found: 120 (Scroll: 29)
+2025-08-09 22:11:58,626 - INFO - [restaurant manjeri] Found: 120 (Scroll: 30)
+2025-08-09 22:12:00,662 - INFO - [restaurant manjeri] Found: 120 (Scroll: 31)
+2025-08-09 22:12:00,662 - INFO - [restaurant manjeri] No more results after 31 scrolls
+2025-08-09 22:12:02,176 - INFO - [restaurant manjeri] Total unique listings: 120
+2025-08-09 22:12:08,255 - INFO - [restaurant manjeri] [OK] 1/120: KAUSAR RESTAURANT
+2025-08-09 22:12:13,382 - INFO - [restaurant manjeri] [OK] 2/120: FARSA RESTAURANT
+2025-08-09 22:12:18,372 - INFO - [restaurant manjeri] [OK] 3/120: Woodbine Restaurant
+2025-08-09 22:12:23,491 - INFO - [restaurant manjeri] [OK] 4/120: Khayalat Restaurant
+2025-08-09 22:12:28,399 - INFO - [restaurant manjeri] [OK] 5/120: Manna Restaurant
+2025-08-09 22:12:33,577 - INFO - [restaurant manjeri] [OK] 6/120: Yagma cafe
+2025-08-09 22:12:38,857 - INFO - [restaurant manjeri] [OK] 7/120: Closed
+2025-08-09 22:12:43,902 - INFO - [restaurant manjeri] [OK] 8/120: Hotel Oottupura
+2025-08-09 22:12:49,023 - INFO - [restaurant manjeri] [OK] 9/120: The Grill Basket
+2025-08-09 22:12:54,057 - INFO - [restaurant manjeri] [OK] 10/120: Midway Mandhi
+2025-08-09 22:12:59,459 - INFO - [restaurant manjeri] [OK] 11/120: Hotel Farsa
+2025-08-09 22:13:04,829 - INFO - [restaurant manjeri] [OK] 12/120: Nahdi Kuzhimandhi
+2025-08-09 22:13:09,837 - INFO - [restaurant manjeri] [SKIP] Duplicate: Nahdi Kuzhimandhi
+2025-08-09 22:13:15,090 - INFO - [restaurant manjeri] [OK] 13/120: Farsa Pure Veg Manjeri
+2025-08-09 22:13:20,107 - INFO - [restaurant manjeri] [OK] 14/120: Arabic Dine
+2025-08-09 22:13:25,384 - INFO - [restaurant manjeri] [OK] 15/120: Döner Club Manjeri
+2025-08-09 22:13:30,338 - INFO - [restaurant manjeri] [OK] 16/120: Olene Canto Bakes & Restaurant (Anakkayam - Manjeri)
+2025-08-09 22:13:35,296 - INFO - [restaurant manjeri] [OK] 17/120: Geetha Bhavan Restaurant
+2025-08-09 22:13:40,699 - INFO - [restaurant manjeri] [OK] 18/120: Vallimma Pathayam
+2025-08-09 22:13:46,140 - INFO - [restaurant manjeri] [OK] 19/120: Malbro The Epic
+2025-08-09 22:13:51,180 - INFO - [restaurant manjeri] [SKIP] Duplicate: Malbro The Epic
+2025-08-09 22:13:56,606 - INFO - [restaurant manjeri] [OK] 20/120: Rahij Raidan Mandi Mullampara
+2025-08-09 22:14:01,746 - INFO - [restaurant manjeri] [OK] 21/120: SAUDI BROAST
+2025-08-09 22:14:07,056 - INFO - [restaurant manjeri] [OK] 22/120: SWEET HOME RESTAURANT, MANJERI
+2025-08-09 22:14:12,215 - INFO - [restaurant manjeri] [OK] 23/120: Zindagi Hotel
+2025-08-09 22:14:17,376 - INFO - [restaurant manjeri] [OK] 24/120: Pogo Broasted Chicken Manjeri
+2025-08-09 22:14:22,659 - INFO - [restaurant manjeri] [OK] 25/120: Brown Beans Cafe
+2025-08-09 22:14:27,677 - INFO - [restaurant manjeri] [OK] 26/120: SULTHAN MAJLIS
+2025-08-09 22:14:32,702 - INFO - [restaurant manjeri] [OK] 27/120: Tripthi Homely meals
+2025-08-09 22:14:37,798 - INFO - [restaurant manjeri] [OK] 28/120: Hotel MADEENA
+2025-08-09 22:14:43,016 - INFO - [restaurant manjeri] [OK] 29/120: Olene Canto Bakes (IGBT - Manjeri)
+2025-08-09 22:14:48,027 - INFO - [restaurant manjeri] [OK] 30/120: Hotel Malabar
+2025-08-09 22:14:53,120 - INFO - [restaurant manjeri] [OK] 31/120: Hotel Sarover Veg
+2025-08-09 22:14:58,177 - INFO - [restaurant manjeri] [OK] 32/120: Uduppi Restaurant
+2025-08-09 22:15:03,264 - INFO - [restaurant manjeri] [OK] 33/120: KR Bakery & Restaurant Cherani,manjeri
+2025-08-09 22:15:08,197 - INFO - [restaurant manjeri] [OK] 34/120: Malabar Heritage Resorts and Spa
+2025-08-09 22:15:13,251 - INFO - [restaurant manjeri] [OK] 35/120: Ahnaf Hotel
+2025-08-09 22:15:18,397 - INFO - [restaurant manjeri] [OK] 36/120: Pizza Hut | Manjeri
+2025-08-09 22:15:23,451 - INFO - [restaurant manjeri] [OK] 37/120: KR Bakery & Restaurant Kacherippadi
+2025-08-09 22:15:28,782 - INFO - [restaurant manjeri] [OK] 38/120: Naniyude Mess House
+2025-08-09 22:15:33,811 - INFO - [restaurant manjeri] [OK] 39/120: EATO Food truck
+2025-08-09 22:15:39,258 - INFO - [restaurant manjeri] [OK] 40/120: Swamy's Cafe
+2025-08-09 22:15:44,277 - INFO - [restaurant manjeri] [OK] 41/120: Malabari Makkani
+2025-08-09 22:15:49,408 - INFO - [restaurant manjeri] [OK] 42/120: Ammachi's Kitchen
+2025-08-09 22:15:54,480 - INFO - [restaurant manjeri] [OK] 43/120: Shawarma Fusion
+2025-08-09 22:15:59,580 - INFO - [restaurant manjeri] [OK] 44/120: Hotel
+2025-08-09 22:16:04,900 - INFO - [restaurant manjeri] [OK] 45/120: Abus - Biriyani Center
+2025-08-09 22:16:09,962 - INFO - [restaurant manjeri] [OK] 46/120: Cafe Al Bacio
+2025-08-09 22:16:15,411 - INFO - [restaurant manjeri] [OK] 47/120: Hotel Midway
+2025-08-09 22:16:20,496 - INFO - [restaurant manjeri] [SKIP] Duplicate: Hotel Midway
+2025-08-09 22:16:25,854 - INFO - [restaurant manjeri] [OK] 48/120: Burger Lounge
+2025-08-09 22:16:31,132 - INFO - [restaurant manjeri] [OK] 49/120: Hotel Pushpa
+2025-08-09 22:16:36,200 - INFO - [restaurant manjeri] [OK] 50/120: Biriyani Cafe
+2025-08-09 22:16:41,227 - INFO - [restaurant manjeri] [OK] 51/120: Chikeys Manjeri
+2025-08-09 22:16:46,638 - INFO - [restaurant manjeri] [OK] 52/120: manjeri Cafe
+2025-08-09 22:16:51,807 - INFO - [restaurant manjeri] [OK] 53/120: Shawarma Fusion Manjeri
+2025-08-09 22:16:56,763 - INFO - [restaurant manjeri] [OK] 54/120: JANAKEEYA HOTEL
+2025-08-09 22:17:02,180 - INFO - [restaurant manjeri] [OK] 55/120: Mandi House
+2025-08-09 22:17:07,306 - INFO - [restaurant manjeri] [OK] 56/120: K.R. Bakery & Restaurant manjeri Thurakkal
+2025-08-09 22:17:12,655 - INFO - [restaurant manjeri] [OK] 57/120: Lebanon cafe & Broasted chicken
+2025-08-09 22:17:17,922 - INFO - [restaurant manjeri] [OK] 58/120: KR Bakery & Restaurant Muttipalam ,Manjeri
+2025-08-09 22:17:22,998 - INFO - [restaurant manjeri] [SKIP] Duplicate: KR Bakery & Restaurant Muttipalam ,Manjeri
+2025-08-09 22:17:28,399 - INFO - [restaurant manjeri] [OK] 59/120: Hotel Ruchi
+2025-08-09 22:17:33,572 - INFO - [restaurant manjeri] [OK] 60/120: Kudumbashree Hotel
+2025-08-09 22:17:38,680 - INFO - [restaurant manjeri] [OK] 61/120: LeHm kebab
+2025-08-09 22:17:44,068 - INFO - [restaurant manjeri] [OK] 62/120: Chicking
+2025-08-09 22:17:49,074 - INFO - [restaurant manjeri] [SKIP] Duplicate: Chicking
+2025-08-09 22:17:54,586 - INFO - [restaurant manjeri] [OK] 63/120: Chick B
+2025-08-09 22:17:59,987 - INFO - [restaurant manjeri] [OK] 64/120: Annapoorna vegetarian restaurant
+2025-08-09 22:18:04,982 - INFO - [restaurant manjeri] [SKIP] Duplicate: Annapoorna vegetarian restaurant
+2025-08-09 22:18:10,276 - INFO - [restaurant manjeri] [OK] 65/120: Al Rayadhan Kuzhi Mandhi
+2025-08-09 22:18:15,273 - INFO - [restaurant manjeri] [OK] 66/120: Sreeniwas
+2025-08-09 22:18:20,337 - INFO - [restaurant manjeri] [OK] 67/120: KFC
+2025-08-09 22:18:25,501 - INFO - [restaurant manjeri] [OK] 68/120: Pizza Ricotta Indian Mall
+2025-08-09 22:18:30,832 - INFO - [restaurant manjeri] [OK] 69/120: HOTEL KRISHNA Kacherippadi, Manjeri
+2025-08-09 22:18:35,849 - INFO - [restaurant manjeri] [OK] 70/120: Biriyani Hut
+2025-08-09 22:18:40,918 - INFO - [restaurant manjeri] [OK] 71/120: Pizza inn manjeri
+2025-08-09 22:18:46,325 - INFO - [restaurant manjeri] [OK] 72/120: Mamatty Tea Stall
+2025-08-09 22:18:51,416 - INFO - [restaurant manjeri] [OK] 73/120: Indian pure veg
+2025-08-09 22:18:56,499 - INFO - [restaurant manjeri] [OK] 74/120: Hotel Jaseela
+2025-08-09 22:19:01,533 - INFO - [restaurant manjeri] [OK] 75/120: Cadillo veemart manjeri
+2025-08-09 22:19:06,579 - INFO - [restaurant manjeri] [OK] 76/120: Hotel Tanchavur
+2025-08-09 22:19:11,980 - INFO - [restaurant manjeri] [OK] 77/120: Smart School Bazar
+2025-08-09 22:19:17,279 - INFO - [restaurant manjeri] [OK] 78/120: Pizza Rocotta
+2025-08-09 22:19:22,634 - INFO - [restaurant manjeri] [OK] 79/120: Rest House Restaurant & Caterers
+2025-08-09 22:19:27,572 - INFO - [restaurant manjeri] [OK] 80/120: KL 93 EVENING SNACKS
+2025-08-09 22:19:32,552 - INFO - [restaurant manjeri] [OK] 81/120: Al Raidhan kuzhi manthi kavanoor
+2025-08-09 22:19:37,554 - INFO - [restaurant manjeri] [OK] 82/120: Ijas ValeedK
+2025-08-09 22:19:42,636 - INFO - [restaurant manjeri] [OK] 83/120: 40cold boost
+2025-08-09 22:19:47,659 - INFO - [restaurant manjeri] [OK] 84/120: The Village Restaurant
+2025-08-09 22:19:53,099 - INFO - [restaurant manjeri] [OK] 85/120: KR Bakery Pandikad Road Manjeri
+2025-08-09 22:19:58,154 - INFO - [restaurant manjeri] [SKIP] Duplicate: KR Bakery Pandikad Road Manjeri
+2025-08-09 22:20:03,455 - INFO - [restaurant manjeri] [OK] 86/120: Hotel Shalimar
+2025-08-09 22:20:08,605 - INFO - [restaurant manjeri] [OK] 87/120: Avil milk shop
+2025-08-09 22:20:13,661 - INFO - [restaurant manjeri] [OK] 88/120: Poggop Restaurant
+2025-08-09 22:20:18,803 - INFO - [restaurant manjeri] [OK] 89/120: Pizza Ricotta Manjeri kacheripadi
+2025-08-09 22:20:24,206 - INFO - [restaurant manjeri] [OK] 90/120: Rasak's Biriyani Centre
+2025-08-09 22:20:29,230 - INFO - [restaurant manjeri] [OK] 91/120: KR Bakery Malappuram Road Manjeri
+2025-08-09 22:20:34,302 - INFO - [restaurant manjeri] [OK] 92/120: Hotel Sindhu
+2025-08-09 22:20:39,784 - INFO - [restaurant manjeri] [OK] 93/120: Aatty's Chicken
+2025-08-09 22:20:44,790 - INFO - [restaurant manjeri] [SKIP] Duplicate: Aatty's Chicken
+2025-08-09 22:20:50,390 - INFO - [restaurant manjeri] [OK] 94/120: Valuparambu
+2025-08-09 22:20:55,416 - INFO - [restaurant manjeri] [SKIP] Duplicate: Valuparambu
+2025-08-09 22:21:01,121 - INFO - [restaurant manjeri] [OK] 95/120: Friends Fast food
+2025-08-09 22:21:06,155 - INFO - [restaurant manjeri] [SKIP] Duplicate: Friends Fast food
+2025-08-09 22:21:11,780 - INFO - [restaurant manjeri] [OK] 96/120: Bye Bye Chick
+2025-08-09 22:21:16,714 - INFO - [restaurant manjeri] [SKIP] Duplicate: Bye Bye Chick
+2025-08-09 22:21:22,308 - INFO - [restaurant manjeri] [OK] 97/120: Jeseela Hot and Cool Bar
+2025-08-09 22:21:27,662 - INFO - [restaurant manjeri] [OK] 98/120: Olene Canto Bakes & Restaurant (Pandikkad Road - Manjeri)
+2025-08-09 22:21:32,714 - INFO - [restaurant manjeri] [OK] 99/120: Siraj restaurant Chinese food
+2025-08-09 22:21:37,782 - INFO - [restaurant manjeri] [OK] 100/120: BHAIS FOOD
+2025-08-09 22:21:43,029 - INFO - [restaurant manjeri] [OK] 101/120: Delfrez - Chicken and Meat Shop in Kuthukal
+2025-08-09 22:21:48,335 - INFO - [restaurant manjeri] [OK] 102/120: MUNEER
+2025-08-09 22:21:53,331 - INFO - [restaurant manjeri] [SKIP] Duplicate: MUNEER
+2025-08-09 22:21:58,648 - INFO - [restaurant manjeri] [OK] 103/120: FASU PE COFFEE MALL
+2025-08-09 22:22:03,747 - INFO - [restaurant manjeri] [OK] 104/120: PIPPA HOLIDAYS TRAVELS AND TOURS - Travel Agency in Manjeri
+2025-08-09 22:22:09,038 - INFO - [restaurant manjeri] [OK] 105/120: Farsa Grill & Rice
+2025-08-09 22:22:13,990 - INFO - [restaurant manjeri] [SKIP] Duplicate: Farsa Grill & Rice
+2025-08-09 22:22:19,277 - INFO - [restaurant manjeri] [OK] 106/120: Albaik Restaurant
+2025-08-09 22:22:24,200 - INFO - [restaurant manjeri] [SKIP] Duplicate: Albaik Restaurant
+2025-08-09 22:22:24,200 - INFO - [restaurant manjeri] FINAL: 106 places extracted
+2025-08-09 22:22:25,010 - INFO - Saved 106 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\restaurant_manjeri.csv
+2025-08-09 22:22:25,059 - INFO - Removed duplicates, final count: 1046
+2025-08-09 22:22:25,098 - INFO - Saved 1046 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 22:22:25,098 - INFO - restaurant manjeri: Found 106 places
+2025-08-09 22:22:27,101 - INFO - 
+==================================================
+2025-08-09 22:22:27,101 - INFO - Processing 19/100: restaurant perinthalmanna
+2025-08-09 22:22:27,101 - INFO - ==================================================
+2025-08-09 22:22:45,219 - INFO - [restaurant perinthalmanna] Found: 12 (Scroll: 1)
+2025-08-09 22:22:47,267 - INFO - [restaurant perinthalmanna] Found: 18 (Scroll: 2)
+2025-08-09 22:22:49,317 - INFO - [restaurant perinthalmanna] Found: 20 (Scroll: 3)
+2025-08-09 22:22:51,365 - INFO - [restaurant perinthalmanna] Found: 26 (Scroll: 4)
+2025-08-09 22:22:53,436 - INFO - [restaurant perinthalmanna] Found: 32 (Scroll: 5)
+2025-08-09 22:22:55,467 - INFO - [restaurant perinthalmanna] Found: 38 (Scroll: 6)
+2025-08-09 22:22:57,502 - INFO - [restaurant perinthalmanna] Found: 40 (Scroll: 7)
+2025-08-09 22:22:59,529 - INFO - [restaurant perinthalmanna] Found: 46 (Scroll: 8)
+2025-08-09 22:23:01,580 - INFO - [restaurant perinthalmanna] Found: 52 (Scroll: 9)
+2025-08-09 22:23:03,613 - INFO - [restaurant perinthalmanna] Found: 58 (Scroll: 10)
+2025-08-09 22:23:05,648 - INFO - [restaurant perinthalmanna] Found: 60 (Scroll: 11)
+2025-08-09 22:23:07,694 - INFO - [restaurant perinthalmanna] Found: 66 (Scroll: 12)
+2025-08-09 22:23:09,751 - INFO - [restaurant perinthalmanna] Found: 72 (Scroll: 13)
+2025-08-09 22:23:11,780 - INFO - [restaurant perinthalmanna] Found: 78 (Scroll: 14)
+2025-08-09 22:23:13,832 - INFO - [restaurant perinthalmanna] Found: 80 (Scroll: 15)
+2025-08-09 22:23:15,876 - INFO - [restaurant perinthalmanna] Found: 86 (Scroll: 16)
+2025-08-09 22:23:17,931 - INFO - [restaurant perinthalmanna] Found: 92 (Scroll: 17)
+2025-08-09 22:23:19,964 - INFO - [restaurant perinthalmanna] Found: 98 (Scroll: 18)
+2025-08-09 22:23:21,995 - INFO - [restaurant perinthalmanna] Found: 100 (Scroll: 19)
+2025-08-09 22:23:24,036 - INFO - [restaurant perinthalmanna] Found: 100 (Scroll: 20)
+2025-08-09 22:23:26,148 - INFO - [restaurant perinthalmanna] Found: 112 (Scroll: 21)
+2025-08-09 22:23:28,181 - INFO - [restaurant perinthalmanna] Found: 112 (Scroll: 22)
+2025-08-09 22:23:30,237 - INFO - [restaurant perinthalmanna] Found: 112 (Scroll: 23)
+2025-08-09 22:23:32,286 - INFO - [restaurant perinthalmanna] Found: 112 (Scroll: 24)
+2025-08-09 22:23:34,337 - INFO - [restaurant perinthalmanna] Found: 112 (Scroll: 25)
+2025-08-09 22:23:36,366 - INFO - [restaurant perinthalmanna] Found: 112 (Scroll: 26)
+2025-08-09 22:23:38,404 - INFO - [restaurant perinthalmanna] Found: 112 (Scroll: 27)
+2025-08-09 22:23:40,444 - INFO - [restaurant perinthalmanna] Found: 112 (Scroll: 28)
+2025-08-09 22:23:42,490 - INFO - [restaurant perinthalmanna] Found: 112 (Scroll: 29)
+2025-08-09 22:23:42,490 - INFO - [restaurant perinthalmanna] No more results after 29 scrolls
+2025-08-09 22:23:43,999 - INFO - [restaurant perinthalmanna] Total unique listings: 104
+2025-08-09 22:23:50,640 - INFO - [restaurant perinthalmanna] [OK] 1/104: Mazali Restaurant, Perinthalmanna
+2025-08-09 22:23:55,749 - INFO - [restaurant perinthalmanna] [OK] 2/104: Nahdi Kuzhimandhi
+2025-08-09 22:24:00,816 - INFO - [restaurant perinthalmanna] [OK] 3/104: Just Loaf
+2025-08-09 22:24:05,933 - INFO - [restaurant perinthalmanna] [OK] 4/104: Chilies Restaurant
+2025-08-09 22:24:11,078 - INFO - [restaurant perinthalmanna] [OK] 5/104: T&T PERINTHALMANNA
+2025-08-09 22:24:16,166 - INFO - [restaurant perinthalmanna] [OK] 6/104: Pearl Lagoon Restaurant
+2025-08-09 22:24:21,234 - INFO - [restaurant perinthalmanna] [OK] 7/104: Grin Table restaurant
+2025-08-09 22:24:26,334 - INFO - [restaurant perinthalmanna] [OK] 8/104: Mathbaks Arabian majlis
+2025-08-09 22:24:31,432 - INFO - [restaurant perinthalmanna] [OK] 9/104: 7th Lounge
+2025-08-09 22:24:36,570 - INFO - [restaurant perinthalmanna] [OK] 10/104: Barizta Restaurant
+2025-08-09 22:24:41,838 - INFO - [restaurant perinthalmanna] [OK] 11/104: GOLDEN RESTAURANT ️
+2025-08-09 22:24:46,897 - INFO - [restaurant perinthalmanna] [OK] 12/104: Craft Restaurant
+2025-08-09 22:24:51,889 - INFO - [restaurant perinthalmanna] [OK] 13/104: Henjoy Club Broast Resto & Cafe Perinthalamanna
+2025-08-09 22:24:57,036 - INFO - [restaurant perinthalmanna] [OK] 14/104: AL DUAAH RESTAURANT PERINTHALMANNA
+2025-08-09 22:25:01,993 - INFO - [restaurant perinthalmanna] [OK] 15/104: AR DINE Restaurant
+2025-08-09 22:25:07,052 - INFO - [restaurant perinthalmanna] [OK] 16/104: Brothers Arabian Foods
+2025-08-09 22:25:12,157 - INFO - [restaurant perinthalmanna] [OK] 17/104: Club Dine Restaurant
+2025-08-09 22:25:17,080 - INFO - [restaurant perinthalmanna] [OK] 18/104: Virasat Pure Veg Restaurant
+2025-08-09 22:25:22,082 - INFO - [restaurant perinthalmanna] [OK] 19/104: INDIAN FAMILY RESTAURANT (AL KAHATHIM)
+2025-08-09 22:25:27,236 - INFO - [restaurant perinthalmanna] [OK] 20/104: Faizee Fast Food
+2025-08-09 22:25:32,573 - INFO - [restaurant perinthalmanna] [OK] 21/104: Royal Kayama Biriyani Restaurant
+2025-08-09 22:25:38,112 - INFO - [restaurant perinthalmanna] [OK] 22/104: Alkhatim restaurant
+2025-08-09 22:25:43,132 - INFO - [restaurant perinthalmanna] [SKIP] Duplicate: Alkhatim restaurant
+2025-08-09 22:25:48,283 - INFO - [restaurant perinthalmanna] [OK] 23/104: CROSSTOWN
+2025-08-09 22:25:53,301 - INFO - [restaurant perinthalmanna] [OK] 24/104: Annapoorna Vegetarian Restaurant
+2025-08-09 22:25:58,278 - INFO - [restaurant perinthalmanna] [OK] 25/104: Chicking
+2025-08-09 22:26:03,308 - INFO - [restaurant perinthalmanna] [OK] 26/104: Döner Club Perinthalmanna
+2025-08-09 22:26:08,334 - INFO - [restaurant perinthalmanna] [OK] 27/104: Dum Delights Biriyani House
+2025-08-09 22:26:13,381 - INFO - [restaurant perinthalmanna] [OK] 28/104: The Garden Restaurant
+2025-08-09 22:26:18,442 - INFO - [restaurant perinthalmanna] [OK] 29/104: TeaTime
+2025-08-09 22:26:23,512 - INFO - [restaurant perinthalmanna] [OK] 30/104: Pisharody's Veg Restaurant
+2025-08-09 22:26:28,575 - INFO - [restaurant perinthalmanna] [OK] 31/104: Faizee Fast Food - Jubilee Road Perinthalmanna
+2025-08-09 22:26:33,583 - INFO - [restaurant perinthalmanna] [OK] 32/104: HOTEL SAROJ Vegetarian
+2025-08-09 22:26:38,675 - INFO - [restaurant perinthalmanna] [OK] 33/104: Moulana Restaurant
+2025-08-09 22:26:43,688 - INFO - [restaurant perinthalmanna] [OK] 34/104: SINAN KANJI STALL
+2025-08-09 22:26:48,732 - INFO - [restaurant perinthalmanna] [OK] 35/104: Hotel Sabrina AC Family Restaurant ,Bar Attached
+2025-08-09 22:26:53,718 - INFO - [restaurant perinthalmanna] [OK] 36/104: Hotel Royal Plaza
+2025-08-09 22:26:58,900 - INFO - [restaurant perinthalmanna] [OK] 37/104: SARGAM HOTEL (Restaurant) since 1993 - perinthalmanna
+2025-08-09 22:27:03,977 - INFO - [restaurant perinthalmanna] [OK] 38/104: ZAMAR MANDHI
+2025-08-09 22:27:09,014 - INFO - [restaurant perinthalmanna] [OK] 39/104: Omkar UDUPI Pure Veg Hotel, Perinthalmanna
+2025-08-09 22:27:14,040 - INFO - [restaurant perinthalmanna] [OK] 40/104: Pogo grill fried Chicken ()
+2025-08-09 22:27:19,092 - INFO - [restaurant perinthalmanna] [OK] 41/104: Looco's Pizza - Perinthalmanna
+2025-08-09 22:27:24,180 - INFO - [restaurant perinthalmanna] [OK] 42/104: POGGOP FRIED & NAWABI RESTAURANT
+2025-08-09 22:27:29,170 - INFO - [restaurant perinthalmanna] [OK] 43/104: Royal Palace
+2025-08-09 22:27:34,151 - INFO - [restaurant perinthalmanna] [OK] 44/104: ROASTERY CAFE
+2025-08-09 22:27:39,142 - INFO - [restaurant perinthalmanna] [OK] 45/104: KFC
+2025-08-09 22:27:44,241 - INFO - [restaurant perinthalmanna] [OK] 46/104: Hotel Gazala Food Court
+2025-08-09 22:27:49,277 - INFO - [restaurant perinthalmanna] [OK] 47/104: Hotel Gustoso
+2025-08-09 22:27:54,232 - INFO - [restaurant perinthalmanna] [OK] 48/104: Priya Palada
+2025-08-09 22:27:59,222 - INFO - [restaurant perinthalmanna] [OK] 49/104: CRUNCHICK Perinthalmanna
+2025-08-09 22:28:04,231 - INFO - [restaurant perinthalmanna] [OK] 50/104: Eato smart - Perinthalmanna
+2025-08-09 22:28:09,275 - INFO - [restaurant perinthalmanna] [OK] 51/104: INSTA KITCHEN
+2025-08-09 22:28:14,376 - INFO - [restaurant perinthalmanna] [OK] 52/104: INDIAN FAMILY RESTAURANT
+2025-08-09 22:28:19,728 - INFO - [restaurant perinthalmanna] [OK] 53/104: Keras Kabab Expresso
+2025-08-09 22:28:24,737 - INFO - [restaurant perinthalmanna] [OK] 54/104: Assinte Thattukada
+2025-08-09 22:28:29,799 - INFO - [restaurant perinthalmanna] [OK] 55/104: Shawarma Fusion Pmna
+2025-08-09 22:28:34,834 - INFO - [restaurant perinthalmanna] [OK] 56/104: Fayeez Hotel
+2025-08-09 22:28:39,886 - INFO - [restaurant perinthalmanna] [OK] 57/104: Hotel Faizy Biriyani
+2025-08-09 22:28:44,907 - INFO - [restaurant perinthalmanna] [OK] 58/104: Turkdoner
+2025-08-09 22:28:49,930 - INFO - [restaurant perinthalmanna] [OK] 59/104: CRISWINGS
+2025-08-09 22:28:54,984 - INFO - [restaurant perinthalmanna] [OK] 60/104: Saleem Bai Biryani centre
+2025-08-09 22:28:59,957 - INFO - [restaurant perinthalmanna] [OK] 61/104: Malabar Restaurant and Cafe
+2025-08-09 22:29:04,974 - INFO - [restaurant perinthalmanna] [OK] 62/104: ARYAS VEG.CORNER
+2025-08-09 22:29:10,059 - INFO - [restaurant perinthalmanna] [OK] 63/104: Hotel Melathra
+2025-08-09 22:29:15,022 - INFO - [restaurant perinthalmanna] [OK] 64/104: Biriyani Corner Hotel
+2025-08-09 22:29:20,055 - INFO - [restaurant perinthalmanna] [OK] 65/104: Hotel Achoos- അച്ചൂസ് ഹോട്ടൽ
+2025-08-09 22:29:25,777 - INFO - [restaurant perinthalmanna] [OK] 66/104: Faizee Biriyani Hut
+2025-08-09 22:29:30,720 - INFO - [restaurant perinthalmanna] [SKIP] Duplicate: Faizee Biriyani Hut
+2025-08-09 22:29:35,729 - INFO - [restaurant perinthalmanna] [OK] 67/104: HOTEL RAHATH ഹോട്ടൽ റാഹത്ത്
+2025-08-09 22:29:40,816 - INFO - [restaurant perinthalmanna] [OK] 68/104: Hotel Gokul Veg
+2025-08-09 22:29:45,917 - INFO - [restaurant perinthalmanna] [OK] 69/104: Pizza Ricotta Perinthalmanna
+2025-08-09 22:29:51,034 - INFO - [restaurant perinthalmanna] [OK] 70/104: SIGNATURE JUICE AND SNACKS
+2025-08-09 22:29:56,164 - INFO - [restaurant perinthalmanna] [OK] 71/104: Melathra Tea Stall
+2025-08-09 22:30:01,239 - INFO - [restaurant perinthalmanna] [OK] 72/104: Hotel New Crown
+2025-08-09 22:30:06,396 - INFO - [restaurant perinthalmanna] [OK] 73/104: Hotel ARYAAS
+2025-08-09 22:30:11,546 - INFO - [restaurant perinthalmanna] [OK] 74/104: Chikeys Perinthalmanna
+2025-08-09 22:30:16,686 - INFO - [restaurant perinthalmanna] [OK] 75/104: Vanitha Canteen , Perinthalmanna
+2025-08-09 22:30:21,703 - INFO - [restaurant perinthalmanna] [OK] 76/104: Yummy Biryani Center
+2025-08-09 22:30:26,651 - INFO - [restaurant perinthalmanna] [OK] 77/104: Nezmma's Biriyani Hub
+2025-08-09 22:30:31,644 - INFO - [restaurant perinthalmanna] [OK] 78/104: PIZZA INN CAFE PERINTALMANNA
+2025-08-09 22:30:36,635 - INFO - [restaurant perinthalmanna] [OK] 79/104: 5 Guyz Biriyani Hub
+2025-08-09 22:30:41,676 - INFO - [restaurant perinthalmanna] [OK] 80/104: Golden Bakes
+2025-08-09 22:30:46,686 - INFO - [restaurant perinthalmanna] [OK] 81/104: The Cocktail Land
+2025-08-09 22:30:51,817 - INFO - [restaurant perinthalmanna] [OK] 82/104: FOOD COURT Biriyani Center
+2025-08-09 22:30:56,835 - INFO - [restaurant perinthalmanna] [OK] 83/104: Parayil
+2025-08-09 22:31:01,911 - INFO - [restaurant perinthalmanna] [OK] 84/104: Naludesham Namboodirees
+2025-08-09 22:31:06,876 - INFO - [restaurant perinthalmanna] [OK] 85/104: Food Court
+2025-08-09 22:31:11,934 - INFO - [restaurant perinthalmanna] [OK] 86/104: Royal Kayama
+2025-08-09 22:31:16,935 - INFO - [restaurant perinthalmanna] [OK] 87/104: Kudumbasree Canteen
+2025-08-09 22:31:22,346 - INFO - [restaurant perinthalmanna] [OK] 88/104: Almaaz Shawarma
+2025-08-09 22:31:27,538 - INFO - [restaurant perinthalmanna] [OK] 89/104: Shifa Hotel
+2025-08-09 22:31:32,610 - INFO - [restaurant perinthalmanna] [OK] 90/104: Pogo Fried Chicken
+2025-08-09 22:31:37,665 - INFO - [restaurant perinthalmanna] [OK] 91/104: Manis cafe
+2025-08-09 22:31:42,692 - INFO - [restaurant perinthalmanna] [OK] 92/104: Hotel Anasagar
+2025-08-09 22:31:47,738 - INFO - [restaurant perinthalmanna] [OK] 93/104: Yamama Shawaya
+2025-08-09 22:31:52,906 - INFO - [restaurant perinthalmanna] [OK] 94/104: KOZHIKKODEN BAKES
+2025-08-09 22:31:57,991 - INFO - [restaurant perinthalmanna] [OK] 95/104: Pizza Ricotta VK Mall
+2025-08-09 22:32:03,004 - INFO - [restaurant perinthalmanna] [OK] 96/104: Master cafe
+2025-08-09 22:32:08,029 - INFO - [restaurant perinthalmanna] [OK] 97/104: Ajmeer biriyani
+2025-08-09 22:32:12,981 - INFO - [restaurant perinthalmanna] [OK] 98/104: HMC Canteen
+2025-08-09 22:32:18,068 - INFO - [restaurant perinthalmanna] [OK] 99/104: Classic Restaurant
+2025-08-09 22:32:23,052 - INFO - [restaurant perinthalmanna] [OK] 100/104: Sree gokulam hotel
+2025-08-09 22:32:28,087 - INFO - [restaurant perinthalmanna] [OK] 101/104: Repaz Royale
+2025-08-09 22:32:33,169 - INFO - [restaurant perinthalmanna] [OK] 102/104: Shaji Food Lounch
+2025-08-09 22:32:33,169 - INFO - [restaurant perinthalmanna] FINAL: 102 places extracted
+2025-08-09 22:32:33,716 - INFO - Saved 102 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\restaurant_perinthalmanna.csv
+2025-08-09 22:32:33,775 - INFO - Removed duplicates, final count: 1148
+2025-08-09 22:32:33,811 - INFO - Saved 1148 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 22:32:33,812 - INFO - restaurant perinthalmanna: Found 102 places
+2025-08-09 22:32:35,814 - INFO - 
+==================================================
+2025-08-09 22:32:35,814 - INFO - Processing 20/100: restaurant nilambur
+2025-08-09 22:32:35,814 - INFO - ==================================================
+2025-08-09 22:32:50,855 - INFO - [restaurant nilambur] Found: 12 (Scroll: 1)
+2025-08-09 22:32:52,894 - INFO - [restaurant nilambur] Found: 18 (Scroll: 2)
+2025-08-09 22:32:54,928 - INFO - [restaurant nilambur] Found: 20 (Scroll: 3)
+2025-08-09 22:32:56,956 - INFO - [restaurant nilambur] Found: 26 (Scroll: 4)
+2025-08-09 22:32:59,000 - INFO - [restaurant nilambur] Found: 32 (Scroll: 5)
+2025-08-09 22:33:01,040 - INFO - [restaurant nilambur] Found: 38 (Scroll: 6)
+2025-08-09 22:33:03,069 - INFO - [restaurant nilambur] Found: 40 (Scroll: 7)
+2025-08-09 22:33:05,101 - INFO - [restaurant nilambur] Found: 46 (Scroll: 8)
+2025-08-09 22:33:07,155 - INFO - [restaurant nilambur] Found: 52 (Scroll: 9)
+2025-08-09 22:33:09,193 - INFO - [restaurant nilambur] Found: 58 (Scroll: 10)
+2025-08-09 22:33:11,225 - INFO - [restaurant nilambur] Found: 60 (Scroll: 11)
+2025-08-09 22:33:13,251 - INFO - [restaurant nilambur] Found: 66 (Scroll: 12)
+2025-08-09 22:33:15,301 - INFO - [restaurant nilambur] Found: 72 (Scroll: 13)
+2025-08-09 22:33:17,334 - INFO - [restaurant nilambur] Found: 78 (Scroll: 14)
+2025-08-09 22:33:19,373 - INFO - [restaurant nilambur] Found: 80 (Scroll: 15)
+2025-08-09 22:33:21,392 - INFO - [restaurant nilambur] Found: 86 (Scroll: 16)
+2025-08-09 22:33:23,437 - INFO - [restaurant nilambur] Found: 92 (Scroll: 17)
+2025-08-09 22:33:25,485 - INFO - [restaurant nilambur] Found: 96 (Scroll: 18)
+2025-08-09 22:33:27,505 - INFO - [restaurant nilambur] Found: 96 (Scroll: 19)
+2025-08-09 22:33:29,544 - INFO - [restaurant nilambur] Found: 96 (Scroll: 20)
+2025-08-09 22:33:31,566 - INFO - [restaurant nilambur] Found: 96 (Scroll: 21)
+2025-08-09 22:33:33,600 - INFO - [restaurant nilambur] Found: 96 (Scroll: 22)
+2025-08-09 22:33:35,638 - INFO - [restaurant nilambur] Found: 96 (Scroll: 23)
+2025-08-09 22:33:37,673 - INFO - [restaurant nilambur] Found: 96 (Scroll: 24)
+2025-08-09 22:33:39,791 - INFO - [restaurant nilambur] Found: 96 (Scroll: 25)
+2025-08-09 22:33:42,192 - INFO - [restaurant nilambur] Found: 96 (Scroll: 26)
+2025-08-09 22:33:42,192 - INFO - [restaurant nilambur] No more results after 26 scrolls
+2025-08-09 22:33:43,353 - INFO - [restaurant nilambur] Total unique listings: 89
+2025-08-09 22:33:48,337 - INFO - [restaurant nilambur] [OK] 1/89: Muzwalla Grill & Mandi, Nilambur
+2025-08-09 22:33:53,447 - INFO - [restaurant nilambur] [OK] 2/89: FARSA RESTAURANT NILAMBUR
+2025-08-09 22:33:58,447 - INFO - [restaurant nilambur] [OK] 3/89: Union Restaurant, Nilambur
+2025-08-09 22:34:03,416 - INFO - [restaurant nilambur] [OK] 4/89: Raydan Restaurant Nilambur
+2025-08-09 22:34:08,429 - INFO - [restaurant nilambur] [OK] 5/89: Udupi pure vegetarian restaurant
+2025-08-09 22:34:13,464 - INFO - [restaurant nilambur] [OK] 6/89: White Lounge Restaurant
+2025-08-09 22:34:18,456 - INFO - [restaurant nilambur] [OK] 7/89: Rahath Restaurant
+2025-08-09 22:34:23,619 - INFO - [restaurant nilambur] [OK] 8/89: CRISPELLO RESTAURANT
+2025-08-09 22:34:28,643 - INFO - [restaurant nilambur] [OK] 9/89: Foodies Nilambur
+2025-08-09 22:34:33,732 - INFO - [restaurant nilambur] [OK] 10/89: Cafe Latte™
+2025-08-09 22:34:38,801 - INFO - [restaurant nilambur] [OK] 11/89: Home Land Family Restaurant
+2025-08-09 22:34:43,825 - INFO - [restaurant nilambur] [OK] 12/89: Emmachi Biriyani
+2025-08-09 22:34:48,877 - INFO - [restaurant nilambur] [OK] 13/89: The Grill
+2025-08-09 22:34:53,903 - INFO - [restaurant nilambur] [OK] 14/89: Midway Kuzhimandi
+2025-08-09 22:34:58,984 - INFO - [restaurant nilambur] [OK] 15/89: NAYANA Restaurant
+2025-08-09 22:35:03,963 - INFO - [restaurant nilambur] [OK] 16/89: Vitamin B.B.Q Restaurant
+2025-08-09 22:35:09,024 - INFO - [restaurant nilambur] [OK] 17/89: Plamoottilrestaurant
+2025-08-09 22:35:14,092 - INFO - [restaurant nilambur] [OK] 18/89: Elite HOTEL
+2025-08-09 22:35:19,074 - INFO - [restaurant nilambur] [OK] 19/89: HOTEL PARK RESIDENCY
+2025-08-09 22:35:24,096 - INFO - [restaurant nilambur] [OK] 20/89: FOOD PARK RESTAURANT
+2025-08-09 22:35:29,156 - INFO - [restaurant nilambur] [OK] 21/89: KL 71 JC shawarbica
+2025-08-09 22:35:34,237 - INFO - [restaurant nilambur] [OK] 22/89: Juicy Nilambur
+2025-08-09 22:35:39,245 - INFO - [restaurant nilambur] [OK] 23/89: Hotel Santhi Sagar
+2025-08-09 22:35:44,342 - INFO - [restaurant nilambur] [OK] 24/89: Bapsys Biriyani Center
+2025-08-09 22:35:49,541 - INFO - [restaurant nilambur] [OK] 25/89: bbq tharavadu
+2025-08-09 22:35:54,640 - INFO - [restaurant nilambur] [OK] 26/89: Hotel Devi Palace.pure vegetarian
+2025-08-09 22:35:59,713 - INFO - [restaurant nilambur] [OK] 27/89: മനോജിന്റെ നാടന്‍ ഭക്ഷണശാല
+2025-08-09 22:36:04,740 - INFO - [restaurant nilambur] [OK] 28/89: Pogo Fried Chicken Poggop
+2025-08-09 22:36:09,765 - INFO - [restaurant nilambur] [OK] 29/89: HOTEL CITY MOON Nilamboor
+2025-08-09 22:36:14,829 - INFO - [restaurant nilambur] [OK] 30/89: Annapoorna's Veg restaurant
+2025-08-09 22:36:20,275 - INFO - [restaurant nilambur] [OK] 31/89: Vanitha Hotel
+2025-08-09 22:36:25,298 - INFO - [restaurant nilambur] [SKIP] Duplicate: Vanitha Hotel
+2025-08-09 22:36:30,317 - INFO - [restaurant nilambur] [OK] 32/89: Chillies Restaurant Wandoor
+2025-08-09 22:36:35,395 - INFO - [restaurant nilambur] [OK] 33/89: Black river thattukada
+2025-08-09 22:36:40,389 - INFO - [restaurant nilambur] [OK] 34/89: Cafe Arabica
+2025-08-09 22:36:45,597 - INFO - [restaurant nilambur] [OK] 35/89: Burger@Crown
+2025-08-09 22:36:50,594 - INFO - [restaurant nilambur] [OK] 36/89: Dosa Korner (Milma)
+2025-08-09 22:36:55,667 - INFO - [restaurant nilambur] [OK] 37/89: Smiley
+2025-08-09 22:37:00,772 - INFO - [restaurant nilambur] [OK] 38/89: നിലമ്പൂരിലെ അടിപൊളി തട്ടുകട.
+2025-08-09 22:37:05,812 - INFO - [restaurant nilambur] [OK] 39/89: Raydan Restaurant
+2025-08-09 22:37:10,933 - INFO - [restaurant nilambur] [OK] 40/89: Manalody Hotel
+2025-08-09 22:37:15,972 - INFO - [restaurant nilambur] [OK] 41/89: Soul kitchen nilambur
+2025-08-09 22:37:21,049 - INFO - [restaurant nilambur] [OK] 42/89: Memorice Nilambur
+2025-08-09 22:37:26,039 - INFO - [restaurant nilambur] [OK] 43/89: Smiley Rest Co
+2025-08-09 22:37:31,048 - INFO - [restaurant nilambur] [OK] 44/89: Vanitha Hotel
+2025-08-09 22:37:36,061 - INFO - [restaurant nilambur] [OK] 45/89: Hotel GD International's Redfort
+2025-08-09 22:37:41,174 - INFO - [restaurant nilambur] [OK] 46/89: ZARO’Z
+2025-08-09 22:37:46,259 - INFO - [restaurant nilambur] [OK] 47/89: Turkish Bakers
+2025-08-09 22:37:51,358 - INFO - [restaurant nilambur] [OK] 48/89: Mahmood Arabian Kuzhimandhi Nilambur
+2025-08-09 22:37:56,494 - INFO - [restaurant nilambur] [OK] 49/89: Spanish Bakes & Cafe
+2025-08-09 22:38:01,573 - INFO - [restaurant nilambur] [OK] 50/89: Chaliyar hotel
+2025-08-09 22:38:06,872 - INFO - [restaurant nilambur] [OK] 51/89: Hotel Plaza
+2025-08-09 22:38:11,883 - INFO - [restaurant nilambur] [OK] 52/89: PRAVASI FASTFOOD Thazhe Chandhakkunnu
+2025-08-09 22:38:16,904 - INFO - [restaurant nilambur] [OK] 53/89: SPICY VILLA RESTAURANT
+2025-08-09 22:38:21,953 - INFO - [restaurant nilambur] [OK] 54/89: B.A HOTEL (Restaurant)
+2025-08-09 22:38:27,107 - INFO - [restaurant nilambur] [OK] 55/89: RABistro Cafe
+2025-08-09 22:38:32,102 - INFO - [restaurant nilambur] [OK] 56/89: Budokan Corner
+2025-08-09 22:38:37,193 - INFO - [restaurant nilambur] [OK] 57/89: City palace Hotel
+2025-08-09 22:38:42,221 - INFO - [restaurant nilambur] [OK] 58/89: NADANS HOTEL
+2025-08-09 22:38:47,225 - INFO - [restaurant nilambur] [OK] 59/89: Kk Bakery
+2025-08-09 22:38:52,191 - INFO - [restaurant nilambur] [OK] 60/89: Union Hotel
+2025-08-09 22:38:57,208 - INFO - [restaurant nilambur] [OK] 61/89: Vishnu Coffee
+2025-08-09 22:39:02,301 - INFO - [restaurant nilambur] [OK] 62/89: Velvet Spoon
+2025-08-09 22:39:07,288 - INFO - [restaurant nilambur] [OK] 63/89: Ice World Bakery & Restaurant Nilambur
+2025-08-09 22:39:12,760 - INFO - [restaurant nilambur] [OK] 64/89: Sopanam Hotel
+2025-08-09 22:39:17,806 - INFO - [restaurant nilambur] [SKIP] Duplicate: Sopanam Hotel
+2025-08-09 22:39:22,893 - INFO - [restaurant nilambur] [OK] 65/89: Hotel Dhanya
+2025-08-09 22:39:27,916 - INFO - [restaurant nilambur] [OK] 66/89: Minar family thattukada
+2025-08-09 22:39:32,961 - INFO - [restaurant nilambur] [OK] 67/89: Hotel tasty
+2025-08-09 22:39:38,061 - INFO - [restaurant nilambur] [OK] 68/89: SPICY SEAFOOD RESTAURANT
+2025-08-09 22:39:43,081 - INFO - [restaurant nilambur] [OK] 69/89: Unions United Bakery
+2025-08-09 22:39:48,280 - INFO - [restaurant nilambur] [OK] 70/89: Hotel New City
+2025-08-09 22:39:53,305 - INFO - [restaurant nilambur] [OK] 71/89: Fudbee Online Food Delivery Nilambur, Wandoor, Manjeri, all in kerala
+2025-08-09 22:39:58,607 - INFO - [restaurant nilambur] [OK] 72/89: Daditto
+2025-08-09 22:40:03,502 - INFO - [restaurant nilambur] [OK] 73/89: Rose International Hotel
+2025-08-09 22:40:08,453 - INFO - [restaurant nilambur] [OK] 74/89: ആമീസ്
+2025-08-09 22:40:13,432 - INFO - [restaurant nilambur] [OK] 75/89: കല്യാണപ്പുര തട്ടുകട
+2025-08-09 22:40:18,421 - INFO - [restaurant nilambur] [OK] 76/89: Gayathri Thattukada
+2025-08-09 22:40:23,634 - INFO - [restaurant nilambur] [OK] 77/89: Beirut Restaurant & Food Court
+2025-08-09 22:40:28,745 - INFO - [restaurant nilambur] [OK] 78/89: Mandhi World
+2025-08-09 22:40:34,020 - INFO - [restaurant nilambur] [OK] 79/89: Arabian Majlis
+2025-08-09 22:40:38,990 - INFO - [restaurant nilambur] [OK] 80/89: STAR FAMILY RESTAURANT
+2025-08-09 22:40:44,014 - INFO - [restaurant nilambur] [OK] 81/89: Paris hotel
+2025-08-09 22:40:49,454 - INFO - [restaurant nilambur] [OK] 82/89: Junction RESTAURANT
+2025-08-09 22:40:54,561 - INFO - [restaurant nilambur] [SKIP] Duplicate: Junction RESTAURANT
+2025-08-09 22:40:59,564 - INFO - [restaurant nilambur] [OK] 83/89: തവക്കൽ ബീഫ്സ്റ്റാൾ
+2025-08-09 22:41:04,528 - INFO - [restaurant nilambur] [OK] 84/89: Momo Hugg Mukkatta
+2025-08-09 22:41:09,637 - INFO - [restaurant nilambur] [OK] 85/89: PAM FISH HUB
+2025-08-09 22:41:14,617 - INFO - [restaurant nilambur] [OK] 86/89: ARABIAN OUDH & ATTAR
+2025-08-09 22:41:14,618 - INFO - [restaurant nilambur] FINAL: 86 places extracted
+2025-08-09 22:41:15,271 - INFO - Saved 86 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\restaurant_nilambur.csv
+2025-08-09 22:41:15,312 - INFO - Removed duplicates, final count: 1234
+2025-08-09 22:41:15,358 - INFO - Saved 1234 places to scraping_results\malappuram_businesses_enhanced_20250809_202616\Food_Businesses\Food_Businesses_all.csv
+2025-08-09 22:41:15,360 - INFO - restaurant nilambur: Found 86 places
+2025-08-09 22:41:17,362 - INFO - 
+==================================================
+2025-08-09 22:41:17,362 - INFO - Processing 21/100: restaurant tirur
+2025-08-09 22:41:17,362 - INFO - ==================================================
+2025-08-09 22:41:30,981 - ERROR - [restaurant tirur] ERROR during page operations: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.google.com/maps/@32.9817464,70.1930781,3.67z?
+Call log:
+  - navigating to "https://www.google.com/maps/@32.9817464,70.1930781,3.67z?", waiting until "load"
+
+2025-08-09 22:41:31,409 - WARNING - restaurant tirur: No places found
+2025-08-09 22:41:33,412 - INFO - 
+==================================================
+2025-08-09 22:41:33,412 - INFO - Processing 22/100: restaurant ponnani
+2025-08-09 22:41:33,413 - INFO - ==================================================
+2025-08-09 22:41:57,545 - ERROR - [restaurant ponnani] ERROR during page operations: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.google.com/maps/@32.9817464,70.1930781,3.67z?
+Call log:
+  - navigating to "https://www.google.com/maps/@32.9817464,70.1930781,3.67z?", waiting until "load"
+
+2025-08-09 22:41:57,938 - WARNING - restaurant ponnani: No places found
+2025-08-09 22:41:59,941 - INFO - 
+==================================================
+2025-08-09 22:41:59,941 - INFO - Processing 23/100: restaurant kondotty
+2025-08-09 22:41:59,941 - INFO - ==================================================
+2025-08-09 22:42:23,863 - ERROR - [restaurant kondotty] ERROR during page operations: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.google.com/maps/@32.9817464,70.1930781,3.67z?
+Call log:
+  - navigating to "https://www.google.com/maps/@32.9817464,70.1930781,3.67z?", waiting until "load"
+
+2025-08-09 22:42:24,271 - WARNING - restaurant kondotty: No places found
+2025-08-09 22:42:26,274 - INFO - 
+==================================================
+2025-08-09 22:42:26,274 - INFO - Processing 24/100: restaurant tirurangadi
+2025-08-09 22:42:26,274 - INFO - ==================================================

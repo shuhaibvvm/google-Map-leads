@@ -1,0 +1,6 @@
+pandas
+numpy
+playwright
+requests
+os
+argparse

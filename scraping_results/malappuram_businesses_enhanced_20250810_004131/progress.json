@@ -1,0 +1,18 @@
+{
+  "total_keywords": 116,
+  "completed": 90,
+  "failed": 0,
+  "total_places": 5075,
+  "categories": {
+    "Food_Businesses": 1253,
+    "Event_Catering": 773,
+    "Wholesale_Frozen": 277,
+    "Specialty_Food": 1298,
+    "Large_Scale_Buyers": 148,
+    "Other": 1326
+  },
+  "start_time": "2025-08-10T00:41:31.452000",
+  "last_completed_keyword": "grocery store tirurangadi",
+  "failed_keywords": [],
+  "end_time": "2025-08-10T08:52:34.106947"
+}
